@@ -23,3 +23,21 @@ MOBI/AZW3 are not provided (no KindleGen/Calibre in the build environment); EPUB
   - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-07-scifi-01/scifi-01-all-formats.zip
 - **The Compass of Willow Creek** (`teen-01`) — Teen / Young Adult, 16505 words, 66 PDF pages, $6.99 — Three friends in the coastal town of Willow Creek investigate why their lighthouse went dark twenty years ago, uncover a hidden notebook and a town trust, and work with neighbours, teachers, and a new keeper to restore the light for everyone.
   - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-08-teen-01/teen-01-all-formats.zip
+
+## Batch 2
+- **The Winter She Left the Harbor** (`mature-01`) — Mature / Adult Drama, 13779 words, 51 PDF pages, $4.99 — After twenty years of marriage, a harbor-town schoolteacher walks out of the life she built and must decide what a second act is worth when everyone she loves disagrees about it. An adult drama about leaving, staying, and starting over at fifty.
+  - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-09-mature-01/mature-01-all-formats.zip
+- **Small Rooms, Open Doors** (`selfhelp-01`) — Self-Help / Inspirational, 13288 words, 50 PDF pages, $4.99 — A practical, warm guide to rebuilding a life in small steps: clearing one room, keeping one promise, and letting a calmer routine grow from there. Twelve short chapters of exercises, stories, and honest advice.
+  - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-10-selfhelp-01/selfhelp-01-all-formats.zip
+- **The Salt Road Ledger** (`history-01`) — History, 13582 words, 50 PDF pages, $4.99 — In 1873, a young ledger-keeper for a salt caravan crossing the high desert discovers that the company's books hide a second trade — and that the desert remembers every debt. Historical fiction of caravans, ledgers, and loyalties tested by drought.
+  - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-11-history-01/history-01-all-formats.zip
+- **Nine Days Down the Kestrel River** (`adventure-01`) — Adventure, 13791 words, 50 PDF pages, $4.99 — Three river guides, one broken map, and nine days of rapids, flooded forest, and a gorge no one has run since the old survey. An adventure about reading water, trusting a crew, and getting home with the story intact.
+  - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-12-adventure-01/adventure-01-all-formats.zip
+- **A Life in Two Harbors** (`biography-01`) — Biography, 13494 words, 50 PDF pages, $4.99 — The fictional memoir of a lighthouse keeper's daughter who became a harbor pilot in two very different ports, told in her own voice: storms, apprenticeships, and the quiet arithmetic of a working life on the water.
+  - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-13-biography-01/biography-01-all-formats.zip
+- **Field Notes for a Quiet Year** (`poetry-01`) — Poetry, 14412 words, 58 PDF pages, $4.99 — Sixty short poems following one year in a small garden and the town around it — seasons, neighbors, work, weather, and the small decisions that add up to a life. A poetry collection for slow reading.
+  - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-14-poetry-01/poetry-01-all-formats.zip
+- **The Weight of Ordinary Days** (`philosophy-01`) — Philosophy, 13324 words, 52 PDF pages, $4.99 — Twelve essays on the questions ordinary life keeps asking: what a promise is worth, why boredom matters, how attention becomes a kind of care, and what it means to live well without an audience. Clear, plain-spoken philosophy for everyday readers.
+  - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-15-philosophy-01/philosophy-01-all-formats.zip
+- **Walking the Old Coast Road** (`travel-01`) — Travel, 13614 words, 51 PDF pages, $4.99 — A walking narrative along a fictional stretch of old coast road: fishing villages, cliff paths, ferry crossings, and the people who live where the road meets the sea. Travel writing about going slowly and looking properly.
+  - All formats zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-16-travel-01/travel-01-all-formats.zip
