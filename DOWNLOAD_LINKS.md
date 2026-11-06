@@ -1609,3 +1609,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/feature.png
 - hatter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/hatter-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 21
+
+## The Dyer of Woadfield (dyer-01)
+- dyer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-161-dyer-01/dyer-01.epub
+- dyer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-161-dyer-01/dyer-01.pdf
+- dyer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-161-dyer-01/dyer-01.html
+- dyer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-161-dyer-01/dyer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-161-dyer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-161-dyer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-161-dyer-01/feature.png
+- dyer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-161-dyer-01/dyer-01-all-formats.zip
+
+## The Fuller of Dursley (fuller-01)
+- fuller-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-162-fuller-01/fuller-01.epub
+- fuller-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-162-fuller-01/fuller-01.pdf
+- fuller-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-162-fuller-01/fuller-01.html
+- fuller-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-162-fuller-01/fuller-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-162-fuller-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-162-fuller-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-162-fuller-01/feature.png
+- fuller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-162-fuller-01/fuller-01-all-formats.zip
+
+## The Spinner of Flaxford (spinner-01)
+- spinner-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-163-spinner-01/spinner-01.epub
+- spinner-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-163-spinner-01/spinner-01.pdf
+- spinner-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-163-spinner-01/spinner-01.html
+- spinner-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-163-spinner-01/spinner-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-163-spinner-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-163-spinner-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-163-spinner-01/feature.png
+- spinner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-163-spinner-01/spinner-01-all-formats.zip
+
+## The Knitter of Nettleford (knitter-01)
+- knitter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-164-knitter-01/knitter-01.epub
+- knitter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-164-knitter-01/knitter-01.pdf
+- knitter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-164-knitter-01/knitter-01.html
+- knitter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-164-knitter-01/knitter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-164-knitter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-164-knitter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-164-knitter-01/feature.png
+- knitter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-164-knitter-01/knitter-01-all-formats.zip
+
+## The Embroiderer of Needlewick (embroiderer-01)
+- embroiderer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-165-embroiderer-01/embroiderer-01.epub
+- embroiderer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-165-embroiderer-01/embroiderer-01.pdf
+- embroiderer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-165-embroiderer-01/embroiderer-01.html
+- embroiderer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-165-embroiderer-01/embroiderer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-165-embroiderer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-165-embroiderer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-165-embroiderer-01/feature.png
+- embroiderer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-165-embroiderer-01/embroiderer-01-all-formats.zip
+
+## The Currier of Barkwell (currier-01)
+- currier-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-166-currier-01/currier-01.epub
+- currier-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-166-currier-01/currier-01.pdf
+- currier-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-166-currier-01/currier-01.html
+- currier-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-166-currier-01/currier-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-166-currier-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-166-currier-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-166-currier-01/feature.png
+- currier-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-166-currier-01/currier-01-all-formats.zip
+
+## The Glover of Nettlefold (glover-01)
+- glover-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-167-glover-01/glover-01.epub
+- glover-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-167-glover-01/glover-01.pdf
+- glover-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-167-glover-01/glover-01.html
+- glover-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-167-glover-01/glover-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-167-glover-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-167-glover-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-167-glover-01/feature.png
+- glover-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-167-glover-01/glover-01-all-formats.zip
+
+## The Bowyer of Yewdale (bowyer-01)
+- bowyer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/bowyer-01.epub
+- bowyer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/bowyer-01.pdf
+- bowyer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/bowyer-01.html
+- bowyer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/bowyer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/feature.png
+- bowyer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/bowyer-01-all-formats.zip
+
