@@ -1194,3 +1194,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/feature.png
 - milliner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/milliner-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 16
+
+## The Saddler of Bramblewood (saddler-01)
+- saddler-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-121-saddler-01/saddler-01.epub
+- saddler-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-121-saddler-01/saddler-01.pdf
+- saddler-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-121-saddler-01/saddler-01.html
+- saddler-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-121-saddler-01/saddler-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-121-saddler-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-121-saddler-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-121-saddler-01/feature.png
+- saddler-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-121-saddler-01/saddler-01-all-formats.zip
+
+## The Cooper of Hopford (cooper-01)
+- cooper-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-122-cooper-01/cooper-01.epub
+- cooper-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-122-cooper-01/cooper-01.pdf
+- cooper-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-122-cooper-01/cooper-01.html
+- cooper-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-122-cooper-01/cooper-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-122-cooper-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-122-cooper-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-122-cooper-01/feature.png
+- cooper-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-122-cooper-01/cooper-01-all-formats.zip
+
+## The Tinsmith of Barleywick (tinsmith-01)
+- tinsmith-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-123-tinsmith-01/tinsmith-01.epub
+- tinsmith-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-123-tinsmith-01/tinsmith-01.pdf
+- tinsmith-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-123-tinsmith-01/tinsmith-01.html
+- tinsmith-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-123-tinsmith-01/tinsmith-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-123-tinsmith-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-123-tinsmith-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-123-tinsmith-01/feature.png
+- tinsmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-123-tinsmith-01/tinsmith-01-all-formats.zip
+
+## The Basketmaker of Withyford (basketmaker-01)
+- basketmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-124-basketmaker-01/basketmaker-01.epub
+- basketmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-124-basketmaker-01/basketmaker-01.pdf
+- basketmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-124-basketmaker-01/basketmaker-01.html
+- basketmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-124-basketmaker-01/basketmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-124-basketmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-124-basketmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-124-basketmaker-01/feature.png
+- basketmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-124-basketmaker-01/basketmaker-01-all-formats.zip
+
+## The Silversmith of Lavenham (silversmith-01)
+- silversmith-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-125-silversmith-01/silversmith-01.epub
+- silversmith-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-125-silversmith-01/silversmith-01.pdf
+- silversmith-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-125-silversmith-01/silversmith-01.html
+- silversmith-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-125-silversmith-01/silversmith-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-125-silversmith-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-125-silversmith-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-125-silversmith-01/feature.png
+- silversmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-125-silversmith-01/silversmith-01-all-formats.zip
+
+## The Goldsmith of Atherstone (goldsmith-01)
+- goldsmith-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-126-goldsmith-01/goldsmith-01.epub
+- goldsmith-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-126-goldsmith-01/goldsmith-01.pdf
+- goldsmith-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-126-goldsmith-01/goldsmith-01.html
+- goldsmith-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-126-goldsmith-01/goldsmith-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-126-goldsmith-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-126-goldsmith-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-126-goldsmith-01/feature.png
+- goldsmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-126-goldsmith-01/goldsmith-01-all-formats.zip
+
+## The Ropemaker of Havenwick (ropemaker-01)
+- ropemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-127-ropemaker-01/ropemaker-01.epub
+- ropemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-127-ropemaker-01/ropemaker-01.pdf
+- ropemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-127-ropemaker-01/ropemaker-01.html
+- ropemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-127-ropemaker-01/ropemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-127-ropemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-127-ropemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-127-ropemaker-01/feature.png
+- ropemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-127-ropemaker-01/ropemaker-01-all-formats.zip
+
+## The Engraver of Barnham (engraver-01)
+- engraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/engraver-01.epub
+- engraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/engraver-01.pdf
+- engraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/engraver-01.html
+- engraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/engraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/feature.png
+- engraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/engraver-01-all-formats.zip
+
