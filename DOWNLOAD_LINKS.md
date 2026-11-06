@@ -1858,3 +1858,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/feature.png
 - miller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/miller-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 24
+
+## The Maltster of Barleyham (maltster-01)
+- maltster-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-185-maltster-01/maltster-01.epub
+- maltster-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-185-maltster-01/maltster-01.pdf
+- maltster-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-185-maltster-01/maltster-01.html
+- maltster-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-185-maltster-01/maltster-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-185-maltster-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-185-maltster-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-185-maltster-01/feature.png
+- maltster-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-185-maltster-01/maltster-01-all-formats.zip
+
+## The Hop Grower of Bineford (hopgrower-01)
+- hopgrower-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-186-hopgrower-01/hopgrower-01.epub
+- hopgrower-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-186-hopgrower-01/hopgrower-01.pdf
+- hopgrower-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-186-hopgrower-01/hopgrower-01.html
+- hopgrower-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-186-hopgrower-01/hopgrower-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-186-hopgrower-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-186-hopgrower-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-186-hopgrower-01/feature.png
+- hopgrower-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-186-hopgrower-01/hopgrower-01-all-formats.zip
+
+## The Cider Maker of Appleford (cidermaker-01)
+- cidermaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-187-cidermaker-01/cidermaker-01.epub
+- cidermaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-187-cidermaker-01/cidermaker-01.pdf
+- cidermaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-187-cidermaker-01/cidermaker-01.html
+- cidermaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-187-cidermaker-01/cidermaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-187-cidermaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-187-cidermaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-187-cidermaker-01/feature.png
+- cidermaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-187-cidermaker-01/cidermaker-01-all-formats.zip
+
+## The Butcher of Mudford (butcher-01)
+- butcher-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-188-butcher-01/butcher-01.epub
+- butcher-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-188-butcher-01/butcher-01.pdf
+- butcher-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-188-butcher-01/butcher-01.html
+- butcher-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-188-butcher-01/butcher-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-188-butcher-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-188-butcher-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-188-butcher-01/feature.png
+- butcher-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-188-butcher-01/butcher-01-all-formats.zip
+
+## The Fishmonger of Saltwharf (fishmonger-01)
+- fishmonger-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-189-fishmonger-01/fishmonger-01.epub
+- fishmonger-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-189-fishmonger-01/fishmonger-01.pdf
+- fishmonger-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-189-fishmonger-01/fishmonger-01.html
+- fishmonger-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-189-fishmonger-01/fishmonger-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-189-fishmonger-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-189-fishmonger-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-189-fishmonger-01/feature.png
+- fishmonger-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-189-fishmonger-01/fishmonger-01-all-formats.zip
+
+## The Poulterer of Henford (poulterer-01)
+- poulterer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-190-poulterer-01/poulterer-01.epub
+- poulterer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-190-poulterer-01/poulterer-01.pdf
+- poulterer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-190-poulterer-01/poulterer-01.html
+- poulterer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-190-poulterer-01/poulterer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-190-poulterer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-190-poulterer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-190-poulterer-01/feature.png
+- poulterer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-190-poulterer-01/poulterer-01-all-formats.zip
+
+## The Cheesemonger of Curdwick (cheesemonger-01)
+- cheesemonger-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-191-cheesemonger-01/cheesemonger-01.epub
+- cheesemonger-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-191-cheesemonger-01/cheesemonger-01.pdf
+- cheesemonger-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-191-cheesemonger-01/cheesemonger-01.html
+- cheesemonger-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-191-cheesemonger-01/cheesemonger-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-191-cheesemonger-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-191-cheesemonger-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-191-cheesemonger-01/feature.png
+- cheesemonger-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-191-cheesemonger-01/cheesemonger-01-all-formats.zip
+
+## The Corn Merchant of Ryeford (cornmerchant-01)
+- cornmerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/cornmerchant-01.epub
+- cornmerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/cornmerchant-01.pdf
+- cornmerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/cornmerchant-01.html
+- cornmerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/cornmerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/feature.png
+- cornmerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/cornmerchant-01-all-formats.zip
+
