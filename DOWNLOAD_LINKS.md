@@ -2024,3 +2024,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/feature.png
 - nailer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/nailer-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 26
+
+## The Cabinetmaker of Elmford (cabinetmaker-01)
+- cabinetmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-201-cabinetmaker-01/cabinetmaker-01.epub
+- cabinetmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-201-cabinetmaker-01/cabinetmaker-01.pdf
+- cabinetmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-201-cabinetmaker-01/cabinetmaker-01.html
+- cabinetmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-201-cabinetmaker-01/cabinetmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-201-cabinetmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-201-cabinetmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-201-cabinetmaker-01/feature.png
+- cabinetmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-201-cabinetmaker-01/cabinetmaker-01-all-formats.zip
+
+## The Boatbuilder of Rushford (boatbuilder-01)
+- boatbuilder-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-202-boatbuilder-01/boatbuilder-01.epub
+- boatbuilder-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-202-boatbuilder-01/boatbuilder-01.pdf
+- boatbuilder-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-202-boatbuilder-01/boatbuilder-01.html
+- boatbuilder-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-202-boatbuilder-01/boatbuilder-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-202-boatbuilder-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-202-boatbuilder-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-202-boatbuilder-01/feature.png
+- boatbuilder-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-202-boatbuilder-01/boatbuilder-01-all-formats.zip
+
+## The Sailor of Porthleven (sailor-01)
+- sailor-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-203-sailor-01/sailor-01.epub
+- sailor-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-203-sailor-01/sailor-01.pdf
+- sailor-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-203-sailor-01/sailor-01.html
+- sailor-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-203-sailor-01/sailor-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-203-sailor-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-203-sailor-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-203-sailor-01/feature.png
+- sailor-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-203-sailor-01/sailor-01-all-formats.zip
+
+## The Brickmaker of Clayford (brickmaker-01)
+- brickmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-204-brickmaker-01/brickmaker-01.epub
+- brickmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-204-brickmaker-01/brickmaker-01.pdf
+- brickmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-204-brickmaker-01/brickmaker-01.html
+- brickmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-204-brickmaker-01/brickmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-204-brickmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-204-brickmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-204-brickmaker-01/feature.png
+- brickmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-204-brickmaker-01/brickmaker-01-all-formats.zip
+
+## The Ink Maker of Gallford (inkmaker-01)
+- inkmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-205-inkmaker-01/inkmaker-01.epub
+- inkmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-205-inkmaker-01/inkmaker-01.pdf
+- inkmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-205-inkmaker-01/inkmaker-01.html
+- inkmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-205-inkmaker-01/inkmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-205-inkmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-205-inkmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-205-inkmaker-01/feature.png
+- inkmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-205-inkmaker-01/inkmaker-01-all-formats.zip
+
+## The Lace Maker of Pinwick (lacemaker-01)
+- lacemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-206-lacemaker-01/lacemaker-01.epub
+- lacemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-206-lacemaker-01/lacemaker-01.pdf
+- lacemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-206-lacemaker-01/lacemaker-01.html
+- lacemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-206-lacemaker-01/lacemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-206-lacemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-206-lacemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-206-lacemaker-01/feature.png
+- lacemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-206-lacemaker-01/lacemaker-01-all-formats.zip
+
+## The Apothecary of Stillford (apothecary-01)
+- apothecary-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-207-apothecary-01/apothecary-01.epub
+- apothecary-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-207-apothecary-01/apothecary-01.pdf
+- apothecary-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-207-apothecary-01/apothecary-01.html
+- apothecary-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-207-apothecary-01/apothecary-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-207-apothecary-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-207-apothecary-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-207-apothecary-01/feature.png
+- apothecary-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-207-apothecary-01/apothecary-01-all-formats.zip
+
+## The Drover of Aysgarth (drover-01)
+- drover-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/drover-01.epub
+- drover-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/drover-01.pdf
+- drover-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/drover-01.html
+- drover-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/drover-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/feature.png
+- drover-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/drover-01-all-formats.zip
+
