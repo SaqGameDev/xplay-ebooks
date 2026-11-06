@@ -613,3 +613,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/feature.png
 - darkfantasy-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/darkfantasy-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 9
+
+## The Last Honest Man in Greyport (noir-01)
+- noir-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-65-noir-01/noir-01.epub
+- noir-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-65-noir-01/noir-01.pdf
+- noir-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-65-noir-01/noir-01.html
+- noir-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-65-noir-01/noir-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-65-noir-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-65-noir-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-65-noir-01/feature.png
+- noir-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-65-noir-01/noir-01-all-formats.zip
+
+## The Ghost Who Kept the Light (paranormalromance-01)
+- paranormalromance-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-66-paranormalromance-01/paranormalromance-01.epub
+- paranormalromance-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-66-paranormalromance-01/paranormalromance-01.pdf
+- paranormalromance-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-66-paranormalromance-01/paranormalromance-01.html
+- paranormalromance-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-66-paranormalromance-01/paranormalromance-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-66-paranormalromance-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-66-paranormalromance-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-66-paranormalromance-01/feature.png
+- paranormalromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-66-paranormalromance-01/paranormalromance-01-all-formats.zip
+
+## The Quiet Frequency (sciencethriller-01)
+- sciencethriller-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-67-sciencethriller-01/sciencethriller-01.epub
+- sciencethriller-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-67-sciencethriller-01/sciencethriller-01.pdf
+- sciencethriller-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-67-sciencethriller-01/sciencethriller-01.html
+- sciencethriller-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-67-sciencethriller-01/sciencethriller-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-67-sciencethriller-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-67-sciencethriller-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-67-sciencethriller-01/feature.png
+- sciencethriller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-67-sciencethriller-01/sciencethriller-01-all-formats.zip
+
+## The Saga of the Black Gull (viking-01)
+- viking-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-68-viking-01/viking-01.epub
+- viking-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-68-viking-01/viking-01.pdf
+- viking-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-68-viking-01/viking-01.html
+- viking-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-68-viking-01/viking-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-68-viking-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-68-viking-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-68-viking-01/feature.png
+- viking-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-68-viking-01/viking-01-all-formats.zip
+
+## The Night the Dead Walked Home (zombie-01)
+- zombie-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-69-zombie-01/zombie-01.epub
+- zombie-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-69-zombie-01/zombie-01.pdf
+- zombie-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-69-zombie-01/zombie-01.html
+- zombie-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-69-zombie-01/zombie-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-69-zombie-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-69-zombie-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-69-zombie-01/feature.png
+- zombie-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-69-zombie-01/zombie-01-all-formats.zip
+
+## The Man Who Stole the River (crime-01)
+- crime-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-70-crime-01/crime-01.epub
+- crime-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-70-crime-01/crime-01.pdf
+- crime-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-70-crime-01/crime-01.html
+- crime-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-70-crime-01/crime-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-70-crime-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-70-crime-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-70-crime-01/feature.png
+- crime-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-70-crime-01/crime-01-all-formats.zip
+
+## The Winter Station (coldwar-01)
+- coldwar-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-71-coldwar-01/coldwar-01.epub
+- coldwar-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-71-coldwar-01/coldwar-01.pdf
+- coldwar-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-71-coldwar-01/coldwar-01.html
+- coldwar-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-71-coldwar-01/coldwar-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-71-coldwar-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-71-coldwar-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-71-coldwar-01/feature.png
+- coldwar-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-71-coldwar-01/coldwar-01-all-formats.zip
+
+## The Last Letter from Red Rock (westernromance-01)
+- westernromance-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/westernromance-01.epub
+- westernromance-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/westernromance-01.pdf
+- westernromance-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/westernromance-01.html
+- westernromance-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/westernromance-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/feature.png
+- westernromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/westernromance-01-all-formats.zip
+
