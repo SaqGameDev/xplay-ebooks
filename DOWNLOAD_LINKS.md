@@ -945,3 +945,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/feature.png
 - observatory-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/observatory-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 13
+
+## The Forge at Ember Lane (blacksmith-01)
+- blacksmith-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-97-blacksmith-01/blacksmith-01.epub
+- blacksmith-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-97-blacksmith-01/blacksmith-01.pdf
+- blacksmith-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-97-blacksmith-01/blacksmith-01.html
+- blacksmith-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-97-blacksmith-01/blacksmith-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-97-blacksmith-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-97-blacksmith-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-97-blacksmith-01/feature.png
+- blacksmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-97-blacksmith-01/blacksmith-01-all-formats.zip
+
+## The Catalogue of Lost Things (librarian-01)
+- librarian-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-98-librarian-01/librarian-01.epub
+- librarian-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-98-librarian-01/librarian-01.pdf
+- librarian-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-98-librarian-01/librarian-01.html
+- librarian-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-98-librarian-01/librarian-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-98-librarian-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-98-librarian-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-98-librarian-01/feature.png
+- librarian-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-98-librarian-01/librarian-01-all-formats.zip
+
+## The Mapmaker of the Hollow Coast (cartographer-01)
+- cartographer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-99-cartographer-01/cartographer-01.epub
+- cartographer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-99-cartographer-01/cartographer-01.pdf
+- cartographer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-99-cartographer-01/cartographer-01.html
+- cartographer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-99-cartographer-01/cartographer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-99-cartographer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-99-cartographer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-99-cartographer-01/feature.png
+- cartographer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-99-cartographer-01/cartographer-01-all-formats.zip
+
+## The Honey Thief of Eldermere (beekeeper-01)
+- beekeeper-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-100-beekeeper-01/beekeeper-01.epub
+- beekeeper-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-100-beekeeper-01/beekeeper-01.pdf
+- beekeeper-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-100-beekeeper-01/beekeeper-01.html
+- beekeeper-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-100-beekeeper-01/beekeeper-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-100-beekeeper-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-100-beekeeper-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-100-beekeeper-01/feature.png
+- beekeeper-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-100-beekeeper-01/beekeeper-01-all-formats.zip
+
+## The Thirteenth Hour of Bellhaven (clocktower-01)
+- clocktower-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-101-clocktower-01/clocktower-01.epub
+- clocktower-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-101-clocktower-01/clocktower-01.pdf
+- clocktower-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-101-clocktower-01/clocktower-01.html
+- clocktower-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-101-clocktower-01/clocktower-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-101-clocktower-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-101-clocktower-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-101-clocktower-01/feature.png
+- clocktower-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-101-clocktower-01/clocktower-01-all-formats.zip
+
+## The Last Night at the Golden Spur (saloon-01)
+- saloon-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-102-saloon-01/saloon-01.epub
+- saloon-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-102-saloon-01/saloon-01.pdf
+- saloon-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-102-saloon-01/saloon-01.html
+- saloon-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-102-saloon-01/saloon-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-102-saloon-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-102-saloon-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-102-saloon-01/feature.png
+- saloon-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-102-saloon-01/saloon-01-all-formats.zip
+
+## The Long Orbit Home (astronaut-01)
+- astronaut-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-103-astronaut-01/astronaut-01.epub
+- astronaut-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-103-astronaut-01/astronaut-01.pdf
+- astronaut-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-103-astronaut-01/astronaut-01.html
+- astronaut-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-103-astronaut-01/astronaut-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-103-astronaut-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-103-astronaut-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-103-astronaut-01/feature.png
+- astronaut-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-103-astronaut-01/astronaut-01-all-formats.zip
+
+## The Last Wheel of Summer (cheesemaker-01)
+- cheesemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/cheesemaker-01.epub
+- cheesemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/cheesemaker-01.pdf
+- cheesemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/cheesemaker-01.html
+- cheesemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/cheesemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/feature.png
+- cheesemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/cheesemaker-01-all-formats.zip
+
