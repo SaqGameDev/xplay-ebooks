@@ -2605,3 +2605,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/feature.png
 - whitesmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/whitesmith-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 33
+
+## The Brass Founder of Brassford (brassfounder-01)
+- brassfounder-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-257-brassfounder-01/brassfounder-01.epub
+- brassfounder-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-257-brassfounder-01/brassfounder-01.pdf
+- brassfounder-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-257-brassfounder-01/brassfounder-01.html
+- brassfounder-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-257-brassfounder-01/brassfounder-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-257-brassfounder-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-257-brassfounder-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-257-brassfounder-01/feature.png
+- brassfounder-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-257-brassfounder-01/brassfounder-01-all-formats.zip
+
+## The Barber of Razorford (barber-01)
+- barber-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-258-barber-01/barber-01.epub
+- barber-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-258-barber-01/barber-01.pdf
+- barber-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-258-barber-01/barber-01.html
+- barber-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-258-barber-01/barber-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-258-barber-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-258-barber-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-258-barber-01/feature.png
+- barber-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-258-barber-01/barber-01-all-formats.zip
+
+## The Herbalist of Wortford (herbalist-01)
+- herbalist-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-259-herbalist-01/herbalist-01.epub
+- herbalist-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-259-herbalist-01/herbalist-01.pdf
+- herbalist-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-259-herbalist-01/herbalist-01.html
+- herbalist-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-259-herbalist-01/herbalist-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-259-herbalist-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-259-herbalist-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-259-herbalist-01/feature.png
+- herbalist-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-259-herbalist-01/herbalist-01-all-formats.zip
+
+## The Bellringer of Pealford (bellringer-01)
+- bellringer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-260-bellringer-01/bellringer-01.epub
+- bellringer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-260-bellringer-01/bellringer-01.pdf
+- bellringer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-260-bellringer-01/bellringer-01.html
+- bellringer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-260-bellringer-01/bellringer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-260-bellringer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-260-bellringer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-260-bellringer-01/feature.png
+- bellringer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-260-bellringer-01/bellringer-01-all-formats.zip
+
+## The Furrier of Peltford (furrier-01)
+- furrier-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-261-furrier-01/furrier-01.epub
+- furrier-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-261-furrier-01/furrier-01.pdf
+- furrier-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-261-furrier-01/furrier-01.html
+- furrier-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-261-furrier-01/furrier-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-261-furrier-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-261-furrier-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-261-furrier-01/feature.png
+- furrier-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-261-furrier-01/furrier-01-all-formats.zip
+
+## The Beadle of Corinthford (beadle-01)
+- beadle-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-262-beadle-01/beadle-01.epub
+- beadle-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-262-beadle-01/beadle-01.pdf
+- beadle-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-262-beadle-01/beadle-01.html
+- beadle-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-262-beadle-01/beadle-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-262-beadle-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-262-beadle-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-262-beadle-01/feature.png
+- beadle-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-262-beadle-01/beadle-01-all-formats.zip
+
+## The Mole Catcher of Burrowford (molecatcher-01)
+- molecatcher-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-263-molecatcher-01/molecatcher-01.epub
+- molecatcher-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-263-molecatcher-01/molecatcher-01.pdf
+- molecatcher-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-263-molecatcher-01/molecatcher-01.html
+- molecatcher-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-263-molecatcher-01/molecatcher-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-263-molecatcher-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-263-molecatcher-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-263-molecatcher-01/feature.png
+- molecatcher-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-263-molecatcher-01/molecatcher-01-all-formats.zip
+
+## The Leadworker of Plumbford (leadworker-01)
+- leadworker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/leadworker-01.epub
+- leadworker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/leadworker-01.pdf
+- leadworker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/leadworker-01.html
+- leadworker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/leadworker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/feature.png
+- leadworker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/leadworker-01-all-formats.zip
+
