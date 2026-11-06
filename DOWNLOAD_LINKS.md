@@ -2107,3 +2107,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/feature.png
 - drover-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-208-drover-01/drover-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 26
+
+## The Ostler of Bridleford (ostler-01)
+- ostler-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-209-ostler-01/ostler-01.epub
+- ostler-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-209-ostler-01/ostler-01.pdf
+- ostler-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-209-ostler-01/ostler-01.html
+- ostler-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-209-ostler-01/ostler-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-209-ostler-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-209-ostler-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-209-ostler-01/feature.png
+- ostler-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-209-ostler-01/ostler-01-all-formats.zip
+
+## The Collier of Coalbrook (collier-01)
+- collier-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-210-collier-01/collier-01.epub
+- collier-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-210-collier-01/collier-01.pdf
+- collier-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-210-collier-01/collier-01.html
+- collier-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-210-collier-01/collier-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-210-collier-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-210-collier-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-210-collier-01/feature.png
+- collier-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-210-collier-01/collier-01-all-formats.zip
+
+## The Gamekeeper of Stagshaw (gamekeeper-01)
+- gamekeeper-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-211-gamekeeper-01/gamekeeper-01.epub
+- gamekeeper-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-211-gamekeeper-01/gamekeeper-01.pdf
+- gamekeeper-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-211-gamekeeper-01/gamekeeper-01.html
+- gamekeeper-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-211-gamekeeper-01/gamekeeper-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-211-gamekeeper-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-211-gamekeeper-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-211-gamekeeper-01/feature.png
+- gamekeeper-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-211-gamekeeper-01/gamekeeper-01-all-formats.zip
+
+## The Forester of Dunwood (forester-01)
+- forester-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-212-forester-01/forester-01.epub
+- forester-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-212-forester-01/forester-01.pdf
+- forester-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-212-forester-01/forester-01.html
+- forester-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-212-forester-01/forester-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-212-forester-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-212-forester-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-212-forester-01/feature.png
+- forester-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-212-forester-01/forester-01-all-formats.zip
+
+## The Swineherd of Mastford (swineherd-01)
+- swineherd-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-213-swineherd-01/swineherd-01.epub
+- swineherd-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-213-swineherd-01/swineherd-01.pdf
+- swineherd-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-213-swineherd-01/swineherd-01.html
+- swineherd-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-213-swineherd-01/swineherd-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-213-swineherd-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-213-swineherd-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-213-swineherd-01/feature.png
+- swineherd-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-213-swineherd-01/swineherd-01-all-formats.zip
+
+## The Orchardist of Blossomwick (orchardist-01)
+- orchardist-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-214-orchardist-01/orchardist-01.epub
+- orchardist-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-214-orchardist-01/orchardist-01.pdf
+- orchardist-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-214-orchardist-01/orchardist-01.html
+- orchardist-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-214-orchardist-01/orchardist-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-214-orchardist-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-214-orchardist-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-214-orchardist-01/feature.png
+- orchardist-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-214-orchardist-01/orchardist-01-all-formats.zip
+
+## The Tin Miner of Trelan (tinminer-01)
+- tinminer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-215-tinminer-01/tinminer-01.epub
+- tinminer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-215-tinminer-01/tinminer-01.pdf
+- tinminer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-215-tinminer-01/tinminer-01.html
+- tinminer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-215-tinminer-01/tinminer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-215-tinminer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-215-tinminer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-215-tinminer-01/feature.png
+- tinminer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-215-tinminer-01/tinminer-01-all-formats.zip
+
+## The Well Digger of Springwell (welldigger-01)
+- welldigger-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/welldigger-01.epub
+- welldigger-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/welldigger-01.pdf
+- welldigger-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/welldigger-01.html
+- welldigger-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/welldigger-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/feature.png
+- welldigger-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/welldigger-01-all-formats.zip
+
