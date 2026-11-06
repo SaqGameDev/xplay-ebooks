@@ -2273,3 +2273,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/feature.png
 - teamerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/teamerchant-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 29
+
+## The Spice Merchant of Pepperford (spicemerchant-01)
+- spicemerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-225-spicemerchant-01/spicemerchant-01.epub
+- spicemerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-225-spicemerchant-01/spicemerchant-01.pdf
+- spicemerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-225-spicemerchant-01/spicemerchant-01.html
+- spicemerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-225-spicemerchant-01/spicemerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-225-spicemerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-225-spicemerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-225-spicemerchant-01/feature.png
+- spicemerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-225-spicemerchant-01/spicemerchant-01-all-formats.zip
+
+## The Coffee Merchant of Glynford (coffeemerchant-01)
+- coffeemerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-226-coffeemerchant-01/coffeemerchant-01.epub
+- coffeemerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-226-coffeemerchant-01/coffeemerchant-01.pdf
+- coffeemerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-226-coffeemerchant-01/coffeemerchant-01.html
+- coffeemerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-226-coffeemerchant-01/coffeemerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-226-coffeemerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-226-coffeemerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-226-coffeemerchant-01/feature.png
+- coffeemerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-226-coffeemerchant-01/coffeemerchant-01-all-formats.zip
+
+## The Wine Merchant of Vineford (winemerchant-01)
+- winemerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-227-winemerchant-01/winemerchant-01.epub
+- winemerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-227-winemerchant-01/winemerchant-01.pdf
+- winemerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-227-winemerchant-01/winemerchant-01.html
+- winemerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-227-winemerchant-01/winemerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-227-winemerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-227-winemerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-227-winemerchant-01/feature.png
+- winemerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-227-winemerchant-01/winemerchant-01-all-formats.zip
+
+## The Silk Merchant of Silkford (silkmerchant-01)
+- silkmerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-228-silkmerchant-01/silkmerchant-01.epub
+- silkmerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-228-silkmerchant-01/silkmerchant-01.pdf
+- silkmerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-228-silkmerchant-01/silkmerchant-01.html
+- silkmerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-228-silkmerchant-01/silkmerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-228-silkmerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-228-silkmerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-228-silkmerchant-01/feature.png
+- silkmerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-228-silkmerchant-01/silkmerchant-01-all-formats.zip
+
+## The Fur Trader of Trewoon (furtrader-01)
+- furtrader-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-229-furtrader-01/furtrader-01.epub
+- furtrader-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-229-furtrader-01/furtrader-01.pdf
+- furtrader-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-229-furtrader-01/furtrader-01.html
+- furtrader-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-229-furtrader-01/furtrader-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-229-furtrader-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-229-furtrader-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-229-furtrader-01/feature.png
+- furtrader-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-229-furtrader-01/furtrader-01-all-formats.zip
+
+## The Grocer of Weighford (grocer-01)
+- grocer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-230-grocer-01/grocer-01.epub
+- grocer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-230-grocer-01/grocer-01.pdf
+- grocer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-230-grocer-01/grocer-01.html
+- grocer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-230-grocer-01/grocer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-230-grocer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-230-grocer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-230-grocer-01/feature.png
+- grocer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-230-grocer-01/grocer-01-all-formats.zip
+
+## The Confectioner of Sugarford (confectioner-01)
+- confectioner-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-231-confectioner-01/confectioner-01.epub
+- confectioner-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-231-confectioner-01/confectioner-01.pdf
+- confectioner-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-231-confectioner-01/confectioner-01.html
+- confectioner-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-231-confectioner-01/confectioner-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-231-confectioner-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-231-confectioner-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-231-confectioner-01/feature.png
+- confectioner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-231-confectioner-01/confectioner-01-all-formats.zip
+
+## The Perfumer of Roseford (perfumer-01)
+- perfumer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/perfumer-01.epub
+- perfumer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/perfumer-01.pdf
+- perfumer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/perfumer-01.html
+- perfumer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/perfumer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/feature.png
+- perfumer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/perfumer-01-all-formats.zip
+
