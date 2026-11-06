@@ -131,3 +131,70 @@
 - cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-16-travel-01/cover.png
 - travel-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-16-travel-01/travel-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 3
+
+## The Last Water in Dry Creek (western-01)
+- western-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-17-western-01/western-01.epub
+- western-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-17-western-01/western-01.pdf
+- western-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-17-western-01/western-01.html
+- western-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-17-western-01/western-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-17-western-01/cover.png
+- western-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-17-western-01/western-01-all-formats.zip
+
+## When the Lights Went Quiet (dystopian-01)
+- dystopian-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-18-dystopian-01/dystopian-01.epub
+- dystopian-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-18-dystopian-01/dystopian-01.pdf
+- dystopian-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-18-dystopian-01/dystopian-01.html
+- dystopian-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-18-dystopian-01/dystopian-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-18-dystopian-01/cover.png
+- dystopian-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-18-dystopian-01/dystopian-01-all-formats.zip
+
+## The Seventh Sister of Thornwood (fairytale-01)
+- fairytale-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-19-fairytale-01/fairytale-01.epub
+- fairytale-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-19-fairytale-01/fairytale-01.pdf
+- fairytale-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-19-fairytale-01/fairytale-01.html
+- fairytale-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-19-fairytale-01/fairytale-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-19-fairytale-01/cover.png
+- fairytale-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-19-fairytale-01/fairytale-01-all-formats.zip
+
+## The Final Over at Willowfield (sports-01)
+- sports-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-20-sports-01/sports-01.epub
+- sports-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-20-sports-01/sports-01.pdf
+- sports-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-20-sports-01/sports-01.html
+- sports-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-20-sports-01/sports-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-20-sports-01/cover.png
+- sports-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-20-sports-01/sports-01-all-formats.zip
+
+## The Weaver of Forgotten Gods (mythology-01)
+- mythology-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-21-mythology-01/mythology-01.epub
+- mythology-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-21-mythology-01/mythology-01.pdf
+- mythology-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-21-mythology-01/mythology-01.html
+- mythology-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-21-mythology-01/mythology-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-21-mythology-01/cover.png
+- mythology-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-21-mythology-01/mythology-01-all-formats.zip
+
+## The House Where Tuesdays Vanish (magicrealism-01)
+- magicrealism-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-22-magicrealism-01/magicrealism-01.epub
+- magicrealism-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-22-magicrealism-01/magicrealism-01.pdf
+- magicrealism-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-22-magicrealism-01/magicrealism-01.html
+- magicrealism-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-22-magicrealism-01/magicrealism-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-22-magicrealism-01/cover.png
+- magicrealism-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-22-magicrealism-01/magicrealism-01-all-formats.zip
+
+## A Table for the Seasons (cookbook-01)
+- cookbook-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-23-cookbook-01/cookbook-01.epub
+- cookbook-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-23-cookbook-01/cookbook-01.pdf
+- cookbook-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-23-cookbook-01/cookbook-01.html
+- cookbook-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-23-cookbook-01/cookbook-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-23-cookbook-01/cover.png
+- cookbook-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-23-cookbook-01/cookbook-01-all-formats.zip
+
+## The Courier of Cold Harbor (espionage-01)
+- espionage-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-24-espionage-01/espionage-01.epub
+- espionage-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-24-espionage-01/espionage-01.pdf
+- espionage-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-24-espionage-01/espionage-01.html
+- espionage-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-24-espionage-01/espionage-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-24-espionage-01/cover.png
+- espionage-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-24-espionage-01/espionage-01-all-formats.zip
+
