@@ -2439,3 +2439,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/feature.png
 - oilmerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/oilmerchant-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 31
+
+## The Undertaker of Ballynara (undertaker-01)
+- undertaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-241-undertaker-01/undertaker-01.epub
+- undertaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-241-undertaker-01/undertaker-01.pdf
+- undertaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-241-undertaker-01/undertaker-01.html
+- undertaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-241-undertaker-01/undertaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-241-undertaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-241-undertaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-241-undertaker-01/feature.png
+- undertaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-241-undertaker-01/undertaker-01-all-formats.zip
+
+## The Sexton of Bellayford (sexton-01)
+- sexton-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-242-sexton-01/sexton-01.epub
+- sexton-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-242-sexton-01/sexton-01.pdf
+- sexton-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-242-sexton-01/sexton-01.html
+- sexton-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-242-sexton-01/sexton-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-242-sexton-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-242-sexton-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-242-sexton-01/feature.png
+- sexton-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-242-sexton-01/sexton-01-all-formats.zip
+
+## The Parchment Maker of Vellumford (parchmentmaker-01)
+- parchmentmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-243-parchmentmaker-01/parchmentmaker-01.epub
+- parchmentmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-243-parchmentmaker-01/parchmentmaker-01.pdf
+- parchmentmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-243-parchmentmaker-01/parchmentmaker-01.html
+- parchmentmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-243-parchmentmaker-01/parchmentmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-243-parchmentmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-243-parchmentmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-243-parchmentmaker-01/feature.png
+- parchmentmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-243-parchmentmaker-01/parchmentmaker-01-all-formats.zip
+
+## The Midwife of Marlford (midwife-01)
+- midwife-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-244-midwife-01/midwife-01.epub
+- midwife-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-244-midwife-01/midwife-01.pdf
+- midwife-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-244-midwife-01/midwife-01.html
+- midwife-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-244-midwife-01/midwife-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-244-midwife-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-244-midwife-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-244-midwife-01/feature.png
+- midwife-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-244-midwife-01/midwife-01-all-formats.zip
+
+## The Rat Catcher of Mousford (ratcatcher-01)
+- ratcatcher-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-245-ratcatcher-01/ratcatcher-01.epub
+- ratcatcher-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-245-ratcatcher-01/ratcatcher-01.pdf
+- ratcatcher-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-245-ratcatcher-01/ratcatcher-01.html
+- ratcatcher-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-245-ratcatcher-01/ratcatcher-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-245-ratcatcher-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-245-ratcatcher-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-245-ratcatcher-01/feature.png
+- ratcatcher-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-245-ratcatcher-01/ratcatcher-01-all-formats.zip
+
+## The Lamplighter of Candleford (lamplighter-01)
+- lamplighter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-246-lamplighter-01/lamplighter-01.epub
+- lamplighter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-246-lamplighter-01/lamplighter-01.pdf
+- lamplighter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-246-lamplighter-01/lamplighter-01.html
+- lamplighter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-246-lamplighter-01/lamplighter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-246-lamplighter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-246-lamplighter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-246-lamplighter-01/feature.png
+- lamplighter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-246-lamplighter-01/lamplighter-01-all-formats.zip
+
+## The Chimney Sweep of Kirkbrae (chimneysweep-01)
+- chimneysweep-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-247-chimneysweep-01/chimneysweep-01.epub
+- chimneysweep-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-247-chimneysweep-01/chimneysweep-01.pdf
+- chimneysweep-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-247-chimneysweep-01/chimneysweep-01.html
+- chimneysweep-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-247-chimneysweep-01/chimneysweep-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-247-chimneysweep-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-247-chimneysweep-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-247-chimneysweep-01/feature.png
+- chimneysweep-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-247-chimneysweep-01/chimneysweep-01-all-formats.zip
+
+## The Pawnbroker of Hareford (pawnbroker-01)
+- pawnbroker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/pawnbroker-01.epub
+- pawnbroker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/pawnbroker-01.pdf
+- pawnbroker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/pawnbroker-01.html
+- pawnbroker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/pawnbroker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/feature.png
+- pawnbroker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/pawnbroker-01-all-formats.zip
+
