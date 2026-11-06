@@ -696,3 +696,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/feature.png
 - westernromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-72-westernromance-01/westernromance-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 10
+
+## The Sword of the Winter Chrysanthemum (samurai-01)
+- samurai-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-73-samurai-01/samurai-01.epub
+- samurai-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-73-samurai-01/samurai-01.pdf
+- samurai-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-73-samurai-01/samurai-01.html
+- samurai-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-73-samurai-01/samurai-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-73-samurai-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-73-samurai-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-73-samurai-01/feature.png
+- samurai-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-73-samurai-01/samurai-01-all-formats.zip
+
+## The Governess of Ravenmoor (gothicromance-01)
+- gothicromance-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-74-gothicromance-01/gothicromance-01.epub
+- gothicromance-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-74-gothicromance-01/gothicromance-01.pdf
+- gothicromance-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-74-gothicromance-01/gothicromance-01.html
+- gothicromance-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-74-gothicromance-01/gothicromance-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-74-gothicromance-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-74-gothicromance-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-74-gothicromance-01/feature.png
+- gothicromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-74-gothicromance-01/gothicromance-01-all-formats.zip
+
+## The Season of Second Chances (regency-01)
+- regency-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-75-regency-01/regency-01.epub
+- regency-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-75-regency-01/regency-01.pdf
+- regency-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-75-regency-01/regency-01.html
+- regency-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-75-regency-01/regency-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-75-regency-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-75-regency-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-75-regency-01/feature.png
+- regency-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-75-regency-01/regency-01-all-formats.zip
+
+## The Last Rain at Cooper's Crossing (outback-01)
+- outback-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-76-outback-01/outback-01.epub
+- outback-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-76-outback-01/outback-01.pdf
+- outback-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-76-outback-01/outback-01.html
+- outback-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-76-outback-01/outback-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-76-outback-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-76-outback-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-76-outback-01/feature.png
+- outback-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-76-outback-01/outback-01-all-formats.zip
+
+## The Wolf of Hollow Creek (werewolf-01)
+- werewolf-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-77-werewolf-01/werewolf-01.epub
+- werewolf-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-77-werewolf-01/werewolf-01.pdf
+- werewolf-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-77-werewolf-01/werewolf-01.html
+- werewolf-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-77-werewolf-01/werewolf-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-77-werewolf-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-77-werewolf-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-77-werewolf-01/feature.png
+- werewolf-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-77-werewolf-01/werewolf-01-all-formats.zip
+
+## The Treasure of the Drowned Bell (treasure-01)
+- treasure-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-78-treasure-01/treasure-01.epub
+- treasure-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-78-treasure-01/treasure-01.pdf
+- treasure-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-78-treasure-01/treasure-01.html
+- treasure-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-78-treasure-01/treasure-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-78-treasure-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-78-treasure-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-78-treasure-01/feature.png
+- treasure-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-78-treasure-01/treasure-01-all-formats.zip
+
+## The Last Light of Aurora Bay (arctic-01)
+- arctic-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-79-arctic-01/arctic-01.epub
+- arctic-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-79-arctic-01/arctic-01.pdf
+- arctic-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-79-arctic-01/arctic-01.html
+- arctic-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-79-arctic-01/arctic-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-79-arctic-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-79-arctic-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-79-arctic-01/feature.png
+- arctic-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-79-arctic-01/arctic-01-all-formats.zip
+
+## The Well at the End of the World (desert-01)
+- desert-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/desert-01.epub
+- desert-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/desert-01.pdf
+- desert-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/desert-01.html
+- desert-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/desert-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/feature.png
+- desert-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/desert-01-all-formats.zip
+
