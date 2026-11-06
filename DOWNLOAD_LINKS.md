@@ -1775,3 +1775,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/feature.png
 - saltmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/saltmaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 23
+
+## The Hurdle Maker of Rodwell (hurdlemaker-01)
+- hurdlemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-177-hurdlemaker-01/hurdlemaker-01.epub
+- hurdlemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-177-hurdlemaker-01/hurdlemaker-01.pdf
+- hurdlemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-177-hurdlemaker-01/hurdlemaker-01.html
+- hurdlemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-177-hurdlemaker-01/hurdlemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-177-hurdlemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-177-hurdlemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-177-hurdlemaker-01/feature.png
+- hurdlemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-177-hurdlemaker-01/hurdlemaker-01-all-formats.zip
+
+## The Reedcutter of Fenmere (reedcutter-01)
+- reedcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-178-reedcutter-01/reedcutter-01.epub
+- reedcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-178-reedcutter-01/reedcutter-01.pdf
+- reedcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-178-reedcutter-01/reedcutter-01.html
+- reedcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-178-reedcutter-01/reedcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-178-reedcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-178-reedcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-178-reedcutter-01/feature.png
+- reedcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-178-reedcutter-01/reedcutter-01-all-formats.zip
+
+## The Peat Cutter of Mossfield (peatcutter-01)
+- peatcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-179-peatcutter-01/peatcutter-01.epub
+- peatcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-179-peatcutter-01/peatcutter-01.pdf
+- peatcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-179-peatcutter-01/peatcutter-01.html
+- peatcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-179-peatcutter-01/peatcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-179-peatcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-179-peatcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-179-peatcutter-01/feature.png
+- peatcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-179-peatcutter-01/peatcutter-01-all-formats.zip
+
+## The Tallow Chandler of Tallowford (tallowchandler-01)
+- tallowchandler-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-180-tallowchandler-01/tallowchandler-01.epub
+- tallowchandler-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-180-tallowchandler-01/tallowchandler-01.pdf
+- tallowchandler-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-180-tallowchandler-01/tallowchandler-01.html
+- tallowchandler-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-180-tallowchandler-01/tallowchandler-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-180-tallowchandler-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-180-tallowchandler-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-180-tallowchandler-01/feature.png
+- tallowchandler-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-180-tallowchandler-01/tallowchandler-01-all-formats.zip
+
+## The Wax Chandler of Waxham (waxchandler-01)
+- waxchandler-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-181-waxchandler-01/waxchandler-01.epub
+- waxchandler-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-181-waxchandler-01/waxchandler-01.pdf
+- waxchandler-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-181-waxchandler-01/waxchandler-01.html
+- waxchandler-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-181-waxchandler-01/waxchandler-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-181-waxchandler-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-181-waxchandler-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-181-waxchandler-01/feature.png
+- waxchandler-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-181-waxchandler-01/waxchandler-01-all-formats.zip
+
+## The Netmaker of Netwick (netmaker-01)
+- netmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-182-netmaker-01/netmaker-01.epub
+- netmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-182-netmaker-01/netmaker-01.pdf
+- netmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-182-netmaker-01/netmaker-01.html
+- netmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-182-netmaker-01/netmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-182-netmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-182-netmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-182-netmaker-01/feature.png
+- netmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-182-netmaker-01/netmaker-01-all-formats.zip
+
+## The Hedge Layer of Hedgeford (hedgelayer-01)
+- hedgelayer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-183-hedgelayer-01/hedgelayer-01.epub
+- hedgelayer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-183-hedgelayer-01/hedgelayer-01.pdf
+- hedgelayer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-183-hedgelayer-01/hedgelayer-01.html
+- hedgelayer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-183-hedgelayer-01/hedgelayer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-183-hedgelayer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-183-hedgelayer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-183-hedgelayer-01/feature.png
+- hedgelayer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-183-hedgelayer-01/hedgelayer-01-all-formats.zip
+
+## The Miller of Millham (miller-01)
+- miller-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/miller-01.epub
+- miller-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/miller-01.pdf
+- miller-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/miller-01.html
+- miller-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/miller-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/feature.png
+- miller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-184-miller-01/miller-01-all-formats.zip
+
