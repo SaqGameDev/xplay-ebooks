@@ -1941,3 +1941,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/feature.png
 - cornmerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-192-cornmerchant-01/cornmerchant-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 25
+
+## The Shepherd of Swaledale (shepherd-01)
+- shepherd-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-193-shepherd-01/shepherd-01.epub
+- shepherd-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-193-shepherd-01/shepherd-01.pdf
+- shepherd-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-193-shepherd-01/shepherd-01.html
+- shepherd-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-193-shepherd-01/shepherd-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-193-shepherd-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-193-shepherd-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-193-shepherd-01/feature.png
+- shepherd-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-193-shepherd-01/shepherd-01-all-formats.zip
+
+## The Goatherd of Goatfell (goatherd-01)
+- goatherd-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-194-goatherd-01/goatherd-01.epub
+- goatherd-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-194-goatherd-01/goatherd-01.pdf
+- goatherd-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-194-goatherd-01/goatherd-01.html
+- goatherd-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-194-goatherd-01/goatherd-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-194-goatherd-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-194-goatherd-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-194-goatherd-01/feature.png
+- goatherd-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-194-goatherd-01/goatherd-01-all-formats.zip
+
+## The Dairyman of Butterwick (dairyman-01)
+- dairyman-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-195-dairyman-01/dairyman-01.epub
+- dairyman-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-195-dairyman-01/dairyman-01.pdf
+- dairyman-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-195-dairyman-01/dairyman-01.html
+- dairyman-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-195-dairyman-01/dairyman-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-195-dairyman-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-195-dairyman-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-195-dairyman-01/feature.png
+- dairyman-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-195-dairyman-01/dairyman-01-all-formats.zip
+
+## The Fisherman of Shingleford (fisherman-01)
+- fisherman-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-196-fisherman-01/fisherman-01.epub
+- fisherman-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-196-fisherman-01/fisherman-01.pdf
+- fisherman-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-196-fisherman-01/fisherman-01.html
+- fisherman-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-196-fisherman-01/fisherman-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-196-fisherman-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-196-fisherman-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-196-fisherman-01/feature.png
+- fisherman-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-196-fisherman-01/fisherman-01-all-formats.zip
+
+## The Vintner of Vinehall (vintner-01)
+- vintner-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-197-vintner-01/vintner-01.epub
+- vintner-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-197-vintner-01/vintner-01.pdf
+- vintner-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-197-vintner-01/vintner-01.html
+- vintner-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-197-vintner-01/vintner-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-197-vintner-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-197-vintner-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-197-vintner-01/feature.png
+- vintner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-197-vintner-01/vintner-01-all-formats.zip
+
+## The Cartwright of Wainford (cartwright-01)
+- cartwright-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-198-cartwright-01/cartwright-01.epub
+- cartwright-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-198-cartwright-01/cartwright-01.pdf
+- cartwright-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-198-cartwright-01/cartwright-01.html
+- cartwright-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-198-cartwright-01/cartwright-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-198-cartwright-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-198-cartwright-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-198-cartwright-01/feature.png
+- cartwright-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-198-cartwright-01/cartwright-01-all-formats.zip
+
+## The Harness Maker of Oakhaven (harnessmaker-01)
+- harnessmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-199-harnessmaker-01/harnessmaker-01.epub
+- harnessmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-199-harnessmaker-01/harnessmaker-01.pdf
+- harnessmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-199-harnessmaker-01/harnessmaker-01.html
+- harnessmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-199-harnessmaker-01/harnessmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-199-harnessmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-199-harnessmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-199-harnessmaker-01/feature.png
+- harnessmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-199-harnessmaker-01/harnessmaker-01-all-formats.zip
+
+## The Nailer of Nailsea (nailer-01)
+- nailer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/nailer-01.epub
+- nailer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/nailer-01.pdf
+- nailer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/nailer-01.html
+- nailer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/nailer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/feature.png
+- nailer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-200-nailer-01/nailer-01-all-formats.zip
+
