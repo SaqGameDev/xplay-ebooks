@@ -447,3 +447,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/feature.png
 - nautical-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/nautical-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 7
+
+## The Marmalade Murder at Bramblewick (cozymystery-01)
+- cozymystery-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-49-cozymystery-01/cozymystery-01.epub
+- cozymystery-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-49-cozymystery-01/cozymystery-01.pdf
+- cozymystery-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-49-cozymystery-01/cozymystery-01.html
+- cozymystery-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-49-cozymystery-01/cozymystery-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-49-cozymystery-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-49-cozymystery-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-49-cozymystery-01/feature.png
+- cozymystery-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-49-cozymystery-01/cozymystery-01-all-formats.zip
+
+## The Throne of Ashen Stars (epicfantasy-01)
+- epicfantasy-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-50-epicfantasy-01/epicfantasy-01.epub
+- epicfantasy-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-50-epicfantasy-01/epicfantasy-01.pdf
+- epicfantasy-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-50-epicfantasy-01/epicfantasy-01.html
+- epicfantasy-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-50-epicfantasy-01/epicfantasy-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-50-epicfantasy-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-50-epicfantasy-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-50-epicfantasy-01/feature.png
+- epicfantasy-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-50-epicfantasy-01/epicfantasy-01-all-formats.zip
+
+## The Ribbon Merchant of Verona (histromance-01)
+- histromance-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-51-histromance-01/histromance-01.epub
+- histromance-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-51-histromance-01/histromance-01.pdf
+- histromance-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-51-histromance-01/histromance-01.html
+- histromance-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-51-histromance-01/histromance-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-51-histromance-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-51-histromance-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-51-histromance-01/feature.png
+- histromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-51-histromance-01/histromance-01-all-formats.zip
+
+## The Last Harvest of Emberfield (postapoc-01)
+- postapoc-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-52-postapoc-01/postapoc-01.epub
+- postapoc-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-52-postapoc-01/postapoc-01.pdf
+- postapoc-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-52-postapoc-01/postapoc-01.html
+- postapoc-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-52-postapoc-01/postapoc-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-52-postapoc-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-52-postapoc-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-52-postapoc-01/feature.png
+- postapoc-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-52-postapoc-01/postapoc-01-all-formats.zip
+
+## The Saltwater Alibi (detective-01)
+- detective-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-53-detective-01/detective-01.epub
+- detective-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-53-detective-01/detective-01.pdf
+- detective-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-53-detective-01/detective-01.html
+- detective-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-53-detective-01/detective-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-53-detective-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-53-detective-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-53-detective-01/feature.png
+- detective-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-53-detective-01/detective-01-all-formats.zip
+
+## The Lantern House on Wren Lane (supernatural-01)
+- supernatural-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-54-supernatural-01/supernatural-01.epub
+- supernatural-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-54-supernatural-01/supernatural-01.pdf
+- supernatural-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-54-supernatural-01/supernatural-01.html
+- supernatural-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-54-supernatural-01/supernatural-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-54-supernatural-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-54-supernatural-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-54-supernatural-01/feature.png
+- supernatural-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-54-supernatural-01/supernatural-01-all-formats.zip
+
+## The Last Train to Millbrook (smalltown-01)
+- smalltown-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-55-smalltown-01/smalltown-01.epub
+- smalltown-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-55-smalltown-01/smalltown-01.pdf
+- smalltown-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-55-smalltown-01/smalltown-01.html
+- smalltown-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-55-smalltown-01/smalltown-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-55-smalltown-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-55-smalltown-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-55-smalltown-01/feature.png
+- smalltown-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-55-smalltown-01/smalltown-01-all-formats.zip
+
+## The City Where Nobody Hurries (utopian-01)
+- utopian-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/utopian-01.epub
+- utopian-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/utopian-01.pdf
+- utopian-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/utopian-01.html
+- utopian-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/utopian-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/feature.png
+- utopian-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/utopian-01-all-formats.zip
+
