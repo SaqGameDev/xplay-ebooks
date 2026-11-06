@@ -281,3 +281,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/feature.png
 - legalthriller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/legalthriller-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 5
+
+## The Ember Fleet of Arali Prime (spaceopera-01)
+- spaceopera-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-33-spaceopera-01/spaceopera-01.epub
+- spaceopera-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-33-spaceopera-01/spaceopera-01.pdf
+- spaceopera-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-33-spaceopera-01/spaceopera-01.html
+- spaceopera-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-33-spaceopera-01/spaceopera-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-33-spaceopera-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-33-spaceopera-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-33-spaceopera-01/feature.png
+- spaceopera-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-33-spaceopera-01/spaceopera-01-all-formats.zip
+
+## The Night Market of Borrowed Hours (urbanfantasy-01)
+- urbanfantasy-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-34-urbanfantasy-01/urbanfantasy-01.epub
+- urbanfantasy-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-34-urbanfantasy-01/urbanfantasy-01.pdf
+- urbanfantasy-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-34-urbanfantasy-01/urbanfantasy-01.html
+- urbanfantasy-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-34-urbanfantasy-01/urbanfantasy-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-34-urbanfantasy-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-34-urbanfantasy-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-34-urbanfantasy-01/feature.png
+- urbanfantasy-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-34-urbanfantasy-01/urbanfantasy-01-all-formats.zip
+
+## The Patient Who Wasn't There (psychthriller-01)
+- psychthriller-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-35-psychthriller-01/psychthriller-01.epub
+- psychthriller-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-35-psychthriller-01/psychthriller-01.pdf
+- psychthriller-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-35-psychthriller-01/psychthriller-01.html
+- psychthriller-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-35-psychthriller-01/psychthriller-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-35-psychthriller-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-35-psychthriller-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-35-psychthriller-01/feature.png
+- psychthriller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-35-psychthriller-01/psychthriller-01-all-formats.zip
+
+## The Road Back from Kestrel Hill (warfiction-01)
+- warfiction-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-36-warfiction-01/warfiction-01.epub
+- warfiction-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-36-warfiction-01/warfiction-01.pdf
+- warfiction-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-36-warfiction-01/warfiction-01.html
+- warfiction-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-36-warfiction-01/warfiction-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-36-warfiction-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-36-warfiction-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-36-warfiction-01/feature.png
+- warfiction-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-36-warfiction-01/warfiction-01-all-formats.zip
+
+## The Brass Orchard (steampunk-01)
+- steampunk-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-37-steampunk-01/steampunk-01.epub
+- steampunk-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-37-steampunk-01/steampunk-01.pdf
+- steampunk-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-37-steampunk-01/steampunk-01.html
+- steampunk-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-37-steampunk-01/steampunk-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-37-steampunk-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-37-steampunk-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-37-steampunk-01/feature.png
+- steampunk-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-37-steampunk-01/steampunk-01-all-formats.zip
+
+## Where the Road Learns My Name (comingofage-01)
+- comingofage-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-38-comingofage-01/comingofage-01.epub
+- comingofage-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-38-comingofage-01/comingofage-01.pdf
+- comingofage-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-38-comingofage-01/comingofage-01.html
+- comingofage-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-38-comingofage-01/comingofage-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-38-comingofage-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-38-comingofage-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-38-comingofage-01/feature.png
+- comingofage-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-38-comingofage-01/comingofage-01-all-formats.zip
+
+## The Valley Where the River Returns (nature-01)
+- nature-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-39-nature-01/nature-01.epub
+- nature-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-39-nature-01/nature-01.pdf
+- nature-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-39-nature-01/nature-01.html
+- nature-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-39-nature-01/nature-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-39-nature-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-39-nature-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-39-nature-01/feature.png
+- nature-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-39-nature-01/nature-01-all-formats.zip
+
+## The Last Encore of Harborlight (musicfiction-01)
+- musicfiction-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/musicfiction-01.epub
+- musicfiction-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/musicfiction-01.pdf
+- musicfiction-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/musicfiction-01.html
+- musicfiction-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/musicfiction-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/feature.png
+- musicfiction-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/musicfiction-01-all-formats.zip
+
