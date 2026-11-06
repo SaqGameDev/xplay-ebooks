@@ -779,3 +779,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/feature.png
 - desert-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-80-desert-01/desert-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 11
+
+## The Winter Ridge (mountaineering-01)
+- mountaineering-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-81-mountaineering-01/mountaineering-01.epub
+- mountaineering-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-81-mountaineering-01/mountaineering-01.pdf
+- mountaineering-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-81-mountaineering-01/mountaineering-01.html
+- mountaineering-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-81-mountaineering-01/mountaineering-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-81-mountaineering-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-81-mountaineering-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-81-mountaineering-01/feature.png
+- mountaineering-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-81-mountaineering-01/mountaineering-01-all-formats.zip
+
+## The Clockmaker of Aldergate (victorian-01)
+- victorian-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-82-victorian-01/victorian-01.epub
+- victorian-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-82-victorian-01/victorian-01.pdf
+- victorian-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-82-victorian-01/victorian-01.html
+- victorian-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-82-victorian-01/victorian-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-82-victorian-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-82-victorian-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-82-victorian-01/feature.png
+- victorian-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-82-victorian-01/victorian-01-all-formats.zip
+
+## The Island of Returning Tides (island-01)
+- island-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-83-island-01/island-01.epub
+- island-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-83-island-01/island-01.pdf
+- island-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-83-island-01/island-01.html
+- island-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-83-island-01/island-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-83-island-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-83-island-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-83-island-01/feature.png
+- island-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-83-island-01/island-01-all-formats.zip
+
+## The Last Herd of the Long Grass (safari-01)
+- safari-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-84-safari-01/safari-01.epub
+- safari-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-84-safari-01/safari-01.pdf
+- safari-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-84-safari-01/safari-01.html
+- safari-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-84-safari-01/safari-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-84-safari-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-84-safari-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-84-safari-01/feature.png
+- safari-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-84-safari-01/safari-01-all-formats.zip
+
+## The Sand Remembers the Sword (gladiator-01)
+- gladiator-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-85-gladiator-01/gladiator-01.epub
+- gladiator-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-85-gladiator-01/gladiator-01.pdf
+- gladiator-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-85-gladiator-01/gladiator-01.html
+- gladiator-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-85-gladiator-01/gladiator-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-85-gladiator-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-85-gladiator-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-85-gladiator-01/feature.png
+- gladiator-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-85-gladiator-01/gladiator-01-all-formats.zip
+
+## The River That Swallowed the Map (jungle-01)
+- jungle-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-86-jungle-01/jungle-01.epub
+- jungle-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-86-jungle-01/jungle-01.pdf
+- jungle-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-86-jungle-01/jungle-01.html
+- jungle-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-86-jungle-01/jungle-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-86-jungle-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-86-jungle-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-86-jungle-01/feature.png
+- jungle-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-86-jungle-01/jungle-01-all-formats.zip
+
+## The Bell of Saint Wystan (medieval-01)
+- medieval-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-87-medieval-01/medieval-01.epub
+- medieval-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-87-medieval-01/medieval-01.pdf
+- medieval-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-87-medieval-01/medieval-01.html
+- medieval-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-87-medieval-01/medieval-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-87-medieval-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-87-medieval-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-87-medieval-01/feature.png
+- medieval-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-87-medieval-01/medieval-01-all-formats.zip
+
+## The Keeper of Stormhaven Light (lighthouse-01)
+- lighthouse-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/lighthouse-01.epub
+- lighthouse-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/lighthouse-01.pdf
+- lighthouse-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/lighthouse-01.html
+- lighthouse-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/lighthouse-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/feature.png
+- lighthouse-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/lighthouse-01-all-formats.zip
+
