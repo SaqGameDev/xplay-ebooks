@@ -1692,3 +1692,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/feature.png
 - bowyer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-168-bowyer-01/bowyer-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 22
+
+## The Fletcher of Arrowfield (fletcher-01)
+- fletcher-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-169-fletcher-01/fletcher-01.epub
+- fletcher-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-169-fletcher-01/fletcher-01.pdf
+- fletcher-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-169-fletcher-01/fletcher-01.html
+- fletcher-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-169-fletcher-01/fletcher-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-169-fletcher-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-169-fletcher-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-169-fletcher-01/feature.png
+- fletcher-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-169-fletcher-01/fletcher-01-all-formats.zip
+
+## The Stonecutter of Cragford (stonecutter-01)
+- stonecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-170-stonecutter-01/stonecutter-01.epub
+- stonecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-170-stonecutter-01/stonecutter-01.pdf
+- stonecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-170-stonecutter-01/stonecutter-01.html
+- stonecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-170-stonecutter-01/stonecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-170-stonecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-170-stonecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-170-stonecutter-01/feature.png
+- stonecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-170-stonecutter-01/stonecutter-01-all-formats.zip
+
+## The Quarryman of Cragwell (quarryman-01)
+- quarryman-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-171-quarryman-01/quarryman-01.epub
+- quarryman-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-171-quarryman-01/quarryman-01.pdf
+- quarryman-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-171-quarryman-01/quarryman-01.html
+- quarryman-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-171-quarryman-01/quarryman-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-171-quarryman-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-171-quarryman-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-171-quarryman-01/feature.png
+- quarryman-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-171-quarryman-01/quarryman-01-all-formats.zip
+
+## The Limeburner of Limewell (limeburner-01)
+- limeburner-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-172-limeburner-01/limeburner-01.epub
+- limeburner-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-172-limeburner-01/limeburner-01.pdf
+- limeburner-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-172-limeburner-01/limeburner-01.html
+- limeburner-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-172-limeburner-01/limeburner-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-172-limeburner-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-172-limeburner-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-172-limeburner-01/feature.png
+- limeburner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-172-limeburner-01/limeburner-01-all-formats.zip
+
+## The Charcoal Burner of Kilnford (charcoalburner-01)
+- charcoalburner-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-173-charcoalburner-01/charcoalburner-01.epub
+- charcoalburner-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-173-charcoalburner-01/charcoalburner-01.pdf
+- charcoalburner-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-173-charcoalburner-01/charcoalburner-01.html
+- charcoalburner-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-173-charcoalburner-01/charcoalburner-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-173-charcoalburner-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-173-charcoalburner-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-173-charcoalburner-01/feature.png
+- charcoalburner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-173-charcoalburner-01/charcoalburner-01-all-formats.zip
+
+## The Woodcutter of Larchwood (woodcutter-01)
+- woodcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-174-woodcutter-01/woodcutter-01.epub
+- woodcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-174-woodcutter-01/woodcutter-01.pdf
+- woodcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-174-woodcutter-01/woodcutter-01.html
+- woodcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-174-woodcutter-01/woodcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-174-woodcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-174-woodcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-174-woodcutter-01/feature.png
+- woodcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-174-woodcutter-01/woodcutter-01-all-formats.zip
+
+## The Sawyer of Timberwick (sawyer-01)
+- sawyer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-175-sawyer-01/sawyer-01.epub
+- sawyer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-175-sawyer-01/sawyer-01.pdf
+- sawyer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-175-sawyer-01/sawyer-01.html
+- sawyer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-175-sawyer-01/sawyer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-175-sawyer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-175-sawyer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-175-sawyer-01/feature.png
+- sawyer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-175-sawyer-01/sawyer-01-all-formats.zip
+
+## The Saltmaker of Brinewell (saltmaker-01)
+- saltmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/saltmaker-01.epub
+- saltmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/saltmaker-01.pdf
+- saltmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/saltmaker-01.html
+- saltmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/saltmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/feature.png
+- saltmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-176-saltmaker-01/saltmaker-01-all-formats.zip
+
