@@ -862,3 +862,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/feature.png
 - lighthouse-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-88-lighthouse-01/lighthouse-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 12
+
+## The Iron Road Home (railroad-01)
+- railroad-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-89-railroad-01/railroad-01.epub
+- railroad-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-89-railroad-01/railroad-01.pdf
+- railroad-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-89-railroad-01/railroad-01.html
+- railroad-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-89-railroad-01/railroad-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-89-railroad-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-89-railroad-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-89-railroad-01/feature.png
+- railroad-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-89-railroad-01/railroad-01-all-formats.zip
+
+## The Last Season of the Starlight Circus (circus-01)
+- circus-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-90-circus-01/circus-01.epub
+- circus-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-90-circus-01/circus-01.pdf
+- circus-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-90-circus-01/circus-01.html
+- circus-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-90-circus-01/circus-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-90-circus-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-90-circus-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-90-circus-01/feature.png
+- circus-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-90-circus-01/circus-01-all-formats.zip
+
+## The Last Season of the Glass Theatre (ballet-01)
+- ballet-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-91-ballet-01/ballet-01.epub
+- ballet-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-91-ballet-01/ballet-01.pdf
+- ballet-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-91-ballet-01/ballet-01.html
+- ballet-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-91-ballet-01/ballet-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-91-ballet-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-91-ballet-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-91-ballet-01/feature.png
+- ballet-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-91-ballet-01/ballet-01-all-formats.zip
+
+## The Silence of Saint Oswald (monastery-01)
+- monastery-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-92-monastery-01/monastery-01.epub
+- monastery-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-92-monastery-01/monastery-01.pdf
+- monastery-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-92-monastery-01/monastery-01.html
+- monastery-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-92-monastery-01/monastery-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-92-monastery-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-92-monastery-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-92-monastery-01/feature.png
+- monastery-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-92-monastery-01/monastery-01-all-formats.zip
+
+## The Silent Watch Below (submarine-01)
+- submarine-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-93-submarine-01/submarine-01.epub
+- submarine-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-93-submarine-01/submarine-01.pdf
+- submarine-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-93-submarine-01/submarine-01.html
+- submarine-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-93-submarine-01/submarine-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-93-submarine-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-93-submarine-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-93-submarine-01/feature.png
+- submarine-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-93-submarine-01/submarine-01-all-formats.zip
+
+## The Last Aria of the Winter Opera (opera-01)
+- opera-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-94-opera-01/opera-01.epub
+- opera-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-94-opera-01/opera-01.pdf
+- opera-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-94-opera-01/opera-01.html
+- opera-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-94-opera-01/opera-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-94-opera-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-94-opera-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-94-opera-01/feature.png
+- opera-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-94-opera-01/opera-01-all-formats.zip
+
+## Where the Vines Remember (vineyard-01)
+- vineyard-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-95-vineyard-01/vineyard-01.epub
+- vineyard-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-95-vineyard-01/vineyard-01.pdf
+- vineyard-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-95-vineyard-01/vineyard-01.html
+- vineyard-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-95-vineyard-01/vineyard-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-95-vineyard-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-95-vineyard-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-95-vineyard-01/feature.png
+- vineyard-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-95-vineyard-01/vineyard-01-all-formats.zip
+
+## The Night the Stars Went Out (observatory-01)
+- observatory-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/observatory-01.epub
+- observatory-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/observatory-01.pdf
+- observatory-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/observatory-01.html
+- observatory-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/observatory-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/feature.png
+- observatory-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-96-observatory-01/observatory-01-all-formats.zip
+
