@@ -1028,3 +1028,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/feature.png
 - cheesemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-104-cheesemaker-01/cheesemaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 14
+
+## The Florist of Petalwick (florist-01)
+- florist-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-105-florist-01/florist-01.epub
+- florist-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-105-florist-01/florist-01.pdf
+- florist-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-105-florist-01/florist-01.html
+- florist-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-105-florist-01/florist-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-105-florist-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-105-florist-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-105-florist-01/feature.png
+- florist-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-105-florist-01/florist-01-all-formats.zip
+
+## The Baker of Hazelbury (baker-01)
+- baker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-106-baker-01/baker-01.epub
+- baker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-106-baker-01/baker-01.pdf
+- baker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-106-baker-01/baker-01.html
+- baker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-106-baker-01/baker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-106-baker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-106-baker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-106-baker-01/feature.png
+- baker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-106-baker-01/baker-01-all-formats.zip
+
+## The Watchmaker of Wrenbury (watchmaker-01)
+- watchmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-107-watchmaker-01/watchmaker-01.epub
+- watchmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-107-watchmaker-01/watchmaker-01.pdf
+- watchmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-107-watchmaker-01/watchmaker-01.html
+- watchmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-107-watchmaker-01/watchmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-107-watchmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-107-watchmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-107-watchmaker-01/feature.png
+- watchmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-107-watchmaker-01/watchmaker-01-all-formats.zip
+
+## The Puppeteer of Hollowbrook (puppeteer-01)
+- puppeteer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-108-puppeteer-01/puppeteer-01.epub
+- puppeteer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-108-puppeteer-01/puppeteer-01.pdf
+- puppeteer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-108-puppeteer-01/puppeteer-01.html
+- puppeteer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-108-puppeteer-01/puppeteer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-108-puppeteer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-108-puppeteer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-108-puppeteer-01/feature.png
+- puppeteer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-108-puppeteer-01/puppeteer-01-all-formats.zip
+
+## The Key That Opened Winter (locksmith-01)
+- locksmith-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-109-locksmith-01/locksmith-01.epub
+- locksmith-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-109-locksmith-01/locksmith-01.pdf
+- locksmith-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-109-locksmith-01/locksmith-01.html
+- locksmith-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-109-locksmith-01/locksmith-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-109-locksmith-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-109-locksmith-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-109-locksmith-01/feature.png
+- locksmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-109-locksmith-01/locksmith-01-all-formats.zip
+
+## The Tailor of Candlewick (tailor-01)
+- tailor-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-110-tailor-01/tailor-01.epub
+- tailor-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-110-tailor-01/tailor-01.pdf
+- tailor-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-110-tailor-01/tailor-01.html
+- tailor-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-110-tailor-01/tailor-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-110-tailor-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-110-tailor-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-110-tailor-01/feature.png
+- tailor-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-110-tailor-01/tailor-01-all-formats.zip
+
+## The Potter of Sycamore (potter-01)
+- potter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-111-potter-01/potter-01.epub
+- potter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-111-potter-01/potter-01.pdf
+- potter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-111-potter-01/potter-01.html
+- potter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-111-potter-01/potter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-111-potter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-111-potter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-111-potter-01/feature.png
+- potter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-111-potter-01/potter-01-all-formats.zip
+
+## The Falconer of Windmere (falconer-01)
+- falconer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/falconer-01.epub
+- falconer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/falconer-01.pdf
+- falconer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/falconer-01.html
+- falconer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/falconer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/feature.png
+- falconer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/falconer-01-all-formats.zip
+
