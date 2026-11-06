@@ -2522,3 +2522,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/feature.png
 - pawnbroker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-248-pawnbroker-01/pawnbroker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 32
+
+## The Ploughman of Furrowford (ploughman-01)
+- ploughman-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-249-ploughman-01/ploughman-01.epub
+- ploughman-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-249-ploughman-01/ploughman-01.pdf
+- ploughman-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-249-ploughman-01/ploughman-01.html
+- ploughman-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-249-ploughman-01/ploughman-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-249-ploughman-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-249-ploughman-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-249-ploughman-01/feature.png
+- ploughman-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-249-ploughman-01/ploughman-01-all-formats.zip
+
+## The Cowherd of Cowford (cowherd-01)
+- cowherd-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-250-cowherd-01/cowherd-01.epub
+- cowherd-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-250-cowherd-01/cowherd-01.pdf
+- cowherd-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-250-cowherd-01/cowherd-01.html
+- cowherd-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-250-cowherd-01/cowherd-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-250-cowherd-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-250-cowherd-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-250-cowherd-01/feature.png
+- cowherd-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-250-cowherd-01/cowherd-01-all-formats.zip
+
+## The Cellarer of Tunford (cellarer-01)
+- cellarer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-251-cellarer-01/cellarer-01.epub
+- cellarer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-251-cellarer-01/cellarer-01.pdf
+- cellarer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-251-cellarer-01/cellarer-01.html
+- cellarer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-251-cellarer-01/cellarer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-251-cellarer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-251-cellarer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-251-cellarer-01/feature.png
+- cellarer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-251-cellarer-01/cellarer-01-all-formats.zip
+
+## The Bailiff of Nagyford (bailiff-01)
+- bailiff-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-252-bailiff-01/bailiff-01.epub
+- bailiff-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-252-bailiff-01/bailiff-01.pdf
+- bailiff-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-252-bailiff-01/bailiff-01.html
+- bailiff-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-252-bailiff-01/bailiff-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-252-bailiff-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-252-bailiff-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-252-bailiff-01/feature.png
+- bailiff-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-252-bailiff-01/bailiff-01-all-formats.zip
+
+## The Verger of Veselyford (verger-01)
+- verger-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-253-verger-01/verger-01.epub
+- verger-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-253-verger-01/verger-01.pdf
+- verger-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-253-verger-01/verger-01.html
+- verger-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-253-verger-01/verger-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-253-verger-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-253-verger-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-253-verger-01/feature.png
+- verger-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-253-verger-01/verger-01-all-formats.zip
+
+## The Gravedigger of Graveford (gravedigger-01)
+- gravedigger-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-254-gravedigger-01/gravedigger-01.epub
+- gravedigger-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-254-gravedigger-01/gravedigger-01.pdf
+- gravedigger-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-254-gravedigger-01/gravedigger-01.html
+- gravedigger-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-254-gravedigger-01/gravedigger-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-254-gravedigger-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-254-gravedigger-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-254-gravedigger-01/feature.png
+- gravedigger-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-254-gravedigger-01/gravedigger-01-all-formats.zip
+
+## The Wainwright of Axleford (wainwright-01)
+- wainwright-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-255-wainwright-01/wainwright-01.epub
+- wainwright-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-255-wainwright-01/wainwright-01.pdf
+- wainwright-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-255-wainwright-01/wainwright-01.html
+- wainwright-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-255-wainwright-01/wainwright-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-255-wainwright-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-255-wainwright-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-255-wainwright-01/feature.png
+- wainwright-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-255-wainwright-01/wainwright-01-all-formats.zip
+
+## The Whitesmith of Pewterford (whitesmith-01)
+- whitesmith-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/whitesmith-01.epub
+- whitesmith-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/whitesmith-01.pdf
+- whitesmith-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/whitesmith-01.html
+- whitesmith-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/whitesmith-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/feature.png
+- whitesmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-256-whitesmith-01/whitesmith-01-all-formats.zip
+
