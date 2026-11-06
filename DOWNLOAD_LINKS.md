@@ -2190,3 +2190,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/feature.png
 - welldigger-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-216-welldigger-01/welldigger-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 28
+
+## The Draper of Loomford (draper-01)
+- draper-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-217-draper-01/draper-01.epub
+- draper-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-217-draper-01/draper-01.pdf
+- draper-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-217-draper-01/draper-01.html
+- draper-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-217-draper-01/draper-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-217-draper-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-217-draper-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-217-draper-01/feature.png
+- draper-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-217-draper-01/draper-01-all-formats.zip
+
+## The Wool Merchant of Fleeceford (woolmerchant-01)
+- woolmerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-218-woolmerchant-01/woolmerchant-01.epub
+- woolmerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-218-woolmerchant-01/woolmerchant-01.pdf
+- woolmerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-218-woolmerchant-01/woolmerchant-01.html
+- woolmerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-218-woolmerchant-01/woolmerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-218-woolmerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-218-woolmerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-218-woolmerchant-01/feature.png
+- woolmerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-218-woolmerchant-01/woolmerchant-01-all-formats.zip
+
+## The Ironmonger of Forgeham (ironmonger-01)
+- ironmonger-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-219-ironmonger-01/ironmonger-01.epub
+- ironmonger-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-219-ironmonger-01/ironmonger-01.pdf
+- ironmonger-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-219-ironmonger-01/ironmonger-01.html
+- ironmonger-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-219-ironmonger-01/ironmonger-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-219-ironmonger-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-219-ironmonger-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-219-ironmonger-01/feature.png
+- ironmonger-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-219-ironmonger-01/ironmonger-01-all-formats.zip
+
+## The Haberdasher of Ribbonford (haberdasher-01)
+- haberdasher-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-220-haberdasher-01/haberdasher-01.epub
+- haberdasher-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-220-haberdasher-01/haberdasher-01.pdf
+- haberdasher-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-220-haberdasher-01/haberdasher-01.html
+- haberdasher-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-220-haberdasher-01/haberdasher-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-220-haberdasher-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-220-haberdasher-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-220-haberdasher-01/feature.png
+- haberdasher-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-220-haberdasher-01/haberdasher-01-all-formats.zip
+
+## The Stationer of Parchford (stationer-01)
+- stationer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-221-stationer-01/stationer-01.epub
+- stationer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-221-stationer-01/stationer-01.pdf
+- stationer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-221-stationer-01/stationer-01.html
+- stationer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-221-stationer-01/stationer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-221-stationer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-221-stationer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-221-stationer-01/feature.png
+- stationer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-221-stationer-01/stationer-01-all-formats.zip
+
+## The Bookseller of Quillford (bookseller-01)
+- bookseller-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-222-bookseller-01/bookseller-01.epub
+- bookseller-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-222-bookseller-01/bookseller-01.pdf
+- bookseller-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-222-bookseller-01/bookseller-01.html
+- bookseller-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-222-bookseller-01/bookseller-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-222-bookseller-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-222-bookseller-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-222-bookseller-01/feature.png
+- bookseller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-222-bookseller-01/bookseller-01-all-formats.zip
+
+## The Toymaker of Latchford (toymaker-01)
+- toymaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-223-toymaker-01/toymaker-01.epub
+- toymaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-223-toymaker-01/toymaker-01.pdf
+- toymaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-223-toymaker-01/toymaker-01.html
+- toymaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-223-toymaker-01/toymaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-223-toymaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-223-toymaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-223-toymaker-01/feature.png
+- toymaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-223-toymaker-01/toymaker-01-all-formats.zip
+
+## The Tea Merchant of Kettleford (teamerchant-01)
+- teamerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/teamerchant-01.epub
+- teamerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/teamerchant-01.pdf
+- teamerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/teamerchant-01.html
+- teamerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/teamerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/feature.png
+- teamerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-224-teamerchant-01/teamerchant-01-all-formats.zip
+
