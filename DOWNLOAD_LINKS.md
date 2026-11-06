@@ -198,3 +198,86 @@
 - cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-24-espionage-01/cover.png
 - espionage-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-24-espionage-01/espionage-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 4
+
+## The Ledger of Small Beginnings (business-01)
+- business-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-25-business-01/business-01.epub
+- business-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-25-business-01/business-01.pdf
+- business-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-25-business-01/business-01.html
+- business-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-25-business-01/business-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-25-business-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-25-business-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-25-business-01/feature.png
+- business-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-25-business-01/business-01-all-formats.zip
+
+## The Long Walk Back to Morning (health-01)
+- health-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-26-health-01/health-01.epub
+- health-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-26-health-01/health-01.pdf
+- health-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-26-health-01/health-01.html
+- health-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-26-health-01/health-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-26-health-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-26-health-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-26-health-01/feature.png
+- health-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-26-health-01/health-01-all-formats.zip
+
+## The Winter Ledger of Ashford Quay (truecrime-01)
+- truecrime-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-27-truecrime-01/truecrime-01.epub
+- truecrime-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-27-truecrime-01/truecrime-01.pdf
+- truecrime-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-27-truecrime-01/truecrime-01.html
+- truecrime-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-27-truecrime-01/truecrime-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-27-truecrime-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-27-truecrime-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-27-truecrime-01/feature.png
+- truecrime-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-27-truecrime-01/truecrime-01-all-formats.zip
+
+## The Glassblower's Daughter of Murano (histfiction-01)
+- histfiction-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-28-histfiction-01/histfiction-01.epub
+- histfiction-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-28-histfiction-01/histfiction-01.pdf
+- histfiction-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-28-histfiction-01/histfiction-01.html
+- histfiction-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-28-histfiction-01/histfiction-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-28-histfiction-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-28-histfiction-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-28-histfiction-01/feature.png
+- histfiction-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-28-histfiction-01/histfiction-01-all-formats.zip
+
+## Where the Neon Forgets Your Name (cyberpunk-01)
+- cyberpunk-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-29-cyberpunk-01/cyberpunk-01.epub
+- cyberpunk-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-29-cyberpunk-01/cyberpunk-01.pdf
+- cyberpunk-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-29-cyberpunk-01/cyberpunk-01.html
+- cyberpunk-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-29-cyberpunk-01/cyberpunk-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-29-cyberpunk-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-29-cyberpunk-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-29-cyberpunk-01/feature.png
+- cyberpunk-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-29-cyberpunk-01/cyberpunk-01-all-formats.zip
+
+## The Department of Unnecessary Improvements (satire-01)
+- satire-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-30-satire-01/satire-01.epub
+- satire-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-30-satire-01/satire-01.pdf
+- satire-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-30-satire-01/satire-01.html
+- satire-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-30-satire-01/satire-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-30-satire-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-30-satire-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-30-satire-01/feature.png
+- satire-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-30-satire-01/satire-01-all-formats.zip
+
+## How the World Holds Together (popscience-01)
+- popscience-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-31-popscience-01/popscience-01.epub
+- popscience-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-31-popscience-01/popscience-01.pdf
+- popscience-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-31-popscience-01/popscience-01.html
+- popscience-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-31-popscience-01/popscience-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-31-popscience-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-31-popscience-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-31-popscience-01/feature.png
+- popscience-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-31-popscience-01/popscience-01-all-formats.zip
+
+## The Verdict in Room Nine (legalthriller-01)
+- legalthriller-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/legalthriller-01.epub
+- legalthriller-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/legalthriller-01.pdf
+- legalthriller-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/legalthriller-01.html
+- legalthriller-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/legalthriller-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/feature.png
+- legalthriller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-32-legalthriller-01/legalthriller-01-all-formats.zip
+
