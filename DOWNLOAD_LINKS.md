@@ -530,3 +530,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/feature.png
 - utopian-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-56-utopian-01/utopian-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 8
+
+## The Sword That Sleeps Beneath the Lake (arthurian-01)
+- arthurian-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-57-arthurian-01/arthurian-01.epub
+- arthurian-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-57-arthurian-01/arthurian-01.pdf
+- arthurian-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-57-arthurian-01/arthurian-01.html
+- arthurian-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-57-arthurian-01/arthurian-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-57-arthurian-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-57-arthurian-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-57-arthurian-01/feature.png
+- arthurian-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-57-arthurian-01/arthurian-01-all-formats.zip
+
+## The Vault Beneath the Winter Fair (heist-01)
+- heist-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-58-heist-01/heist-01.epub
+- heist-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-58-heist-01/heist-01.pdf
+- heist-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-58-heist-01/heist-01.html
+- heist-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-58-heist-01/heist-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-58-heist-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-58-heist-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-58-heist-01/feature.png
+- heist-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-58-heist-01/heist-01-all-formats.zip
+
+## The Summer the Sea Came In (climate-01)
+- climate-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-59-climate-01/climate-01.epub
+- climate-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-59-climate-01/climate-01.pdf
+- climate-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-59-climate-01/climate-01.html
+- climate-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-59-climate-01/climate-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-59-climate-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-59-climate-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-59-climate-01/feature.png
+- climate-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-59-climate-01/climate-01-all-formats.zip
+
+## The Love Letter That Arrived Late (romcom-01)
+- romcom-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-60-romcom-01/romcom-01.epub
+- romcom-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-60-romcom-01/romcom-01.pdf
+- romcom-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-60-romcom-01/romcom-01.html
+- romcom-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-60-romcom-01/romcom-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-60-romcom-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-60-romcom-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-60-romcom-01/feature.png
+- romcom-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-60-romcom-01/romcom-01-all-formats.zip
+
+## The Ghosts of Marrowgate (ghoststory-01)
+- ghoststory-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-61-ghoststory-01/ghoststory-01.epub
+- ghoststory-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-61-ghoststory-01/ghoststory-01.pdf
+- ghoststory-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-61-ghoststory-01/ghoststory-01.html
+- ghoststory-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-61-ghoststory-01/ghoststory-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-61-ghoststory-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-61-ghoststory-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-61-ghoststory-01/feature.png
+- ghoststory-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-61-ghoststory-01/ghoststory-01-all-formats.zip
+
+## The Saltwind Mutiny (pirate-01)
+- pirate-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-62-pirate-01/pirate-01.epub
+- pirate-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-62-pirate-01/pirate-01.pdf
+- pirate-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-62-pirate-01/pirate-01.html
+- pirate-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-62-pirate-01/pirate-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-62-pirate-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-62-pirate-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-62-pirate-01/feature.png
+- pirate-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-62-pirate-01/pirate-01-all-formats.zip
+
+## The Archive of Small Lies (conspiracy-01)
+- conspiracy-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-63-conspiracy-01/conspiracy-01.epub
+- conspiracy-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-63-conspiracy-01/conspiracy-01.pdf
+- conspiracy-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-63-conspiracy-01/conspiracy-01.html
+- conspiracy-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-63-conspiracy-01/conspiracy-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-63-conspiracy-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-63-conspiracy-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-63-conspiracy-01/feature.png
+- conspiracy-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-63-conspiracy-01/conspiracy-01-all-formats.zip
+
+## The Ashen Vow of Karthmere (darkfantasy-01)
+- darkfantasy-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/darkfantasy-01.epub
+- darkfantasy-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/darkfantasy-01.pdf
+- darkfantasy-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/darkfantasy-01.html
+- darkfantasy-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/darkfantasy-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/feature.png
+- darkfantasy-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-64-darkfantasy-01/darkfantasy-01-all-formats.zip
+
