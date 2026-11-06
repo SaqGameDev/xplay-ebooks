@@ -364,3 +364,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/feature.png
 - musicfiction-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-40-musicfiction-01/musicfiction-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 6
+
+## The Widow of Hollowmere Hall (gothic-01)
+- gothic-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-41-gothic-01/gothic-01.epub
+- gothic-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-41-gothic-01/gothic-01.pdf
+- gothic-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-41-gothic-01/gothic-01.html
+- gothic-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-41-gothic-01/gothic-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-41-gothic-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-41-gothic-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-41-gothic-01/feature.png
+- gothic-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-41-gothic-01/gothic-01-all-formats.zip
+
+## The House of Salt and Cedar (familysaga-01)
+- familysaga-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-42-familysaga-01/familysaga-01.epub
+- familysaga-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-42-familysaga-01/familysaga-01.pdf
+- familysaga-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-42-familysaga-01/familysaga-01.html
+- familysaga-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-42-familysaga-01/familysaga-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-42-familysaga-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-42-familysaga-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-42-familysaga-01/feature.png
+- familysaga-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-42-familysaga-01/familysaga-01-all-formats.zip
+
+## The Long Winter of Raven's Pass (survival-01)
+- survival-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-43-survival-01/survival-01.epub
+- survival-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-43-survival-01/survival-01.pdf
+- survival-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-43-survival-01/survival-01.html
+- survival-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-43-survival-01/survival-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-43-survival-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-43-survival-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-43-survival-01/feature.png
+- survival-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-43-survival-01/survival-01-all-formats.zip
+
+## The Clock That Ran Backwards (timetravel-01)
+- timetravel-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-44-timetravel-01/timetravel-01.epub
+- timetravel-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-44-timetravel-01/timetravel-01.pdf
+- timetravel-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-44-timetravel-01/timetravel-01.html
+- timetravel-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-44-timetravel-01/timetravel-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-44-timetravel-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-44-timetravel-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-44-timetravel-01/feature.png
+- timetravel-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-44-timetravel-01/timetravel-01-all-formats.zip
+
+## The Quiet Ward (medicalthriller-01)
+- medicalthriller-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-45-medicalthriller-01/medicalthriller-01.epub
+- medicalthriller-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-45-medicalthriller-01/medicalthriller-01.pdf
+- medicalthriller-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-45-medicalthriller-01/medicalthriller-01.html
+- medicalthriller-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-45-medicalthriller-01/medicalthriller-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-45-medicalthriller-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-45-medicalthriller-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-45-medicalthriller-01/feature.png
+- medicalthriller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-45-medicalthriller-01/medicalthriller-01-all-formats.zip
+
+## The Winter of Ordinary Light (literaryfiction-01)
+- literaryfiction-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-46-literaryfiction-01/literaryfiction-01.epub
+- literaryfiction-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-46-literaryfiction-01/literaryfiction-01.pdf
+- literaryfiction-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-46-literaryfiction-01/literaryfiction-01.html
+- literaryfiction-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-46-literaryfiction-01/literaryfiction-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-46-literaryfiction-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-46-literaryfiction-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-46-literaryfiction-01/feature.png
+- literaryfiction-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-46-literaryfiction-01/literaryfiction-01-all-formats.zip
+
+## The Last Vote of the Amber House (politicaldrama-01)
+- politicaldrama-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-47-politicaldrama-01/politicaldrama-01.epub
+- politicaldrama-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-47-politicaldrama-01/politicaldrama-01.pdf
+- politicaldrama-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-47-politicaldrama-01/politicaldrama-01.html
+- politicaldrama-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-47-politicaldrama-01/politicaldrama-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-47-politicaldrama-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-47-politicaldrama-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-47-politicaldrama-01/feature.png
+- politicaldrama-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-47-politicaldrama-01/politicaldrama-01-all-formats.zip
+
+## The Tide That Brought Her Home (nautical-01)
+- nautical-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/nautical-01.epub
+- nautical-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/nautical-01.pdf
+- nautical-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/nautical-01.html
+- nautical-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/nautical-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/feature.png
+- nautical-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-48-nautical-01/nautical-01-all-formats.zip
+
