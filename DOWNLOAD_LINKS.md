@@ -1277,3 +1277,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/feature.png
 - engraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-128-engraver-01/engraver-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 17
+
+## The Glazier of Wensley (glazier-01)
+- glazier-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-129-glazier-01/glazier-01.epub
+- glazier-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-129-glazier-01/glazier-01.pdf
+- glazier-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-129-glazier-01/glazier-01.html
+- glazier-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-129-glazier-01/glazier-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-129-glazier-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-129-glazier-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-129-glazier-01/feature.png
+- glazier-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-129-glazier-01/glazier-01-all-formats.zip
+
+## The Wheelwright of Thornbury (wheelwright-01)
+- wheelwright-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-130-wheelwright-01/wheelwright-01.epub
+- wheelwright-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-130-wheelwright-01/wheelwright-01.pdf
+- wheelwright-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-130-wheelwright-01/wheelwright-01.html
+- wheelwright-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-130-wheelwright-01/wheelwright-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-130-wheelwright-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-130-wheelwright-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-130-wheelwright-01/feature.png
+- wheelwright-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-130-wheelwright-01/wheelwright-01-all-formats.zip
+
+## The Thatcher of Reedham (thatcher-01)
+- thatcher-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-131-thatcher-01/thatcher-01.epub
+- thatcher-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-131-thatcher-01/thatcher-01.pdf
+- thatcher-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-131-thatcher-01/thatcher-01.html
+- thatcher-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-131-thatcher-01/thatcher-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-131-thatcher-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-131-thatcher-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-131-thatcher-01/feature.png
+- thatcher-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-131-thatcher-01/thatcher-01-all-formats.zip
+
+## The Cutler of Thornbridge (cutler-01)
+- cutler-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-132-cutler-01/cutler-01.epub
+- cutler-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-132-cutler-01/cutler-01.pdf
+- cutler-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-132-cutler-01/cutler-01.html
+- cutler-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-132-cutler-01/cutler-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-132-cutler-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-132-cutler-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-132-cutler-01/feature.png
+- cutler-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-132-cutler-01/cutler-01-all-formats.zip
+
+## The Plasterer of Chadwick (plasterer-01)
+- plasterer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-133-plasterer-01/plasterer-01.epub
+- plasterer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-133-plasterer-01/plasterer-01.pdf
+- plasterer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-133-plasterer-01/plasterer-01.html
+- plasterer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-133-plasterer-01/plasterer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-133-plasterer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-133-plasterer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-133-plasterer-01/feature.png
+- plasterer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-133-plasterer-01/plasterer-01-all-formats.zip
+
+## The Slater of Greywick (slater-01)
+- slater-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-134-slater-01/slater-01.epub
+- slater-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-134-slater-01/slater-01.pdf
+- slater-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-134-slater-01/slater-01.html
+- slater-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-134-slater-01/slater-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-134-slater-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-134-slater-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-134-slater-01/feature.png
+- slater-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-134-slater-01/slater-01-all-formats.zip
+
+## The Bricklayer of Chalkford (bricklayer-01)
+- bricklayer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-135-bricklayer-01/bricklayer-01.epub
+- bricklayer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-135-bricklayer-01/bricklayer-01.pdf
+- bricklayer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-135-bricklayer-01/bricklayer-01.html
+- bricklayer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-135-bricklayer-01/bricklayer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-135-bricklayer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-135-bricklayer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-135-bricklayer-01/feature.png
+- bricklayer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-135-bricklayer-01/bricklayer-01-all-formats.zip
+
+## The Carpenter of Emberley (carpenter-01)
+- carpenter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/carpenter-01.epub
+- carpenter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/carpenter-01.pdf
+- carpenter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/carpenter-01.html
+- carpenter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/carpenter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/feature.png
+- carpenter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/carpenter-01-all-formats.zip
+
