@@ -1360,3 +1360,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/feature.png
 - carpenter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-136-carpenter-01/carpenter-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 18
+
+## The Roofer of Rookhope (roofer-01)
+- roofer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-137-roofer-01/roofer-01.epub
+- roofer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-137-roofer-01/roofer-01.pdf
+- roofer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-137-roofer-01/roofer-01.html
+- roofer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-137-roofer-01/roofer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-137-roofer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-137-roofer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-137-roofer-01/feature.png
+- roofer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-137-roofer-01/roofer-01-all-formats.zip
+
+## The Joiner of Birchwood (joiner-01)
+- joiner-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-138-joiner-01/joiner-01.epub
+- joiner-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-138-joiner-01/joiner-01.pdf
+- joiner-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-138-joiner-01/joiner-01.html
+- joiner-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-138-joiner-01/joiner-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-138-joiner-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-138-joiner-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-138-joiner-01/feature.png
+- joiner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-138-joiner-01/joiner-01-all-formats.zip
+
+## The Turner of Alderley (turner-01)
+- turner-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-139-turner-01/turner-01.epub
+- turner-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-139-turner-01/turner-01.pdf
+- turner-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-139-turner-01/turner-01.html
+- turner-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-139-turner-01/turner-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-139-turner-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-139-turner-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-139-turner-01/feature.png
+- turner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-139-turner-01/turner-01-all-formats.zip
+
+## The Chairmaker of Alderholt (chairmaker-01)
+- chairmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-140-chairmaker-01/chairmaker-01.epub
+- chairmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-140-chairmaker-01/chairmaker-01.pdf
+- chairmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-140-chairmaker-01/chairmaker-01.html
+- chairmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-140-chairmaker-01/chairmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-140-chairmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-140-chairmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-140-chairmaker-01/feature.png
+- chairmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-140-chairmaker-01/chairmaker-01-all-formats.zip
+
+## The Tiler of Dunfield (tiler-01)
+- tiler-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-141-tiler-01/tiler-01.epub
+- tiler-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-141-tiler-01/tiler-01.pdf
+- tiler-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-141-tiler-01/tiler-01.html
+- tiler-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-141-tiler-01/tiler-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-141-tiler-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-141-tiler-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-141-tiler-01/feature.png
+- tiler-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-141-tiler-01/tiler-01-all-formats.zip
+
+## The Plumber of Foxfield (plumber-01)
+- plumber-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-142-plumber-01/plumber-01.epub
+- plumber-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-142-plumber-01/plumber-01.pdf
+- plumber-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-142-plumber-01/plumber-01.html
+- plumber-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-142-plumber-01/plumber-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-142-plumber-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-142-plumber-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-142-plumber-01/feature.png
+- plumber-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-142-plumber-01/plumber-01-all-formats.zip
+
+## The Painter of Dunwell (painter-01)
+- painter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-143-painter-01/painter-01.epub
+- painter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-143-painter-01/painter-01.pdf
+- painter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-143-painter-01/painter-01.html
+- painter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-143-painter-01/painter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-143-painter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-143-painter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-143-painter-01/feature.png
+- painter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-143-painter-01/painter-01-all-formats.zip
+
+## The Upholsterer of Wickford (upholsterer-01)
+- upholsterer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/upholsterer-01.epub
+- upholsterer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/upholsterer-01.pdf
+- upholsterer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/upholsterer-01.html
+- upholsterer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/upholsterer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/feature.png
+- upholsterer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/upholsterer-01-all-formats.zip
+
