@@ -2356,3 +2356,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/feature.png
 - perfumer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-232-perfumer-01/perfumer-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 30
+
+## The Hosier of Stockford (hosier-01)
+- hosier-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-233-hosier-01/hosier-01.epub
+- hosier-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-233-hosier-01/hosier-01.pdf
+- hosier-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-233-hosier-01/hosier-01.html
+- hosier-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-233-hosier-01/hosier-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-233-hosier-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-233-hosier-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-233-hosier-01/feature.png
+- hosier-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-233-hosier-01/hosier-01-all-formats.zip
+
+## The Fellmonger of Penllwyn (fellmonger-01)
+- fellmonger-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-234-fellmonger-01/fellmonger-01.epub
+- fellmonger-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-234-fellmonger-01/fellmonger-01.pdf
+- fellmonger-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-234-fellmonger-01/fellmonger-01.html
+- fellmonger-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-234-fellmonger-01/fellmonger-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-234-fellmonger-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-234-fellmonger-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-234-fellmonger-01/feature.png
+- fellmonger-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-234-fellmonger-01/fellmonger-01-all-formats.zip
+
+## The Tobacconist of Dunmuir (tobacconist-01)
+- tobacconist-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-235-tobacconist-01/tobacconist-01.epub
+- tobacconist-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-235-tobacconist-01/tobacconist-01.pdf
+- tobacconist-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-235-tobacconist-01/tobacconist-01.html
+- tobacconist-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-235-tobacconist-01/tobacconist-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-235-tobacconist-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-235-tobacconist-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-235-tobacconist-01/feature.png
+- tobacconist-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-235-tobacconist-01/tobacconist-01-all-formats.zip
+
+## The Cotton Merchant of Trevarrick (cottonmerchant-01)
+- cottonmerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-236-cottonmerchant-01/cottonmerchant-01.epub
+- cottonmerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-236-cottonmerchant-01/cottonmerchant-01.pdf
+- cottonmerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-236-cottonmerchant-01/cottonmerchant-01.html
+- cottonmerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-236-cottonmerchant-01/cottonmerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-236-cottonmerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-236-cottonmerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-236-cottonmerchant-01/feature.png
+- cottonmerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-236-cottonmerchant-01/cottonmerchant-01-all-formats.zip
+
+## The Timber Merchant of Sawford (timbermerchant-01)
+- timbermerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-237-timbermerchant-01/timbermerchant-01.epub
+- timbermerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-237-timbermerchant-01/timbermerchant-01.pdf
+- timbermerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-237-timbermerchant-01/timbermerchant-01.html
+- timbermerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-237-timbermerchant-01/timbermerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-237-timbermerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-237-timbermerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-237-timbermerchant-01/feature.png
+- timbermerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-237-timbermerchant-01/timbermerchant-01-all-formats.zip
+
+## The Clockmaker of Chimeford (clockmaker-01)
+- clockmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-238-clockmaker-01/clockmaker-01.epub
+- clockmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-238-clockmaker-01/clockmaker-01.pdf
+- clockmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-238-clockmaker-01/clockmaker-01.html
+- clockmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-238-clockmaker-01/clockmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-238-clockmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-238-clockmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-238-clockmaker-01/feature.png
+- clockmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-238-clockmaker-01/clockmaker-01-all-formats.zip
+
+## The Wool Stapler of Staplewick (woolstapler-01)
+- woolstapler-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-239-woolstapler-01/woolstapler-01.epub
+- woolstapler-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-239-woolstapler-01/woolstapler-01.pdf
+- woolstapler-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-239-woolstapler-01/woolstapler-01.html
+- woolstapler-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-239-woolstapler-01/woolstapler-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-239-woolstapler-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-239-woolstapler-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-239-woolstapler-01/feature.png
+- woolstapler-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-239-woolstapler-01/woolstapler-01-all-formats.zip
+
+## The Oil Merchant of Oilford (oilmerchant-01)
+- oilmerchant-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/oilmerchant-01.epub
+- oilmerchant-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/oilmerchant-01.pdf
+- oilmerchant-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/oilmerchant-01.html
+- oilmerchant-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/oilmerchant-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/feature.png
+- oilmerchant-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-240-oilmerchant-01/oilmerchant-01-all-formats.zip
+
