@@ -1111,3 +1111,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/feature.png
 - falconer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-112-falconer-01/falconer-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 15
+
+## The Glassblower of Kell (glassblower-01)
+- glassblower-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-113-glassblower-01/glassblower-01.epub
+- glassblower-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-113-glassblower-01/glassblower-01.pdf
+- glassblower-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-113-glassblower-01/glassblower-01.html
+- glassblower-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-113-glassblower-01/glassblower-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-113-glassblower-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-113-glassblower-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-113-glassblower-01/feature.png
+- glassblower-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-113-glassblower-01/glassblower-01-all-formats.zip
+
+## The Candlemaker of Dunley (candlemaker-01)
+- candlemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-114-candlemaker-01/candlemaker-01.epub
+- candlemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-114-candlemaker-01/candlemaker-01.pdf
+- candlemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-114-candlemaker-01/candlemaker-01.html
+- candlemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-114-candlemaker-01/candlemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-114-candlemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-114-candlemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-114-candlemaker-01/feature.png
+- candlemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-114-candlemaker-01/candlemaker-01-all-formats.zip
+
+## The Bookbinder of Trefelin (bookbinder-01)
+- bookbinder-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-115-bookbinder-01/bookbinder-01.epub
+- bookbinder-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-115-bookbinder-01/bookbinder-01.pdf
+- bookbinder-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-115-bookbinder-01/bookbinder-01.html
+- bookbinder-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-115-bookbinder-01/bookbinder-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-115-bookbinder-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-115-bookbinder-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-115-bookbinder-01/feature.png
+- bookbinder-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-115-bookbinder-01/bookbinder-01-all-formats.zip
+
+## The Stonemason of Keldgate (stonemason-01)
+- stonemason-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-116-stonemason-01/stonemason-01.epub
+- stonemason-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-116-stonemason-01/stonemason-01.pdf
+- stonemason-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-116-stonemason-01/stonemason-01.html
+- stonemason-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-116-stonemason-01/stonemason-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-116-stonemason-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-116-stonemason-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-116-stonemason-01/feature.png
+- stonemason-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-116-stonemason-01/stonemason-01-all-formats.zip
+
+## The Weaver of Greythorn (weaver-01)
+- weaver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-117-weaver-01/weaver-01.epub
+- weaver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-117-weaver-01/weaver-01.pdf
+- weaver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-117-weaver-01/weaver-01.html
+- weaver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-117-weaver-01/weaver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-117-weaver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-117-weaver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-117-weaver-01/feature.png
+- weaver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-117-weaver-01/weaver-01-all-formats.zip
+
+## The Cobbler's Last Pair (cobbler-01)
+- cobbler-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-118-cobbler-01/cobbler-01.epub
+- cobbler-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-118-cobbler-01/cobbler-01.pdf
+- cobbler-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-118-cobbler-01/cobbler-01.html
+- cobbler-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-118-cobbler-01/cobbler-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-118-cobbler-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-118-cobbler-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-118-cobbler-01/feature.png
+- cobbler-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-118-cobbler-01/cobbler-01-all-formats.zip
+
+## The Gunsmith of Ashwick (gunsmith-01)
+- gunsmith-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-119-gunsmith-01/gunsmith-01.epub
+- gunsmith-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-119-gunsmith-01/gunsmith-01.pdf
+- gunsmith-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-119-gunsmith-01/gunsmith-01.html
+- gunsmith-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-119-gunsmith-01/gunsmith-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-119-gunsmith-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-119-gunsmith-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-119-gunsmith-01/feature.png
+- gunsmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-119-gunsmith-01/gunsmith-01-all-formats.zip
+
+## The Milliner of Hollyhock Lane (milliner-01)
+- milliner-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/milliner-01.epub
+- milliner-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/milliner-01.pdf
+- milliner-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/milliner-01.html
+- milliner-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/milliner-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/feature.png
+- milliner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-120-milliner-01/milliner-01-all-formats.zip
+
