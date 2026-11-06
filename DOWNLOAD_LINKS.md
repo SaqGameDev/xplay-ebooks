@@ -1443,3 +1443,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/feature.png
 - upholsterer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-144-upholsterer-01/upholsterer-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 19
+
+## The Pewterer of Lambourn (pewterer-01)
+- pewterer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-145-pewterer-01/pewterer-01.epub
+- pewterer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-145-pewterer-01/pewterer-01.pdf
+- pewterer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-145-pewterer-01/pewterer-01.html
+- pewterer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-145-pewterer-01/pewterer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-145-pewterer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-145-pewterer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-145-pewterer-01/feature.png
+- pewterer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-145-pewterer-01/pewterer-01-all-formats.zip
+
+## The Coppersmith of Hammerwick (coppersmith-01)
+- coppersmith-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-146-coppersmith-01/coppersmith-01.epub
+- coppersmith-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-146-coppersmith-01/coppersmith-01.pdf
+- coppersmith-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-146-coppersmith-01/coppersmith-01.html
+- coppersmith-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-146-coppersmith-01/coppersmith-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-146-coppersmith-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-146-coppersmith-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-146-coppersmith-01/feature.png
+- coppersmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-146-coppersmith-01/coppersmith-01-all-formats.zip
+
+## The Farrier of Wheatfield (farrier-01)
+- farrier-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-147-farrier-01/farrier-01.epub
+- farrier-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-147-farrier-01/farrier-01.pdf
+- farrier-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-147-farrier-01/farrier-01.html
+- farrier-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-147-farrier-01/farrier-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-147-farrier-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-147-farrier-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-147-farrier-01/feature.png
+- farrier-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-147-farrier-01/farrier-01-all-formats.zip
+
+## The Coachbuilder of Marlfield (coachbuilder-01)
+- coachbuilder-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-148-coachbuilder-01/coachbuilder-01.epub
+- coachbuilder-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-148-coachbuilder-01/coachbuilder-01.pdf
+- coachbuilder-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-148-coachbuilder-01/coachbuilder-01.html
+- coachbuilder-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-148-coachbuilder-01/coachbuilder-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-148-coachbuilder-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-148-coachbuilder-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-148-coachbuilder-01/feature.png
+- coachbuilder-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-148-coachbuilder-01/coachbuilder-01-all-formats.zip
+
+## The Sailmaker of Tidewater (sailmaker-01)
+- sailmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-149-sailmaker-01/sailmaker-01.epub
+- sailmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-149-sailmaker-01/sailmaker-01.pdf
+- sailmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-149-sailmaker-01/sailmaker-01.html
+- sailmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-149-sailmaker-01/sailmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-149-sailmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-149-sailmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-149-sailmaker-01/feature.png
+- sailmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-149-sailmaker-01/sailmaker-01-all-formats.zip
+
+## The Shipwright of Brinehaven (shipwright-01)
+- shipwright-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-150-shipwright-01/shipwright-01.epub
+- shipwright-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-150-shipwright-01/shipwright-01.pdf
+- shipwright-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-150-shipwright-01/shipwright-01.html
+- shipwright-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-150-shipwright-01/shipwright-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-150-shipwright-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-150-shipwright-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-150-shipwright-01/feature.png
+- shipwright-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-150-shipwright-01/shipwright-01-all-formats.zip
+
+## The Soapmaker of Waxford (soapmaker-01)
+- soapmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-151-soapmaker-01/soapmaker-01.epub
+- soapmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-151-soapmaker-01/soapmaker-01.pdf
+- soapmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-151-soapmaker-01/soapmaker-01.html
+- soapmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-151-soapmaker-01/soapmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-151-soapmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-151-soapmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-151-soapmaker-01/feature.png
+- soapmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-151-soapmaker-01/soapmaker-01-all-formats.zip
+
+## The Tanner of Oakfield (tanner-01)
+- tanner-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/tanner-01.epub
+- tanner-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/tanner-01.pdf
+- tanner-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/tanner-01.html
+- tanner-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/tanner-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/feature.png
+- tanner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/tanner-01-all-formats.zip
+
