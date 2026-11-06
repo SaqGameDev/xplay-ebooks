@@ -1526,3 +1526,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/feature.png
 - tanner-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-152-tanner-01/tanner-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 20
+
+## The Brewer of Hopwell (brewer-01)
+- brewer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-153-brewer-01/brewer-01.epub
+- brewer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-153-brewer-01/brewer-01.pdf
+- brewer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-153-brewer-01/brewer-01.html
+- brewer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-153-brewer-01/brewer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-153-brewer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-153-brewer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-153-brewer-01/feature.png
+- brewer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-153-brewer-01/brewer-01-all-formats.zip
+
+## The Distiller of Stillwater (distiller-01)
+- distiller-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-154-distiller-01/distiller-01.epub
+- distiller-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-154-distiller-01/distiller-01.pdf
+- distiller-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-154-distiller-01/distiller-01.html
+- distiller-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-154-distiller-01/distiller-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-154-distiller-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-154-distiller-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-154-distiller-01/feature.png
+- distiller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-154-distiller-01/distiller-01-all-formats.zip
+
+## The Papermaker of Ragford (papermaker-01)
+- papermaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-155-papermaker-01/papermaker-01.epub
+- papermaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-155-papermaker-01/papermaker-01.pdf
+- papermaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-155-papermaker-01/papermaker-01.html
+- papermaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-155-papermaker-01/papermaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-155-papermaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-155-papermaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-155-papermaker-01/feature.png
+- papermaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-155-papermaker-01/papermaker-01-all-formats.zip
+
+## The Printer of Inkford (printer-01)
+- printer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-156-printer-01/printer-01.epub
+- printer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-156-printer-01/printer-01.pdf
+- printer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-156-printer-01/printer-01.html
+- printer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-156-printer-01/printer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-156-printer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-156-printer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-156-printer-01/feature.png
+- printer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-156-printer-01/printer-01-all-formats.zip
+
+## The Bellfounder of Tollesbury (bellfounder-01)
+- bellfounder-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-157-bellfounder-01/bellfounder-01.epub
+- bellfounder-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-157-bellfounder-01/bellfounder-01.pdf
+- bellfounder-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-157-bellfounder-01/bellfounder-01.html
+- bellfounder-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-157-bellfounder-01/bellfounder-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-157-bellfounder-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-157-bellfounder-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-157-bellfounder-01/feature.png
+- bellfounder-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-157-bellfounder-01/bellfounder-01-all-formats.zip
+
+## The Swordsmith of Kelmscott (swordsmith-01)
+- swordsmith-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-158-swordsmith-01/swordsmith-01.epub
+- swordsmith-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-158-swordsmith-01/swordsmith-01.pdf
+- swordsmith-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-158-swordsmith-01/swordsmith-01.html
+- swordsmith-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-158-swordsmith-01/swordsmith-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-158-swordsmith-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-158-swordsmith-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-158-swordsmith-01/feature.png
+- swordsmith-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-158-swordsmith-01/swordsmith-01-all-formats.zip
+
+## The Armourer of Dunmow (armourer-01)
+- armourer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-159-armourer-01/armourer-01.epub
+- armourer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-159-armourer-01/armourer-01.pdf
+- armourer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-159-armourer-01/armourer-01.html
+- armourer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-159-armourer-01/armourer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-159-armourer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-159-armourer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-159-armourer-01/feature.png
+- armourer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-159-armourer-01/armourer-01-all-formats.zip
+
+## The Hatter of Brimfield (hatter-01)
+- hatter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/hatter-01.epub
+- hatter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/hatter-01.pdf
+- hatter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/hatter-01.html
+- hatter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/hatter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/feature.png
+- hatter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-160-hatter-01/hatter-01-all-formats.zip
+
