@@ -3269,3 +3269,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/feature.png
 - glovemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/glovemaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 41
+
+## The Stone Carver of Graniteford (stonecarver-01)
+- stonecarver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-321-stonecarver-01/stonecarver-01.epub
+- stonecarver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-321-stonecarver-01/stonecarver-01.pdf
+- stonecarver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-321-stonecarver-01/stonecarver-01.html
+- stonecarver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-321-stonecarver-01/stonecarver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-321-stonecarver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-321-stonecarver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-321-stonecarver-01/feature.png
+- stonecarver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-321-stonecarver-01/stonecarver-01-all-formats.zip
+
+## The Flint Knapper of Knappford (flintknapper-01)
+- flintknapper-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-322-flintknapper-01/flintknapper-01.epub
+- flintknapper-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-322-flintknapper-01/flintknapper-01.pdf
+- flintknapper-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-322-flintknapper-01/flintknapper-01.html
+- flintknapper-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-322-flintknapper-01/flintknapper-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-322-flintknapper-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-322-flintknapper-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-322-flintknapper-01/feature.png
+- flintknapper-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-322-flintknapper-01/flintknapper-01-all-formats.zip
+
+## The Amber Carver of Amberford (ambercarver-01)
+- ambercarver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-323-ambercarver-01/ambercarver-01.epub
+- ambercarver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-323-ambercarver-01/ambercarver-01.pdf
+- ambercarver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-323-ambercarver-01/ambercarver-01.html
+- ambercarver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-323-ambercarver-01/ambercarver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-323-ambercarver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-323-ambercarver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-323-ambercarver-01/feature.png
+- ambercarver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-323-ambercarver-01/ambercarver-01-all-formats.zip
+
+## The Jet Worker of Jetford (jetworker-01)
+- jetworker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-324-jetworker-01/jetworker-01.epub
+- jetworker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-324-jetworker-01/jetworker-01.pdf
+- jetworker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-324-jetworker-01/jetworker-01.html
+- jetworker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-324-jetworker-01/jetworker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-324-jetworker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-324-jetworker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-324-jetworker-01/feature.png
+- jetworker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-324-jetworker-01/jetworker-01-all-formats.zip
+
+## The Coral Carver of Coralford (coralcarver-01)
+- coralcarver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-325-coralcarver-01/coralcarver-01.epub
+- coralcarver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-325-coralcarver-01/coralcarver-01.pdf
+- coralcarver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-325-coralcarver-01/coralcarver-01.html
+- coralcarver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-325-coralcarver-01/coralcarver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-325-coralcarver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-325-coralcarver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-325-coralcarver-01/feature.png
+- coralcarver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-325-coralcarver-01/coralcarver-01-all-formats.zip
+
+## The Marble Cutter of Marbleford (marblecutter-01)
+- marblecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-326-marblecutter-01/marblecutter-01.epub
+- marblecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-326-marblecutter-01/marblecutter-01.pdf
+- marblecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-326-marblecutter-01/marblecutter-01.html
+- marblecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-326-marblecutter-01/marblecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-326-marblecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-326-marblecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-326-marblecutter-01/feature.png
+- marblecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-326-marblecutter-01/marblecutter-01-all-formats.zip
+
+## The Slate Cutter of Greyford (slatecutter-01)
+- slatecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-327-slatecutter-01/slatecutter-01.epub
+- slatecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-327-slatecutter-01/slatecutter-01.pdf
+- slatecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-327-slatecutter-01/slatecutter-01.html
+- slatecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-327-slatecutter-01/slatecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-327-slatecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-327-slatecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-327-slatecutter-01/feature.png
+- slatecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-327-slatecutter-01/slatecutter-01-all-formats.zip
+
+## The Seal Engraver of Sealford (sealengraver-01)
+- sealengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/sealengraver-01.epub
+- sealengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/sealengraver-01.pdf
+- sealengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/sealengraver-01.html
+- sealengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/sealengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/feature.png
+- sealengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/sealengraver-01-all-formats.zip
+
