@@ -3186,3 +3186,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/feature.png
 - matmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/matmaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 40
+
+## The Tent Maker of Tentford (tentmaker-01)
+- tentmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-313-tentmaker-01/tentmaker-01.epub
+- tentmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-313-tentmaker-01/tentmaker-01.pdf
+- tentmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-313-tentmaker-01/tentmaker-01.html
+- tentmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-313-tentmaker-01/tentmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-313-tentmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-313-tentmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-313-tentmaker-01/feature.png
+- tentmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-313-tentmaker-01/tentmaker-01-all-formats.zip
+
+## The Doll Maker of Dollford (dollmaker-01)
+- dollmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-314-dollmaker-01/dollmaker-01.epub
+- dollmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-314-dollmaker-01/dollmaker-01.pdf
+- dollmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-314-dollmaker-01/dollmaker-01.html
+- dollmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-314-dollmaker-01/dollmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-314-dollmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-314-dollmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-314-dollmaker-01/feature.png
+- dollmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-314-dollmaker-01/dollmaker-01-all-formats.zip
+
+## The Mask Maker of Maskford (maskmaker-01)
+- maskmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-315-maskmaker-01/maskmaker-01.epub
+- maskmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-315-maskmaker-01/maskmaker-01.pdf
+- maskmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-315-maskmaker-01/maskmaker-01.html
+- maskmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-315-maskmaker-01/maskmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-315-maskmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-315-maskmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-315-maskmaker-01/feature.png
+- maskmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-315-maskmaker-01/maskmaker-01-all-formats.zip
+
+## The Bone Carver of Antlerford (bonecarver-01)
+- bonecarver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-316-bonecarver-01/bonecarver-01.epub
+- bonecarver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-316-bonecarver-01/bonecarver-01.pdf
+- bonecarver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-316-bonecarver-01/bonecarver-01.html
+- bonecarver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-316-bonecarver-01/bonecarver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-316-bonecarver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-316-bonecarver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-316-bonecarver-01/feature.png
+- bonecarver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-316-bonecarver-01/bonecarver-01-all-formats.zip
+
+## The Shell Carver of Nacreford (shellcarver-01)
+- shellcarver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-317-shellcarver-01/shellcarver-01.epub
+- shellcarver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-317-shellcarver-01/shellcarver-01.pdf
+- shellcarver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-317-shellcarver-01/shellcarver-01.html
+- shellcarver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-317-shellcarver-01/shellcarver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-317-shellcarver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-317-shellcarver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-317-shellcarver-01/feature.png
+- shellcarver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-317-shellcarver-01/shellcarver-01-all-formats.zip
+
+## The Horn Carver of Stagford (horncarver-01)
+- horncarver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-318-horncarver-01/horncarver-01.epub
+- horncarver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-318-horncarver-01/horncarver-01.pdf
+- horncarver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-318-horncarver-01/horncarver-01.html
+- horncarver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-318-horncarver-01/horncarver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-318-horncarver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-318-horncarver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-318-horncarver-01/feature.png
+- horncarver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-318-horncarver-01/horncarver-01-all-formats.zip
+
+## The Lithographer of Pressford (lithographer-01)
+- lithographer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-319-lithographer-01/lithographer-01.epub
+- lithographer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-319-lithographer-01/lithographer-01.pdf
+- lithographer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-319-lithographer-01/lithographer-01.html
+- lithographer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-319-lithographer-01/lithographer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-319-lithographer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-319-lithographer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-319-lithographer-01/feature.png
+- lithographer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-319-lithographer-01/lithographer-01-all-formats.zip
+
+## The Glove Maker of Gloveford (glovemaker-01)
+- glovemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/glovemaker-01.epub
+- glovemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/glovemaker-01.pdf
+- glovemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/glovemaker-01.html
+- glovemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/glovemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/feature.png
+- glovemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-320-glovemaker-01/glovemaker-01-all-formats.zip
+
