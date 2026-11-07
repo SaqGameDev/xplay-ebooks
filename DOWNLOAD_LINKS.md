@@ -2854,3 +2854,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/feature.png
 - lastmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/lastmaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 36
+
+## The Pattenmaker of Pattenford (pattenmaker-01)
+- pattenmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-281-pattenmaker-01/pattenmaker-01.epub
+- pattenmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-281-pattenmaker-01/pattenmaker-01.pdf
+- pattenmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-281-pattenmaker-01/pattenmaker-01.html
+- pattenmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-281-pattenmaker-01/pattenmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-281-pattenmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-281-pattenmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-281-pattenmaker-01/feature.png
+- pattenmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-281-pattenmaker-01/pattenmaker-01-all-formats.zip
+
+## The Girdler of Girdleford (girdler-01)
+- girdler-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-282-girdler-01/girdler-01.epub
+- girdler-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-282-girdler-01/girdler-01.pdf
+- girdler-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-282-girdler-01/girdler-01.html
+- girdler-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-282-girdler-01/girdler-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-282-girdler-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-282-girdler-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-282-girdler-01/feature.png
+- girdler-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-282-girdler-01/girdler-01-all-formats.zip
+
+## The Spurrier of Spurford (spurrier-01)
+- spurrier-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-283-spurrier-01/spurrier-01.epub
+- spurrier-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-283-spurrier-01/spurrier-01.pdf
+- spurrier-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-283-spurrier-01/spurrier-01.html
+- spurrier-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-283-spurrier-01/spurrier-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-283-spurrier-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-283-spurrier-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-283-spurrier-01/feature.png
+- spurrier-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-283-spurrier-01/spurrier-01-all-formats.zip
+
+## The Lorimer of Lorimerford (lorimer-01)
+- lorimer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-284-lorimer-01/lorimer-01.epub
+- lorimer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-284-lorimer-01/lorimer-01.pdf
+- lorimer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-284-lorimer-01/lorimer-01.html
+- lorimer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-284-lorimer-01/lorimer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-284-lorimer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-284-lorimer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-284-lorimer-01/feature.png
+- lorimer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-284-lorimer-01/lorimer-01-all-formats.zip
+
+## The Wigmaker of Wigford (wigmaker-01)
+- wigmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-285-wigmaker-01/wigmaker-01.epub
+- wigmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-285-wigmaker-01/wigmaker-01.pdf
+- wigmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-285-wigmaker-01/wigmaker-01.html
+- wigmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-285-wigmaker-01/wigmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-285-wigmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-285-wigmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-285-wigmaker-01/feature.png
+- wigmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-285-wigmaker-01/wigmaker-01-all-formats.zip
+
+## The Capmaker of Capford (capmaker-01)
+- capmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-286-capmaker-01/capmaker-01.epub
+- capmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-286-capmaker-01/capmaker-01.pdf
+- capmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-286-capmaker-01/capmaker-01.html
+- capmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-286-capmaker-01/capmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-286-capmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-286-capmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-286-capmaker-01/feature.png
+- capmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-286-capmaker-01/capmaker-01-all-formats.zip
+
+## The Umbrella Maker of Umbrellaford (umbrellamaker-01)
+- umbrellamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-287-umbrellamaker-01/umbrellamaker-01.epub
+- umbrellamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-287-umbrellamaker-01/umbrellamaker-01.pdf
+- umbrellamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-287-umbrellamaker-01/umbrellamaker-01.html
+- umbrellamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-287-umbrellamaker-01/umbrellamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-287-umbrellamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-287-umbrellamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-287-umbrellamaker-01/feature.png
+- umbrellamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-287-umbrellamaker-01/umbrellamaker-01-all-formats.zip
+
+## The Fan Maker of Fanford (fanmaker-01)
+- fanmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/fanmaker-01.epub
+- fanmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/fanmaker-01.pdf
+- fanmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/fanmaker-01.html
+- fanmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/fanmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/feature.png
+- fanmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/fanmaker-01-all-formats.zip
+
