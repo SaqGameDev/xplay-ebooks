@@ -3435,3 +3435,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/feature.png
 - crystalcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/crystalcutter-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 43
+
+## The Coin Engraver of Pennyford (coinengraver-01)
+- coinengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-337-coinengraver-01/coinengraver-01.epub
+- coinengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-337-coinengraver-01/coinengraver-01.pdf
+- coinengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-337-coinengraver-01/coinengraver-01.html
+- coinengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-337-coinengraver-01/coinengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-337-coinengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-337-coinengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-337-coinengraver-01/feature.png
+- coinengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-337-coinengraver-01/coinengraver-01-all-formats.zip
+
+## The Brass Engraver of Bronzeford (brassengraver-01)
+- brassengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-338-brassengraver-01/brassengraver-01.epub
+- brassengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-338-brassengraver-01/brassengraver-01.pdf
+- brassengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-338-brassengraver-01/brassengraver-01.html
+- brassengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-338-brassengraver-01/brassengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-338-brassengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-338-brassengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-338-brassengraver-01/feature.png
+- brassengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-338-brassengraver-01/brassengraver-01-all-formats.zip
+
+## The Gem Cutter of Jewelford (gemcutter-01)
+- gemcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-339-gemcutter-01/gemcutter-01.epub
+- gemcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-339-gemcutter-01/gemcutter-01.pdf
+- gemcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-339-gemcutter-01/gemcutter-01.html
+- gemcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-339-gemcutter-01/gemcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-339-gemcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-339-gemcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-339-gemcutter-01/feature.png
+- gemcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-339-gemcutter-01/gemcutter-01-all-formats.zip
+
+## The Cameo Cutter of Cameoford (cameocutter-01)
+- cameocutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-340-cameocutter-01/cameocutter-01.epub
+- cameocutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-340-cameocutter-01/cameocutter-01.pdf
+- cameocutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-340-cameocutter-01/cameocutter-01.html
+- cameocutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-340-cameocutter-01/cameocutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-340-cameocutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-340-cameocutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-340-cameocutter-01/feature.png
+- cameocutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-340-cameocutter-01/cameocutter-01-all-formats.zip
+
+## The Pearl Cutter of Oysterford (pearlcutter-01)
+- pearlcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-341-pearlcutter-01/pearlcutter-01.epub
+- pearlcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-341-pearlcutter-01/pearlcutter-01.pdf
+- pearlcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-341-pearlcutter-01/pearlcutter-01.html
+- pearlcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-341-pearlcutter-01/pearlcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-341-pearlcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-341-pearlcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-341-pearlcutter-01/feature.png
+- pearlcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-341-pearlcutter-01/pearlcutter-01-all-formats.zip
+
+## The Ivory Engraver of Mammothford (ivoryengraver-01)
+- ivoryengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-342-ivoryengraver-01/ivoryengraver-01.epub
+- ivoryengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-342-ivoryengraver-01/ivoryengraver-01.pdf
+- ivoryengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-342-ivoryengraver-01/ivoryengraver-01.html
+- ivoryengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-342-ivoryengraver-01/ivoryengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-342-ivoryengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-342-ivoryengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-342-ivoryengraver-01/feature.png
+- ivoryengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-342-ivoryengraver-01/ivoryengraver-01-all-formats.zip
+
+## The Bone Engraver of Skullford (boneengraver-01)
+- boneengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-343-boneengraver-01/boneengraver-01.epub
+- boneengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-343-boneengraver-01/boneengraver-01.pdf
+- boneengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-343-boneengraver-01/boneengraver-01.html
+- boneengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-343-boneengraver-01/boneengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-343-boneengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-343-boneengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-343-boneengraver-01/feature.png
+- boneengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-343-boneengraver-01/boneengraver-01-all-formats.zip
+
+## The Stone Engraver of Pebbleford (stoneengraver-01)
+- stoneengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/stoneengraver-01.epub
+- stoneengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/stoneengraver-01.pdf
+- stoneengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/stoneengraver-01.html
+- stoneengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/stoneengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/feature.png
+- stoneengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/stoneengraver-01-all-formats.zip
+
