@@ -3352,3 +3352,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/feature.png
 - sealengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-328-sealengraver-01/sealengraver-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 42
+
+## The Die Sinker of Sinkford (diesinker-01)
+- diesinker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-329-diesinker-01/diesinker-01.epub
+- diesinker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-329-diesinker-01/diesinker-01.pdf
+- diesinker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-329-diesinker-01/diesinker-01.html
+- diesinker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-329-diesinker-01/diesinker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-329-diesinker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-329-diesinker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-329-diesinker-01/feature.png
+- diesinker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-329-diesinker-01/diesinker-01-all-formats.zip
+
+## The Medal Maker of Medalford (medalmaker-01)
+- medalmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-330-medalmaker-01/medalmaker-01.epub
+- medalmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-330-medalmaker-01/medalmaker-01.pdf
+- medalmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-330-medalmaker-01/medalmaker-01.html
+- medalmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-330-medalmaker-01/medalmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-330-medalmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-330-medalmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-330-medalmaker-01/feature.png
+- medalmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-330-medalmaker-01/medalmaker-01-all-formats.zip
+
+## The Wood Engraver of Blockford (woodengraver-01)
+- woodengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-331-woodengraver-01/woodengraver-01.epub
+- woodengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-331-woodengraver-01/woodengraver-01.pdf
+- woodengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-331-woodengraver-01/woodengraver-01.html
+- woodengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-331-woodengraver-01/woodengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-331-woodengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-331-woodengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-331-woodengraver-01/feature.png
+- woodengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-331-woodengraver-01/woodengraver-01-all-formats.zip
+
+## The Glass Engraver of Crystalford (glassengraver-01)
+- glassengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-332-glassengraver-01/glassengraver-01.epub
+- glassengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-332-glassengraver-01/glassengraver-01.pdf
+- glassengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-332-glassengraver-01/glassengraver-01.html
+- glassengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-332-glassengraver-01/glassengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-332-glassengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-332-glassengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-332-glassengraver-01/feature.png
+- glassengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-332-glassengraver-01/glassengraver-01-all-formats.zip
+
+## The Copper Engraver of Cupriford (copperengraver-01)
+- copperengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-333-copperengraver-01/copperengraver-01.epub
+- copperengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-333-copperengraver-01/copperengraver-01.pdf
+- copperengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-333-copperengraver-01/copperengraver-01.html
+- copperengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-333-copperengraver-01/copperengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-333-copperengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-333-copperengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-333-copperengraver-01/feature.png
+- copperengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-333-copperengraver-01/copperengraver-01-all-formats.zip
+
+## The Steel Engraver of Steelford (steelengraver-01)
+- steelengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-334-steelengraver-01/steelengraver-01.epub
+- steelengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-334-steelengraver-01/steelengraver-01.pdf
+- steelengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-334-steelengraver-01/steelengraver-01.html
+- steelengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-334-steelengraver-01/steelengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-334-steelengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-334-steelengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-334-steelengraver-01/feature.png
+- steelengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-334-steelengraver-01/steelengraver-01-all-formats.zip
+
+## The Plate Engraver of Plateford (plateengraver-01)
+- plateengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-335-plateengraver-01/plateengraver-01.epub
+- plateengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-335-plateengraver-01/plateengraver-01.pdf
+- plateengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-335-plateengraver-01/plateengraver-01.html
+- plateengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-335-plateengraver-01/plateengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-335-plateengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-335-plateengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-335-plateengraver-01/feature.png
+- plateengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-335-plateengraver-01/plateengraver-01-all-formats.zip
+
+## The Crystal Cutter of Facetford (crystalcutter-01)
+- crystalcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/crystalcutter-01.epub
+- crystalcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/crystalcutter-01.pdf
+- crystalcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/crystalcutter-01.html
+- crystalcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/crystalcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/feature.png
+- crystalcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-336-crystalcutter-01/crystalcutter-01-all-formats.zip
+
