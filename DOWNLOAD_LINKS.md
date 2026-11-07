@@ -3850,3 +3850,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/feature.png
 - rhodolitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/rhodolitecutter-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 48
+
+## The Morganite Cutter of Orthoclaseford (morganitecutter-01)
+- morganitecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-377-morganitecutter-01/morganitecutter-01.epub
+- morganitecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-377-morganitecutter-01/morganitecutter-01.pdf
+- morganitecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-377-morganitecutter-01/morganitecutter-01.html
+- morganitecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-377-morganitecutter-01/morganitecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-377-morganitecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-377-morganitecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-377-morganitecutter-01/feature.png
+- morganitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-377-morganitecutter-01/morganitecutter-01-all-formats.zip
+
+## The Kunzite Cutter of Topazoliteford (kunzitecutter-01)
+- kunzitecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-378-kunzitecutter-01/kunzitecutter-01.epub
+- kunzitecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-378-kunzitecutter-01/kunzitecutter-01.pdf
+- kunzitecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-378-kunzitecutter-01/kunzitecutter-01.html
+- kunzitecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-378-kunzitecutter-01/kunzitecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-378-kunzitecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-378-kunzitecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-378-kunzitecutter-01/feature.png
+- kunzitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-378-kunzitecutter-01/kunzitecutter-01-all-formats.zip
+
+## The Spessartine Cutter of Wulfeniteford (spessartinecutter-01)
+- spessartinecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-379-spessartinecutter-01/spessartinecutter-01.epub
+- spessartinecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-379-spessartinecutter-01/spessartinecutter-01.pdf
+- spessartinecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-379-spessartinecutter-01/spessartinecutter-01.html
+- spessartinecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-379-spessartinecutter-01/spessartinecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-379-spessartinecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-379-spessartinecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-379-spessartinecutter-01/feature.png
+- spessartinecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-379-spessartinecutter-01/spessartinecutter-01-all-formats.zip
+
+## The Demantoid Cutter of Zinciteford (demantoidcutter-01)
+- demantoidcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-380-demantoidcutter-01/demantoidcutter-01.epub
+- demantoidcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-380-demantoidcutter-01/demantoidcutter-01.pdf
+- demantoidcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-380-demantoidcutter-01/demantoidcutter-01.html
+- demantoidcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-380-demantoidcutter-01/demantoidcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-380-demantoidcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-380-demantoidcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-380-demantoidcutter-01/feature.png
+- demantoidcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-380-demantoidcutter-01/demantoidcutter-01-all-formats.zip
+
+## The Tsavorite Cutter of Chrysoberylford (tsavoritecutter-01)
+- tsavoritecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-381-tsavoritecutter-01/tsavoritecutter-01.epub
+- tsavoritecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-381-tsavoritecutter-01/tsavoritecutter-01.pdf
+- tsavoritecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-381-tsavoritecutter-01/tsavoritecutter-01.html
+- tsavoritecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-381-tsavoritecutter-01/tsavoritecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-381-tsavoritecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-381-tsavoritecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-381-tsavoritecutter-01/feature.png
+- tsavoritecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-381-tsavoritecutter-01/tsavoritecutter-01-all-formats.zip
+
+## The Andalusite Cutter of Grossularford (andalusitecutter-01)
+- andalusitecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-382-andalusitecutter-01/andalusitecutter-01.epub
+- andalusitecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-382-andalusitecutter-01/andalusitecutter-01.pdf
+- andalusitecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-382-andalusitecutter-01/andalusitecutter-01.html
+- andalusitecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-382-andalusitecutter-01/andalusitecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-382-andalusitecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-382-andalusitecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-382-andalusitecutter-01/feature.png
+- andalusitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-382-andalusitecutter-01/andalusitecutter-01-all-formats.zip
+
+## The Calcite Cutter of Manganeseford (calcitecutter-01)
+- calcitecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-383-calcitecutter-01/calcitecutter-01.epub
+- calcitecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-383-calcitecutter-01/calcitecutter-01.pdf
+- calcitecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-383-calcitecutter-01/calcitecutter-01.html
+- calcitecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-383-calcitecutter-01/calcitecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-383-calcitecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-383-calcitecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-383-calcitecutter-01/feature.png
+- calcitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-383-calcitecutter-01/calcitecutter-01-all-formats.zip
+
+## The Selenite Cutter of Bixbiteford (selenitecutter-01)
+- selenitecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/selenitecutter-01.epub
+- selenitecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/selenitecutter-01.pdf
+- selenitecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/selenitecutter-01.html
+- selenitecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/selenitecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/feature.png
+- selenitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/selenitecutter-01-all-formats.zip
+
