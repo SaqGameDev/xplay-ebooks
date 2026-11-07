@@ -3767,3 +3767,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-368-bloodstonecutter-01/feature.png
 - bloodstonecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-368-bloodstonecutter-01/bloodstonecutter-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 47
+
+## The Hematite Cutter of Larimarford (hematitecutter-01)
+- hematitecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-369-hematitecutter-01/hematitecutter-01.epub
+- hematitecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-369-hematitecutter-01/hematitecutter-01.pdf
+- hematitecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-369-hematitecutter-01/hematitecutter-01.html
+- hematitecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-369-hematitecutter-01/hematitecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-369-hematitecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-369-hematitecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-369-hematitecutter-01/feature.png
+- hematitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-369-hematitecutter-01/hematitecutter-01-all-formats.zip
+
+## The Chalcedony Cutter of Lazuriteford (chalcedonycutter-01)
+- chalcedonycutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-370-chalcedonycutter-01/chalcedonycutter-01.epub
+- chalcedonycutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-370-chalcedonycutter-01/chalcedonycutter-01.pdf
+- chalcedonycutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-370-chalcedonycutter-01/chalcedonycutter-01.html
+- chalcedonycutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-370-chalcedonycutter-01/chalcedonycutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-370-chalcedonycutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-370-chalcedonycutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-370-chalcedonycutter-01/feature.png
+- chalcedonycutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-370-chalcedonycutter-01/chalcedonycutter-01-all-formats.zip
+
+## The Aventurine Cutter of Zoisiteford (aventurinecutter-01)
+- aventurinecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-371-aventurinecutter-01/aventurinecutter-01.epub
+- aventurinecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-371-aventurinecutter-01/aventurinecutter-01.pdf
+- aventurinecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-371-aventurinecutter-01/aventurinecutter-01.html
+- aventurinecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-371-aventurinecutter-01/aventurinecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-371-aventurinecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-371-aventurinecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-371-aventurinecutter-01/feature.png
+- aventurinecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-371-aventurinecutter-01/aventurinecutter-01-all-formats.zip
+
+## The Labradorite Cutter of Datoliteford (labradoritecutter-01)
+- labradoritecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-372-labradoritecutter-01/labradoritecutter-01.epub
+- labradoritecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-372-labradoritecutter-01/labradoritecutter-01.pdf
+- labradoritecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-372-labradoritecutter-01/labradoritecutter-01.html
+- labradoritecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-372-labradoritecutter-01/labradoritecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-372-labradoritecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-372-labradoritecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-372-labradoritecutter-01/feature.png
+- labradoritecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-372-labradoritecutter-01/labradoritecutter-01-all-formats.zip
+
+## The Tanzanite Cutter of Varisciteford (tanzanitecutter-01)
+- tanzanitecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-373-tanzanitecutter-01/tanzanitecutter-01.epub
+- tanzanitecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-373-tanzanitecutter-01/tanzanitecutter-01.pdf
+- tanzanitecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-373-tanzanitecutter-01/tanzanitecutter-01.html
+- tanzanitecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-373-tanzanitecutter-01/tanzanitecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-373-tanzanitecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-373-tanzanitecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-373-tanzanitecutter-01/feature.png
+- tanzanitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-373-tanzanitecutter-01/tanzanitecutter-01-all-formats.zip
+
+## The Iolite Cutter of Gosheniteford (iolitecutter-01)
+- iolitecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-374-iolitecutter-01/iolitecutter-01.epub
+- iolitecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-374-iolitecutter-01/iolitecutter-01.pdf
+- iolitecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-374-iolitecutter-01/iolitecutter-01.html
+- iolitecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-374-iolitecutter-01/iolitecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-374-iolitecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-374-iolitecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-374-iolitecutter-01/feature.png
+- iolitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-374-iolitecutter-01/iolitecutter-01-all-formats.zip
+
+## The Sardonyx Cutter of Benitoiteford (sardonyxcutter-01)
+- sardonyxcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-375-sardonyxcutter-01/sardonyxcutter-01.epub
+- sardonyxcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-375-sardonyxcutter-01/sardonyxcutter-01.pdf
+- sardonyxcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-375-sardonyxcutter-01/sardonyxcutter-01.html
+- sardonyxcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-375-sardonyxcutter-01/sardonyxcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-375-sardonyxcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-375-sardonyxcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-375-sardonyxcutter-01/feature.png
+- sardonyxcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-375-sardonyxcutter-01/sardonyxcutter-01-all-formats.zip
+
+## The Rhodolite Cutter of Moldaviteford (rhodolitecutter-01)
+- rhodolitecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/rhodolitecutter-01.epub
+- rhodolitecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/rhodolitecutter-01.pdf
+- rhodolitecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/rhodolitecutter-01.html
+- rhodolitecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/rhodolitecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/feature.png
+- rhodolitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-376-rhodolitecutter-01/rhodolitecutter-01-all-formats.zip
+
