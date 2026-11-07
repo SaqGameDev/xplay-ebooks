@@ -2771,3 +2771,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/feature.png
 - lanternmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/lanternmaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 35
+
+## The Spectaclemaker of Spectacleford (spectaclemaker-01)
+- spectaclemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-273-spectaclemaker-01/spectaclemaker-01.epub
+- spectaclemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-273-spectaclemaker-01/spectaclemaker-01.pdf
+- spectaclemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-273-spectaclemaker-01/spectaclemaker-01.html
+- spectaclemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-273-spectaclemaker-01/spectaclemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-273-spectaclemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-273-spectaclemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-273-spectaclemaker-01/feature.png
+- spectaclemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-273-spectaclemaker-01/spectaclemaker-01-all-formats.zip
+
+## The Bonesetter of Boneford (bonesetter-01)
+- bonesetter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-274-bonesetter-01/bonesetter-01.epub
+- bonesetter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-274-bonesetter-01/bonesetter-01.pdf
+- bonesetter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-274-bonesetter-01/bonesetter-01.html
+- bonesetter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-274-bonesetter-01/bonesetter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-274-bonesetter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-274-bonesetter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-274-bonesetter-01/feature.png
+- bonesetter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-274-bonesetter-01/bonesetter-01-all-formats.zip
+
+## The Clogmaker of Clogford (clogmaker-01)
+- clogmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-275-clogmaker-01/clogmaker-01.epub
+- clogmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-275-clogmaker-01/clogmaker-01.pdf
+- clogmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-275-clogmaker-01/clogmaker-01.html
+- clogmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-275-clogmaker-01/clogmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-275-clogmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-275-clogmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-275-clogmaker-01/feature.png
+- clogmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-275-clogmaker-01/clogmaker-01-all-formats.zip
+
+## The Quilter of Quiltford (quilter-01)
+- quilter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-276-quilter-01/quilter-01.epub
+- quilter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-276-quilter-01/quilter-01.pdf
+- quilter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-276-quilter-01/quilter-01.html
+- quilter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-276-quilter-01/quilter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-276-quilter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-276-quilter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-276-quilter-01/feature.png
+- quilter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-276-quilter-01/quilter-01-all-formats.zip
+
+## The Staymaker of Stayford (staymaker-01)
+- staymaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-277-staymaker-01/staymaker-01.epub
+- staymaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-277-staymaker-01/staymaker-01.pdf
+- staymaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-277-staymaker-01/staymaker-01.html
+- staymaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-277-staymaker-01/staymaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-277-staymaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-277-staymaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-277-staymaker-01/feature.png
+- staymaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-277-staymaker-01/staymaker-01-all-formats.zip
+
+## The Wiredrawer of Wireford (wiredrawer-01)
+- wiredrawer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-278-wiredrawer-01/wiredrawer-01.epub
+- wiredrawer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-278-wiredrawer-01/wiredrawer-01.pdf
+- wiredrawer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-278-wiredrawer-01/wiredrawer-01.html
+- wiredrawer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-278-wiredrawer-01/wiredrawer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-278-wiredrawer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-278-wiredrawer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-278-wiredrawer-01/feature.png
+- wiredrawer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-278-wiredrawer-01/wiredrawer-01-all-formats.zip
+
+## The Filecutter of Fileford (filecutter-01)
+- filecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-279-filecutter-01/filecutter-01.epub
+- filecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-279-filecutter-01/filecutter-01.pdf
+- filecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-279-filecutter-01/filecutter-01.html
+- filecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-279-filecutter-01/filecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-279-filecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-279-filecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-279-filecutter-01/feature.png
+- filecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-279-filecutter-01/filecutter-01-all-formats.zip
+
+## The Lastmaker of Lastford (lastmaker-01)
+- lastmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/lastmaker-01.epub
+- lastmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/lastmaker-01.pdf
+- lastmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/lastmaker-01.html
+- lastmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/lastmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/feature.png
+- lastmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-280-lastmaker-01/lastmaker-01-all-formats.zip
+
