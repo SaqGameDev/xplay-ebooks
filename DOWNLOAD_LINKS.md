@@ -2937,3 +2937,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/feature.png
 - fanmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-288-fanmaker-01/fanmaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 37
+
+## The Woodcarver of Woodford (woodcarver-01)
+- woodcarver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-289-woodcarver-01/woodcarver-01.epub
+- woodcarver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-289-woodcarver-01/woodcarver-01.pdf
+- woodcarver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-289-woodcarver-01/woodcarver-01.html
+- woodcarver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-289-woodcarver-01/woodcarver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-289-woodcarver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-289-woodcarver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-289-woodcarver-01/feature.png
+- woodcarver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-289-woodcarver-01/woodcarver-01-all-formats.zip
+
+## The Enameller of Enamelford (enameller-01)
+- enameller-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-290-enameller-01/enameller-01.epub
+- enameller-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-290-enameller-01/enameller-01.pdf
+- enameller-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-290-enameller-01/enameller-01.html
+- enameller-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-290-enameller-01/enameller-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-290-enameller-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-290-enameller-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-290-enameller-01/feature.png
+- enameller-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-290-enameller-01/enameller-01-all-formats.zip
+
+## The Bootmaker of Bootford (bootmaker-01)
+- bootmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-291-bootmaker-01/bootmaker-01.epub
+- bootmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-291-bootmaker-01/bootmaker-01.pdf
+- bootmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-291-bootmaker-01/bootmaker-01.html
+- bootmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-291-bootmaker-01/bootmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-291-bootmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-291-bootmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-291-bootmaker-01/feature.png
+- bootmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-291-bootmaker-01/bootmaker-01-all-formats.zip
+
+## The Ribbonmaker of Tapeford (ribbonmaker-01)
+- ribbonmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-292-ribbonmaker-01/ribbonmaker-01.epub
+- ribbonmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-292-ribbonmaker-01/ribbonmaker-01.pdf
+- ribbonmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-292-ribbonmaker-01/ribbonmaker-01.html
+- ribbonmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-292-ribbonmaker-01/ribbonmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-292-ribbonmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-292-ribbonmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-292-ribbonmaker-01/feature.png
+- ribbonmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-292-ribbonmaker-01/ribbonmaker-01-all-formats.zip
+
+## The Beadmaker of Beadford (beadmaker-01)
+- beadmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-293-beadmaker-01/beadmaker-01.epub
+- beadmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-293-beadmaker-01/beadmaker-01.pdf
+- beadmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-293-beadmaker-01/beadmaker-01.html
+- beadmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-293-beadmaker-01/beadmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-293-beadmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-293-beadmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-293-beadmaker-01/feature.png
+- beadmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-293-beadmaker-01/beadmaker-01-all-formats.zip
+
+## The Walking Stick Maker of Stickford (walkingstickmaker-01)
+- walkingstickmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-294-walkingstickmaker-01/walkingstickmaker-01.epub
+- walkingstickmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-294-walkingstickmaker-01/walkingstickmaker-01.pdf
+- walkingstickmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-294-walkingstickmaker-01/walkingstickmaker-01.html
+- walkingstickmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-294-walkingstickmaker-01/walkingstickmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-294-walkingstickmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-294-walkingstickmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-294-walkingstickmaker-01/feature.png
+- walkingstickmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-294-walkingstickmaker-01/walkingstickmaker-01-all-formats.zip
+
+## The Snuffbox Maker of Snuffford (snuffboxmaker-01)
+- snuffboxmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-295-snuffboxmaker-01/snuffboxmaker-01.epub
+- snuffboxmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-295-snuffboxmaker-01/snuffboxmaker-01.pdf
+- snuffboxmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-295-snuffboxmaker-01/snuffboxmaker-01.html
+- snuffboxmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-295-snuffboxmaker-01/snuffboxmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-295-snuffboxmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-295-snuffboxmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-295-snuffboxmaker-01/feature.png
+- snuffboxmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-295-snuffboxmaker-01/snuffboxmaker-01-all-formats.zip
+
+## The Stainer of Stainford (stainer-01)
+- stainer-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/stainer-01.epub
+- stainer-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/stainer-01.pdf
+- stainer-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/stainer-01.html
+- stainer-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/stainer-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/feature.png
+- stainer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/stainer-01-all-formats.zip
+
