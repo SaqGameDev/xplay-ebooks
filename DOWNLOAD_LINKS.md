@@ -2688,3 +2688,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/feature.png
 - leadworker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-264-leadworker-01/leadworker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 34
+
+## The Typefounder of Typeford (typefounder-01)
+- typefounder-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-265-typefounder-01/typefounder-01.epub
+- typefounder-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-265-typefounder-01/typefounder-01.pdf
+- typefounder-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-265-typefounder-01/typefounder-01.html
+- typefounder-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-265-typefounder-01/typefounder-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-265-typefounder-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-265-typefounder-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-265-typefounder-01/feature.png
+- typefounder-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-265-typefounder-01/typefounder-01-all-formats.zip
+
+## The Buttonmaker of Buttonford (buttonmaker-01)
+- buttonmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-266-buttonmaker-01/buttonmaker-01.epub
+- buttonmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-266-buttonmaker-01/buttonmaker-01.pdf
+- buttonmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-266-buttonmaker-01/buttonmaker-01.html
+- buttonmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-266-buttonmaker-01/buttonmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-266-buttonmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-266-buttonmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-266-buttonmaker-01/feature.png
+- buttonmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-266-buttonmaker-01/buttonmaker-01-all-formats.zip
+
+## The Pinmaker of Pinbury (pinmaker-01)
+- pinmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-267-pinmaker-01/pinmaker-01.epub
+- pinmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-267-pinmaker-01/pinmaker-01.pdf
+- pinmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-267-pinmaker-01/pinmaker-01.html
+- pinmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-267-pinmaker-01/pinmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-267-pinmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-267-pinmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-267-pinmaker-01/feature.png
+- pinmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-267-pinmaker-01/pinmaker-01-all-formats.zip
+
+## The Needlemaker of Needleford (needlemaker-01)
+- needlemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-268-needlemaker-01/needlemaker-01.epub
+- needlemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-268-needlemaker-01/needlemaker-01.pdf
+- needlemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-268-needlemaker-01/needlemaker-01.html
+- needlemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-268-needlemaker-01/needlemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-268-needlemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-268-needlemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-268-needlemaker-01/feature.png
+- needlemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-268-needlemaker-01/needlemaker-01-all-formats.zip
+
+## The Combmaker of Combford (combmaker-01)
+- combmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-269-combmaker-01/combmaker-01.epub
+- combmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-269-combmaker-01/combmaker-01.pdf
+- combmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-269-combmaker-01/combmaker-01.html
+- combmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-269-combmaker-01/combmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-269-combmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-269-combmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-269-combmaker-01/feature.png
+- combmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-269-combmaker-01/combmaker-01-all-formats.zip
+
+## The Brushmaker of Brushford (brushmaker-01)
+- brushmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-270-brushmaker-01/brushmaker-01.epub
+- brushmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-270-brushmaker-01/brushmaker-01.pdf
+- brushmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-270-brushmaker-01/brushmaker-01.html
+- brushmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-270-brushmaker-01/brushmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-270-brushmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-270-brushmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-270-brushmaker-01/feature.png
+- brushmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-270-brushmaker-01/brushmaker-01-all-formats.zip
+
+## The Sievemaker of Sieveford (sievemaker-01)
+- sievemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-271-sievemaker-01/sievemaker-01.epub
+- sievemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-271-sievemaker-01/sievemaker-01.pdf
+- sievemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-271-sievemaker-01/sievemaker-01.html
+- sievemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-271-sievemaker-01/sievemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-271-sievemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-271-sievemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-271-sievemaker-01/feature.png
+- sievemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-271-sievemaker-01/sievemaker-01-all-formats.zip
+
+## The Lanternmaker of Lanternford (lanternmaker-01)
+- lanternmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/lanternmaker-01.epub
+- lanternmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/lanternmaker-01.pdf
+- lanternmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/lanternmaker-01.html
+- lanternmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/lanternmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/feature.png
+- lanternmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-272-lanternmaker-01/lanternmaker-01-all-formats.zip
+
