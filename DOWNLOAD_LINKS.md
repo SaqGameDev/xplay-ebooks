@@ -3601,3 +3601,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/feature.png
 - sapphirecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/sapphirecutter-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 45
+
+## The Emerald Cutter of Berylford (emeraldcutter-01)
+- emeraldcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-353-emeraldcutter-01/emeraldcutter-01.epub
+- emeraldcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-353-emeraldcutter-01/emeraldcutter-01.pdf
+- emeraldcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-353-emeraldcutter-01/emeraldcutter-01.html
+- emeraldcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-353-emeraldcutter-01/emeraldcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-353-emeraldcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-353-emeraldcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-353-emeraldcutter-01/feature.png
+- emeraldcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-353-emeraldcutter-01/emeraldcutter-01-all-formats.zip
+
+## The Topaz Cutter of Peridotford (topazcutter-01)
+- topazcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-354-topazcutter-01/topazcutter-01.epub
+- topazcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-354-topazcutter-01/topazcutter-01.pdf
+- topazcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-354-topazcutter-01/topazcutter-01.html
+- topazcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-354-topazcutter-01/topazcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-354-topazcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-354-topazcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-354-topazcutter-01/feature.png
+- topazcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-354-topazcutter-01/topazcutter-01-all-formats.zip
+
+## The Onyx Cutter of Zirconford (onyxcutter-01)
+- onyxcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-355-onyxcutter-01/onyxcutter-01.epub
+- onyxcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-355-onyxcutter-01/onyxcutter-01.pdf
+- onyxcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-355-onyxcutter-01/onyxcutter-01.html
+- onyxcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-355-onyxcutter-01/onyxcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-355-onyxcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-355-onyxcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-355-onyxcutter-01/feature.png
+- onyxcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-355-onyxcutter-01/onyxcutter-01-all-formats.zip
+
+## The Garnet Cutter of Jasperford (garnetcutter-01)
+- garnetcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-356-garnetcutter-01/garnetcutter-01.epub
+- garnetcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-356-garnetcutter-01/garnetcutter-01.pdf
+- garnetcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-356-garnetcutter-01/garnetcutter-01.html
+- garnetcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-356-garnetcutter-01/garnetcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-356-garnetcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-356-garnetcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-356-garnetcutter-01/feature.png
+- garnetcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-356-garnetcutter-01/garnetcutter-01-all-formats.zip
+
+## The Amethyst Cutter of Moonstoneford (amethystcutter-01)
+- amethystcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-357-amethystcutter-01/amethystcutter-01.epub
+- amethystcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-357-amethystcutter-01/amethystcutter-01.pdf
+- amethystcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-357-amethystcutter-01/amethystcutter-01.html
+- amethystcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-357-amethystcutter-01/amethystcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-357-amethystcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-357-amethystcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-357-amethystcutter-01/feature.png
+- amethystcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-357-amethystcutter-01/amethystcutter-01-all-formats.zip
+
+## The Turquoise Cutter of Citrineford (turquoisecutter-01)
+- turquoisecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-358-turquoisecutter-01/turquoisecutter-01.epub
+- turquoisecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-358-turquoisecutter-01/turquoisecutter-01.pdf
+- turquoisecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-358-turquoisecutter-01/turquoisecutter-01.html
+- turquoisecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-358-turquoisecutter-01/turquoisecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-358-turquoisecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-358-turquoisecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-358-turquoisecutter-01/feature.png
+- turquoisecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-358-turquoisecutter-01/turquoisecutter-01-all-formats.zip
+
+## The Agate Cutter of Tourmalineford (agatecutter-01)
+- agatecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-359-agatecutter-01/agatecutter-01.epub
+- agatecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-359-agatecutter-01/agatecutter-01.pdf
+- agatecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-359-agatecutter-01/agatecutter-01.html
+- agatecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-359-agatecutter-01/agatecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-359-agatecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-359-agatecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-359-agatecutter-01/feature.png
+- agatecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-359-agatecutter-01/agatecutter-01-all-formats.zip
+
+## The Obsidian Cutter of Aquamarineford (obsidiancutter-01)
+- obsidiancutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-360-obsidiancutter-01/obsidiancutter-01.epub
+- obsidiancutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-360-obsidiancutter-01/obsidiancutter-01.pdf
+- obsidiancutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-360-obsidiancutter-01/obsidiancutter-01.html
+- obsidiancutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-360-obsidiancutter-01/obsidiancutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-360-obsidiancutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-360-obsidiancutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-360-obsidiancutter-01/feature.png
+- obsidiancutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-360-obsidiancutter-01/obsidiancutter-01-all-formats.zip
+
