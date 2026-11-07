@@ -3103,3 +3103,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/feature.png
 - quillmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/quillmaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 39
+
+## The Rug Maker of Rugford (rugmaker-01)
+- rugmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-305-rugmaker-01/rugmaker-01.epub
+- rugmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-305-rugmaker-01/rugmaker-01.pdf
+- rugmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-305-rugmaker-01/rugmaker-01.html
+- rugmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-305-rugmaker-01/rugmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-305-rugmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-305-rugmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-305-rugmaker-01/feature.png
+- rugmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-305-rugmaker-01/rugmaker-01-all-formats.zip
+
+## The Carpet Maker of Carpetford (carpetmaker-01)
+- carpetmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-306-carpetmaker-01/carpetmaker-01.epub
+- carpetmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-306-carpetmaker-01/carpetmaker-01.pdf
+- carpetmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-306-carpetmaker-01/carpetmaker-01.html
+- carpetmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-306-carpetmaker-01/carpetmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-306-carpetmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-306-carpetmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-306-carpetmaker-01/feature.png
+- carpetmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-306-carpetmaker-01/carpetmaker-01-all-formats.zip
+
+## The Leatherworker of Leatherford (leatherworker-01)
+- leatherworker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-307-leatherworker-01/leatherworker-01.epub
+- leatherworker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-307-leatherworker-01/leatherworker-01.pdf
+- leatherworker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-307-leatherworker-01/leatherworker-01.html
+- leatherworker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-307-leatherworker-01/leatherworker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-307-leatherworker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-307-leatherworker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-307-leatherworker-01/feature.png
+- leatherworker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-307-leatherworker-01/leatherworker-01-all-formats.zip
+
+## The Harp Maker of Harpford (harpmaker-01)
+- harpmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-308-harpmaker-01/harpmaker-01.epub
+- harpmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-308-harpmaker-01/harpmaker-01.pdf
+- harpmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-308-harpmaker-01/harpmaker-01.html
+- harpmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-308-harpmaker-01/harpmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-308-harpmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-308-harpmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-308-harpmaker-01/feature.png
+- harpmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-308-harpmaker-01/harpmaker-01-all-formats.zip
+
+## The Flute Maker of Fluteford (flutemaker-01)
+- flutemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-309-flutemaker-01/flutemaker-01.epub
+- flutemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-309-flutemaker-01/flutemaker-01.pdf
+- flutemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-309-flutemaker-01/flutemaker-01.html
+- flutemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-309-flutemaker-01/flutemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-309-flutemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-309-flutemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-309-flutemaker-01/feature.png
+- flutemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-309-flutemaker-01/flutemaker-01-all-formats.zip
+
+## The Mirror Maker of Mirrorford (mirrormaker-01)
+- mirrormaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-310-mirrormaker-01/mirrormaker-01.epub
+- mirrormaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-310-mirrormaker-01/mirrormaker-01.pdf
+- mirrormaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-310-mirrormaker-01/mirrormaker-01.html
+- mirrormaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-310-mirrormaker-01/mirrormaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-310-mirrormaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-310-mirrormaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-310-mirrormaker-01/feature.png
+- mirrormaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-310-mirrormaker-01/mirrormaker-01-all-formats.zip
+
+## The Candlestick Maker of Flameford (candlestickmaker-01)
+- candlestickmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-311-candlestickmaker-01/candlestickmaker-01.epub
+- candlestickmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-311-candlestickmaker-01/candlestickmaker-01.pdf
+- candlestickmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-311-candlestickmaker-01/candlestickmaker-01.html
+- candlestickmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-311-candlestickmaker-01/candlestickmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-311-candlestickmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-311-candlestickmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-311-candlestickmaker-01/feature.png
+- candlestickmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-311-candlestickmaker-01/candlestickmaker-01-all-formats.zip
+
+## The Mat Maker of Matford (matmaker-01)
+- matmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/matmaker-01.epub
+- matmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/matmaker-01.pdf
+- matmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/matmaker-01.html
+- matmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/matmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/feature.png
+- matmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-312-matmaker-01/matmaker-01-all-formats.zip
+
