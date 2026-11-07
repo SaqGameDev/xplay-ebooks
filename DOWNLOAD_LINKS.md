@@ -3020,3 +3020,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/feature.png
 - stainer-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-296-stainer-01/stainer-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 38
+
+## The Ivory Carver of Ivoryford (ivorycarver-01)
+- ivorycarver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-297-ivorycarver-01/ivorycarver-01.epub
+- ivorycarver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-297-ivorycarver-01/ivorycarver-01.pdf
+- ivorycarver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-297-ivorycarver-01/ivorycarver-01.html
+- ivorycarver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-297-ivorycarver-01/ivorycarver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-297-ivorycarver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-297-ivorycarver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-297-ivorycarver-01/feature.png
+- ivorycarver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-297-ivorycarver-01/ivorycarver-01-all-formats.zip
+
+## The Pipe Maker of Pipeford (pipemaker-01)
+- pipemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-298-pipemaker-01/pipemaker-01.epub
+- pipemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-298-pipemaker-01/pipemaker-01.pdf
+- pipemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-298-pipemaker-01/pipemaker-01.html
+- pipemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-298-pipemaker-01/pipemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-298-pipemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-298-pipemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-298-pipemaker-01/feature.png
+- pipemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-298-pipemaker-01/pipemaker-01-all-formats.zip
+
+## The Luthier of Luthierford (luthier-01)
+- luthier-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-299-luthier-01/luthier-01.epub
+- luthier-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-299-luthier-01/luthier-01.pdf
+- luthier-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-299-luthier-01/luthier-01.html
+- luthier-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-299-luthier-01/luthier-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-299-luthier-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-299-luthier-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-299-luthier-01/feature.png
+- luthier-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-299-luthier-01/luthier-01-all-formats.zip
+
+## The Seamstress of Stitchford (seamstress-01)
+- seamstress-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-300-seamstress-01/seamstress-01.epub
+- seamstress-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-300-seamstress-01/seamstress-01.pdf
+- seamstress-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-300-seamstress-01/seamstress-01.html
+- seamstress-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-300-seamstress-01/seamstress-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-300-seamstress-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-300-seamstress-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-300-seamstress-01/feature.png
+- seamstress-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-300-seamstress-01/seamstress-01-all-formats.zip
+
+## The Drum Maker of Drumford (drummaker-01)
+- drummaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-301-drummaker-01/drummaker-01.epub
+- drummaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-301-drummaker-01/drummaker-01.pdf
+- drummaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-301-drummaker-01/drummaker-01.html
+- drummaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-301-drummaker-01/drummaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-301-drummaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-301-drummaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-301-drummaker-01/feature.png
+- drummaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-301-drummaker-01/drummaker-01-all-formats.zip
+
+## The Lapidary of Lapidford (lapidary-01)
+- lapidary-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-302-lapidary-01/lapidary-01.epub
+- lapidary-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-302-lapidary-01/lapidary-01.pdf
+- lapidary-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-302-lapidary-01/lapidary-01.html
+- lapidary-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-302-lapidary-01/lapidary-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-302-lapidary-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-302-lapidary-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-302-lapidary-01/feature.png
+- lapidary-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-302-lapidary-01/lapidary-01-all-formats.zip
+
+## The Pen Maker of Penford (penmaker-01)
+- penmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-303-penmaker-01/penmaker-01.epub
+- penmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-303-penmaker-01/penmaker-01.pdf
+- penmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-303-penmaker-01/penmaker-01.html
+- penmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-303-penmaker-01/penmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-303-penmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-303-penmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-303-penmaker-01/feature.png
+- penmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-303-penmaker-01/penmaker-01-all-formats.zip
+
+## The Quill Maker of Plumeford (quillmaker-01)
+- quillmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/quillmaker-01.epub
+- quillmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/quillmaker-01.pdf
+- quillmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/quillmaker-01.html
+- quillmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/quillmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/feature.png
+- quillmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-304-quillmaker-01/quillmaker-01-all-formats.zip
+
