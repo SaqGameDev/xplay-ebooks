@@ -3518,3 +3518,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/feature.png
 - stoneengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-344-stoneengraver-01/stoneengraver-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 44
+
+## The Copper Cutter of Verdigrisford (coppercutter-01)
+- coppercutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-345-coppercutter-01/coppercutter-01.epub
+- coppercutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-345-coppercutter-01/coppercutter-01.pdf
+- coppercutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-345-coppercutter-01/coppercutter-01.html
+- coppercutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-345-coppercutter-01/coppercutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-345-coppercutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-345-coppercutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-345-coppercutter-01/feature.png
+- coppercutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-345-coppercutter-01/coppercutter-01-all-formats.zip
+
+## The Steel Cutter of Temperford (steelcutter-01)
+- steelcutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-346-steelcutter-01/steelcutter-01.epub
+- steelcutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-346-steelcutter-01/steelcutter-01.pdf
+- steelcutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-346-steelcutter-01/steelcutter-01.html
+- steelcutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-346-steelcutter-01/steelcutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-346-steelcutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-346-steelcutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-346-steelcutter-01/feature.png
+- steelcutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-346-steelcutter-01/steelcutter-01-all-formats.zip
+
+## The Plate Cutter of Annealford (platecutter-01)
+- platecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-347-platecutter-01/platecutter-01.epub
+- platecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-347-platecutter-01/platecutter-01.pdf
+- platecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-347-platecutter-01/platecutter-01.html
+- platecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-347-platecutter-01/platecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-347-platecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-347-platecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-347-platecutter-01/feature.png
+- platecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-347-platecutter-01/platecutter-01-all-formats.zip
+
+## The Crystal Engraver of Bezelford (crystalengraver-01)
+- crystalengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-348-crystalengraver-01/crystalengraver-01.epub
+- crystalengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-348-crystalengraver-01/crystalengraver-01.pdf
+- crystalengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-348-crystalengraver-01/crystalengraver-01.html
+- crystalengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-348-crystalengraver-01/crystalengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-348-crystalengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-348-crystalengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-348-crystalengraver-01/feature.png
+- crystalengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-348-crystalengraver-01/crystalengraver-01-all-formats.zip
+
+## The Diamond Engraver of Diamondford (diamondengraver-01)
+- diamondengraver-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-349-diamondengraver-01/diamondengraver-01.epub
+- diamondengraver-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-349-diamondengraver-01/diamondengraver-01.pdf
+- diamondengraver-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-349-diamondengraver-01/diamondengraver-01.html
+- diamondengraver-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-349-diamondengraver-01/diamondengraver-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-349-diamondengraver-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-349-diamondengraver-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-349-diamondengraver-01/feature.png
+- diamondengraver-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-349-diamondengraver-01/diamondengraver-01-all-formats.zip
+
+## The Jade Cutter of Nephriteford (jadecutter-01)
+- jadecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-350-jadecutter-01/jadecutter-01.epub
+- jadecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-350-jadecutter-01/jadecutter-01.pdf
+- jadecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-350-jadecutter-01/jadecutter-01.html
+- jadecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-350-jadecutter-01/jadecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-350-jadecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-350-jadecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-350-jadecutter-01/feature.png
+- jadecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-350-jadecutter-01/jadecutter-01-all-formats.zip
+
+## The Ruby Cutter of Spinelford (rubycutter-01)
+- rubycutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-351-rubycutter-01/rubycutter-01.epub
+- rubycutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-351-rubycutter-01/rubycutter-01.pdf
+- rubycutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-351-rubycutter-01/rubycutter-01.html
+- rubycutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-351-rubycutter-01/rubycutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-351-rubycutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-351-rubycutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-351-rubycutter-01/feature.png
+- rubycutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-351-rubycutter-01/rubycutter-01-all-formats.zip
+
+## The Sapphire Cutter of Corundumford (sapphirecutter-01)
+- sapphirecutter-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/sapphirecutter-01.epub
+- sapphirecutter-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/sapphirecutter-01.pdf
+- sapphirecutter-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/sapphirecutter-01.html
+- sapphirecutter-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/sapphirecutter-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/feature.png
+- sapphirecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-352-sapphirecutter-01/sapphirecutter-01-all-formats.zip
+
