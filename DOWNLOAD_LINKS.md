@@ -3933,3 +3933,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/feature.png
 - selenitecutter-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-384-selenitecutter-01/selenitecutter-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 49
+
+## The Violin Maker of Violinford (violinmaker-01)
+- violinmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-385-violinmaker-01/violinmaker-01.epub
+- violinmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-385-violinmaker-01/violinmaker-01.pdf
+- violinmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-385-violinmaker-01/violinmaker-01.html
+- violinmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-385-violinmaker-01/violinmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-385-violinmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-385-violinmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-385-violinmaker-01/feature.png
+- violinmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-385-violinmaker-01/violinmaker-01-all-formats.zip
+
+## The Cello Maker of Bowford (cellomaker-01)
+- cellomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-386-cellomaker-01/cellomaker-01.epub
+- cellomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-386-cellomaker-01/cellomaker-01.pdf
+- cellomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-386-cellomaker-01/cellomaker-01.html
+- cellomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-386-cellomaker-01/cellomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-386-cellomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-386-cellomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-386-cellomaker-01/feature.png
+- cellomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-386-cellomaker-01/cellomaker-01-all-formats.zip
+
+## The Guitar Maker of Scrollford (guitarmaker-01)
+- guitarmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-387-guitarmaker-01/guitarmaker-01.epub
+- guitarmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-387-guitarmaker-01/guitarmaker-01.pdf
+- guitarmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-387-guitarmaker-01/guitarmaker-01.html
+- guitarmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-387-guitarmaker-01/guitarmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-387-guitarmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-387-guitarmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-387-guitarmaker-01/feature.png
+- guitarmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-387-guitarmaker-01/guitarmaker-01-all-formats.zip
+
+## The Mandolin Maker of Varnishford (mandolinmaker-01)
+- mandolinmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-388-mandolinmaker-01/mandolinmaker-01.epub
+- mandolinmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-388-mandolinmaker-01/mandolinmaker-01.pdf
+- mandolinmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-388-mandolinmaker-01/mandolinmaker-01.html
+- mandolinmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-388-mandolinmaker-01/mandolinmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-388-mandolinmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-388-mandolinmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-388-mandolinmaker-01/feature.png
+- mandolinmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-388-mandolinmaker-01/mandolinmaker-01-all-formats.zip
+
+## The Organ Maker of Altoford (organmaker-01)
+- organmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-389-organmaker-01/organmaker-01.epub
+- organmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-389-organmaker-01/organmaker-01.pdf
+- organmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-389-organmaker-01/organmaker-01.html
+- organmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-389-organmaker-01/organmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-389-organmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-389-organmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-389-organmaker-01/feature.png
+- organmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-389-organmaker-01/organmaker-01-all-formats.zip
+
+## The Piano Maker of Fholeford (pianomaker-01)
+- pianomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-390-pianomaker-01/pianomaker-01.epub
+- pianomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-390-pianomaker-01/pianomaker-01.pdf
+- pianomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-390-pianomaker-01/pianomaker-01.html
+- pianomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-390-pianomaker-01/pianomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-390-pianomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-390-pianomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-390-pianomaker-01/feature.png
+- pianomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-390-pianomaker-01/pianomaker-01-all-formats.zip
+
+## The Harpsichord Maker of Hambergiteford (harpsichordmaker-01)
+- harpsichordmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-391-harpsichordmaker-01/harpsichordmaker-01.epub
+- harpsichordmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-391-harpsichordmaker-01/harpsichordmaker-01.pdf
+- harpsichordmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-391-harpsichordmaker-01/harpsichordmaker-01.html
+- harpsichordmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-391-harpsichordmaker-01/harpsichordmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-391-harpsichordmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-391-harpsichordmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-391-harpsichordmaker-01/feature.png
+- harpsichordmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-391-harpsichordmaker-01/harpsichordmaker-01-all-formats.zip
+
+## The Clarinet Maker of Marialiteford (clarinetmaker-01)
+- clarinetmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/clarinetmaker-01.epub
+- clarinetmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/clarinetmaker-01.pdf
+- clarinetmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/clarinetmaker-01.html
+- clarinetmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/clarinetmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/feature.png
+- clarinetmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/clarinetmaker-01-all-formats.zip
+
