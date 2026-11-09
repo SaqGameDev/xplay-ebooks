@@ -4182,3 +4182,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/feature.png
 - lutemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/lutemaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 52
+
+## The Cornet Maker of Pitchford (cornetmaker-01)
+- cornetmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-409-cornetmaker-01/cornetmaker-01.epub
+- cornetmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-409-cornetmaker-01/cornetmaker-01.pdf
+- cornetmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-409-cornetmaker-01/cornetmaker-01.html
+- cornetmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-409-cornetmaker-01/cornetmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-409-cornetmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-409-cornetmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-409-cornetmaker-01/feature.png
+- cornetmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-409-cornetmaker-01/cornetmaker-01-all-formats.zip
+
+## The Euphonium Maker of Valvesford (euphoniummaker-01)
+- euphoniummaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-410-euphoniummaker-01/euphoniummaker-01.epub
+- euphoniummaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-410-euphoniummaker-01/euphoniummaker-01.pdf
+- euphoniummaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-410-euphoniummaker-01/euphoniummaker-01.html
+- euphoniummaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-410-euphoniummaker-01/euphoniummaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-410-euphoniummaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-410-euphoniummaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-410-euphoniummaker-01/feature.png
+- euphoniummaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-410-euphoniummaker-01/euphoniummaker-01-all-formats.zip
+
+## The Viola Maker of Purfleford (violamaker-01)
+- violamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-411-violamaker-01/violamaker-01.epub
+- violamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-411-violamaker-01/violamaker-01.pdf
+- violamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-411-violamaker-01/violamaker-01.html
+- violamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-411-violamaker-01/violamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-411-violamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-411-violamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-411-violamaker-01/feature.png
+- violamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-411-violamaker-01/violamaker-01-all-formats.zip
+
+## The Double Bass Maker of Stopford (doublebassmaker-01)
+- doublebassmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-412-doublebassmaker-01/doublebassmaker-01.epub
+- doublebassmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-412-doublebassmaker-01/doublebassmaker-01.pdf
+- doublebassmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-412-doublebassmaker-01/doublebassmaker-01.html
+- doublebassmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-412-doublebassmaker-01/doublebassmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-412-doublebassmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-412-doublebassmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-412-doublebassmaker-01/feature.png
+- doublebassmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-412-doublebassmaker-01/doublebassmaker-01-all-formats.zip
+
+## The Bouzouki Maker of Lacquerford (bouzoukimaker-01)
+- bouzoukimaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-413-bouzoukimaker-01/bouzoukimaker-01.epub
+- bouzoukimaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-413-bouzoukimaker-01/bouzoukimaker-01.pdf
+- bouzoukimaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-413-bouzoukimaker-01/bouzoukimaker-01.html
+- bouzoukimaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-413-bouzoukimaker-01/bouzoukimaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-413-bouzoukimaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-413-bouzoukimaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-413-bouzoukimaker-01/feature.png
+- bouzoukimaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-413-bouzoukimaker-01/bouzoukimaker-01-all-formats.zip
+
+## The Concertina Maker of Fippleford (concertinamaker-01)
+- concertinamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-414-concertinamaker-01/concertinamaker-01.epub
+- concertinamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-414-concertinamaker-01/concertinamaker-01.pdf
+- concertinamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-414-concertinamaker-01/concertinamaker-01.html
+- concertinamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-414-concertinamaker-01/concertinamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-414-concertinamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-414-concertinamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-414-concertinamaker-01/feature.png
+- concertinamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-414-concertinamaker-01/concertinamaker-01-all-formats.zip
+
+## The Ocarina Maker of Windford (ocarinamaker-01)
+- ocarinamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-415-ocarinamaker-01/ocarinamaker-01.epub
+- ocarinamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-415-ocarinamaker-01/ocarinamaker-01.pdf
+- ocarinamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-415-ocarinamaker-01/ocarinamaker-01.html
+- ocarinamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-415-ocarinamaker-01/ocarinamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-415-ocarinamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-415-ocarinamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-415-ocarinamaker-01/feature.png
+- ocarinamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-415-ocarinamaker-01/ocarinamaker-01-all-formats.zip
+
+## The Hurdy-Gurdy Maker of Spruceford (hurdygurdymaker-01)
+- hurdygurdymaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/hurdygurdymaker-01.epub
+- hurdygurdymaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/hurdygurdymaker-01.pdf
+- hurdygurdymaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/hurdygurdymaker-01.html
+- hurdygurdymaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/hurdygurdymaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/feature.png
+- hurdygurdymaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/hurdygurdymaker-01-all-formats.zip
+
