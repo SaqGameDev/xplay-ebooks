@@ -4265,3 +4265,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/feature.png
 - hurdygurdymaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-416-hurdygurdymaker-01/hurdygurdymaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 53
+
+## The Fiddle Maker of Cedarford (fiddlemaker-01)
+- fiddlemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-417-fiddlemaker-01/fiddlemaker-01.epub
+- fiddlemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-417-fiddlemaker-01/fiddlemaker-01.pdf
+- fiddlemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-417-fiddlemaker-01/fiddlemaker-01.html
+- fiddlemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-417-fiddlemaker-01/fiddlemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-417-fiddlemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-417-fiddlemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-417-fiddlemaker-01/feature.png
+- fiddlemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-417-fiddlemaker-01/fiddlemaker-01-all-formats.zip
+
+## The Sitar Maker of Alderford (sitarmaker-01)
+- sitarmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-418-sitarmaker-01/sitarmaker-01.epub
+- sitarmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-418-sitarmaker-01/sitarmaker-01.pdf
+- sitarmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-418-sitarmaker-01/sitarmaker-01.html
+- sitarmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-418-sitarmaker-01/sitarmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-418-sitarmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-418-sitarmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-418-sitarmaker-01/feature.png
+- sitarmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-418-sitarmaker-01/sitarmaker-01-all-formats.zip
+
+## The Marimba Maker of Hollyford (marimbamaker-01)
+- marimbamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-419-marimbamaker-01/marimbamaker-01.epub
+- marimbamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-419-marimbamaker-01/marimbamaker-01.pdf
+- marimbamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-419-marimbamaker-01/marimbamaker-01.html
+- marimbamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-419-marimbamaker-01/marimbamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-419-marimbamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-419-marimbamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-419-marimbamaker-01/feature.png
+- marimbamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-419-marimbamaker-01/marimbamaker-01-all-formats.zip
+
+## The Xylophone Maker of Rowanford (xylophonemaker-01)
+- xylophonemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-420-xylophonemaker-01/xylophonemaker-01.epub
+- xylophonemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-420-xylophonemaker-01/xylophonemaker-01.pdf
+- xylophonemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-420-xylophonemaker-01/xylophonemaker-01.html
+- xylophonemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-420-xylophonemaker-01/xylophonemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-420-xylophonemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-420-xylophonemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-420-xylophonemaker-01/feature.png
+- xylophonemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-420-xylophonemaker-01/xylophonemaker-01-all-formats.zip
+
+## The Tambourine Maker of Lindenford (tambourinemaker-01)
+- tambourinemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-421-tambourinemaker-01/tambourinemaker-01.epub
+- tambourinemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-421-tambourinemaker-01/tambourinemaker-01.pdf
+- tambourinemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-421-tambourinemaker-01/tambourinemaker-01.html
+- tambourinemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-421-tambourinemaker-01/tambourinemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-421-tambourinemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-421-tambourinemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-421-tambourinemaker-01/feature.png
+- tambourinemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-421-tambourinemaker-01/tambourinemaker-01-all-formats.zip
+
+## The Didgeridoo Maker of Chestnutford (didgeridoomaker-01)
+- didgeridoomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-422-didgeridoomaker-01/didgeridoomaker-01.epub
+- didgeridoomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-422-didgeridoomaker-01/didgeridoomaker-01.pdf
+- didgeridoomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-422-didgeridoomaker-01/didgeridoomaker-01.html
+- didgeridoomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-422-didgeridoomaker-01/didgeridoomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-422-didgeridoomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-422-didgeridoomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-422-didgeridoomaker-01/feature.png
+- didgeridoomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-422-didgeridoomaker-01/didgeridoomaker-01-all-formats.zip
+
+## The Steelpan Maker of Birchford (steelpanmaker-01)
+- steelpanmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-423-steelpanmaker-01/steelpanmaker-01.epub
+- steelpanmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-423-steelpanmaker-01/steelpanmaker-01.pdf
+- steelpanmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-423-steelpanmaker-01/steelpanmaker-01.html
+- steelpanmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-423-steelpanmaker-01/steelpanmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-423-steelpanmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-423-steelpanmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-423-steelpanmaker-01/feature.png
+- steelpanmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-423-steelpanmaker-01/steelpanmaker-01-all-formats.zip
+
+## The Balafon Maker of Sycamoreford (balafonmaker-01)
+- balafonmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/balafonmaker-01.epub
+- balafonmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/balafonmaker-01.pdf
+- balafonmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/balafonmaker-01.html
+- balafonmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/balafonmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/feature.png
+- balafonmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/balafonmaker-01-all-formats.zip
+
