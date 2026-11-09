@@ -4016,3 +4016,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/feature.png
 - clarinetmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-392-clarinetmaker-01/clarinetmaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 50
+
+## The Oboe Maker of Valveford (oboemaker-01)
+- oboemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-393-oboemaker-01/oboemaker-01.epub
+- oboemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-393-oboemaker-01/oboemaker-01.pdf
+- oboemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-393-oboemaker-01/oboemaker-01.html
+- oboemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-393-oboemaker-01/oboemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-393-oboemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-393-oboemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-393-oboemaker-01/feature.png
+- oboemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-393-oboemaker-01/oboemaker-01-all-formats.zip
+
+## The Bassoon Maker of Padford (bassoonmaker-01)
+- bassoonmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-394-bassoonmaker-01/bassoonmaker-01.epub
+- bassoonmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-394-bassoonmaker-01/bassoonmaker-01.pdf
+- bassoonmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-394-bassoonmaker-01/bassoonmaker-01.html
+- bassoonmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-394-bassoonmaker-01/bassoonmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-394-bassoonmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-394-bassoonmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-394-bassoonmaker-01/feature.png
+- bassoonmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-394-bassoonmaker-01/bassoonmaker-01-all-formats.zip
+
+## The Trumpet Maker of Soundboardford (trumpetmaker-01)
+- trumpetmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-395-trumpetmaker-01/trumpetmaker-01.epub
+- trumpetmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-395-trumpetmaker-01/trumpetmaker-01.pdf
+- trumpetmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-395-trumpetmaker-01/trumpetmaker-01.html
+- trumpetmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-395-trumpetmaker-01/trumpetmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-395-trumpetmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-395-trumpetmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-395-trumpetmaker-01/feature.png
+- trumpetmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-395-trumpetmaker-01/trumpetmaker-01-all-formats.zip
+
+## The Trombone Maker of Nutford (trombonemaker-01)
+- trombonemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-396-trombonemaker-01/trombonemaker-01.epub
+- trombonemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-396-trombonemaker-01/trombonemaker-01.pdf
+- trombonemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-396-trombonemaker-01/trombonemaker-01.html
+- trombonemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-396-trombonemaker-01/trombonemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-396-trombonemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-396-trombonemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-396-trombonemaker-01/feature.png
+- trombonemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-396-trombonemaker-01/trombonemaker-01-all-formats.zip
+
+## The Recorder Maker of Chinrestford (recordermaker-01)
+- recordermaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-397-recordermaker-01/recordermaker-01.epub
+- recordermaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-397-recordermaker-01/recordermaker-01.pdf
+- recordermaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-397-recordermaker-01/recordermaker-01.html
+- recordermaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-397-recordermaker-01/recordermaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-397-recordermaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-397-recordermaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-397-recordermaker-01/feature.png
+- recordermaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-397-recordermaker-01/recordermaker-01-all-formats.zip
+
+## The Bagpipe Maker of Soundpostford (bagpipemaker-01)
+- bagpipemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-398-bagpipemaker-01/bagpipemaker-01.epub
+- bagpipemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-398-bagpipemaker-01/bagpipemaker-01.pdf
+- bagpipemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-398-bagpipemaker-01/bagpipemaker-01.html
+- bagpipemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-398-bagpipemaker-01/bagpipemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-398-bagpipemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-398-bagpipemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-398-bagpipemaker-01/feature.png
+- bagpipemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-398-bagpipemaker-01/bagpipemaker-01-all-formats.zip
+
+## The Dulcimer Maker of Tektiteford (dulcimermaker-01)
+- dulcimermaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-399-dulcimermaker-01/dulcimermaker-01.epub
+- dulcimermaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-399-dulcimermaker-01/dulcimermaker-01.pdf
+- dulcimermaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-399-dulcimermaker-01/dulcimermaker-01.html
+- dulcimermaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-399-dulcimermaker-01/dulcimermaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-399-dulcimermaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-399-dulcimermaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-399-dulcimermaker-01/feature.png
+- dulcimermaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-399-dulcimermaker-01/dulcimermaker-01-all-formats.zip
+
+## The Zither Maker of Andraditeford (zithermaker-01)
+- zithermaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/zithermaker-01.epub
+- zithermaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/zithermaker-01.pdf
+- zithermaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/zithermaker-01.html
+- zithermaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/zithermaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/feature.png
+- zithermaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/zithermaker-01-all-formats.zip
+
