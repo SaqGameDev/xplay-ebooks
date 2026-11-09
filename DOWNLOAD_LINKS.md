@@ -4099,3 +4099,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/feature.png
 - zithermaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-400-zithermaker-01/zithermaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 51
+
+## The Saxophone Maker of Flareford (saxophonemaker-01)
+- saxophonemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-401-saxophonemaker-01/saxophonemaker-01.epub
+- saxophonemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-401-saxophonemaker-01/saxophonemaker-01.pdf
+- saxophonemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-401-saxophonemaker-01/saxophonemaker-01.html
+- saxophonemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-401-saxophonemaker-01/saxophonemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-401-saxophonemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-401-saxophonemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-401-saxophonemaker-01/feature.png
+- saxophonemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-401-saxophonemaker-01/saxophonemaker-01-all-formats.zip
+
+## The French Horn Maker of Rotaryford (frenchhornmaker-01)
+- frenchhornmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-402-frenchhornmaker-01/frenchhornmaker-01.epub
+- frenchhornmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-402-frenchhornmaker-01/frenchhornmaker-01.pdf
+- frenchhornmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-402-frenchhornmaker-01/frenchhornmaker-01.html
+- frenchhornmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-402-frenchhornmaker-01/frenchhornmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-402-frenchhornmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-402-frenchhornmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-402-frenchhornmaker-01/feature.png
+- frenchhornmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-402-frenchhornmaker-01/frenchhornmaker-01-all-formats.zip
+
+## The Tuba Maker of Sousaford (tubamaker-01)
+- tubamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-403-tubamaker-01/tubamaker-01.epub
+- tubamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-403-tubamaker-01/tubamaker-01.pdf
+- tubamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-403-tubamaker-01/tubamaker-01.html
+- tubamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-403-tubamaker-01/tubamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-403-tubamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-403-tubamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-403-tubamaker-01/feature.png
+- tubamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-403-tubamaker-01/tubamaker-01-all-formats.zip
+
+## The Banjo Maker of Headford (banjomaker-01)
+- banjomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-404-banjomaker-01/banjomaker-01.epub
+- banjomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-404-banjomaker-01/banjomaker-01.pdf
+- banjomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-404-banjomaker-01/banjomaker-01.html
+- banjomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-404-banjomaker-01/banjomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-404-banjomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-404-banjomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-404-banjomaker-01/feature.png
+- banjomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-404-banjomaker-01/banjomaker-01-all-formats.zip
+
+## The Ukulele Maker of Koaford (ukulelemaker-01)
+- ukulelemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-405-ukulelemaker-01/ukulelemaker-01.epub
+- ukulelemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-405-ukulelemaker-01/ukulelemaker-01.pdf
+- ukulelemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-405-ukulelemaker-01/ukulelemaker-01.html
+- ukulelemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-405-ukulelemaker-01/ukulelemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-405-ukulelemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-405-ukulelemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-405-ukulelemaker-01/feature.png
+- ukulelemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-405-ukulelemaker-01/ukulelemaker-01-all-formats.zip
+
+## The Accordion Maker of Bellowsford (accordionmaker-01)
+- accordionmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-406-accordionmaker-01/accordionmaker-01.epub
+- accordionmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-406-accordionmaker-01/accordionmaker-01.pdf
+- accordionmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-406-accordionmaker-01/accordionmaker-01.html
+- accordionmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-406-accordionmaker-01/accordionmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-406-accordionmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-406-accordionmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-406-accordionmaker-01/feature.png
+- accordionmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-406-accordionmaker-01/accordionmaker-01-all-formats.zip
+
+## The Harmonica Maker of Drawford (harmonicamaker-01)
+- harmonicamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-407-harmonicamaker-01/harmonicamaker-01.epub
+- harmonicamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-407-harmonicamaker-01/harmonicamaker-01.pdf
+- harmonicamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-407-harmonicamaker-01/harmonicamaker-01.html
+- harmonicamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-407-harmonicamaker-01/harmonicamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-407-harmonicamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-407-harmonicamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-407-harmonicamaker-01/feature.png
+- harmonicamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-407-harmonicamaker-01/harmonicamaker-01-all-formats.zip
+
+## The Lute Maker of Rosetteford (lutemaker-01)
+- lutemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/lutemaker-01.epub
+- lutemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/lutemaker-01.pdf
+- lutemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/lutemaker-01.html
+- lutemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/lutemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/feature.png
+- lutemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-408-lutemaker-01/lutemaker-01-all-formats.zip
+
