@@ -4348,3 +4348,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/feature.png
 - balafonmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-424-balafonmaker-01/balafonmaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 54
+
+## The Shamisen Maker of Aspenford (shamisenmaker-01)
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-425-shamisenmaker-01/cover.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-425-shamisenmaker-01/feature.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-425-shamisenmaker-01/logo.png
+- shamisenmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-425-shamisenmaker-01/shamisenmaker-01-all-formats.zip
+- shamisenmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-425-shamisenmaker-01/shamisenmaker-01.epub
+- shamisenmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-425-shamisenmaker-01/shamisenmaker-01.html
+- shamisenmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-425-shamisenmaker-01/shamisenmaker-01.pdf
+- shamisenmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-425-shamisenmaker-01/shamisenmaker-01.txt
+
+## The Erhu Maker of Poplarford (erhumaker-01)
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-426-erhumaker-01/cover.png
+- erhumaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-426-erhumaker-01/erhumaker-01-all-formats.zip
+- erhumaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-426-erhumaker-01/erhumaker-01.epub
+- erhumaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-426-erhumaker-01/erhumaker-01.html
+- erhumaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-426-erhumaker-01/erhumaker-01.pdf
+- erhumaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-426-erhumaker-01/erhumaker-01.txt
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-426-erhumaker-01/feature.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-426-erhumaker-01/logo.png
+
+## The Panpipe Maker of Hawthornford (panpipemaker-01)
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-427-panpipemaker-01/cover.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-427-panpipemaker-01/feature.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-427-panpipemaker-01/logo.png
+- panpipemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-427-panpipemaker-01/panpipemaker-01-all-formats.zip
+- panpipemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-427-panpipemaker-01/panpipemaker-01.epub
+- panpipemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-427-panpipemaker-01/panpipemaker-01.html
+- panpipemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-427-panpipemaker-01/panpipemaker-01.pdf
+- panpipemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-427-panpipemaker-01/panpipemaker-01.txt
+
+## The Kalimba Maker of Elderford (kalimbamaker-01)
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-428-kalimbamaker-01/cover.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-428-kalimbamaker-01/feature.png
+- kalimbamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-428-kalimbamaker-01/kalimbamaker-01-all-formats.zip
+- kalimbamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-428-kalimbamaker-01/kalimbamaker-01.epub
+- kalimbamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-428-kalimbamaker-01/kalimbamaker-01.html
+- kalimbamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-428-kalimbamaker-01/kalimbamaker-01.pdf
+- kalimbamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-428-kalimbamaker-01/kalimbamaker-01.txt
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-428-kalimbamaker-01/logo.png
+
+## The Djembe Maker of Sorrelford (djembemaker-01)
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-429-djembemaker-01/cover.png
+- djembemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-429-djembemaker-01/djembemaker-01-all-formats.zip
+- djembemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-429-djembemaker-01/djembemaker-01.epub
+- djembemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-429-djembemaker-01/djembemaker-01.html
+- djembemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-429-djembemaker-01/djembemaker-01.pdf
+- djembemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-429-djembemaker-01/djembemaker-01.txt
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-429-djembemaker-01/feature.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-429-djembemaker-01/logo.png
+
+## The Bodhran Maker of Briarford (bodhranmaker-01)
+- bodhranmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-430-bodhranmaker-01/bodhranmaker-01-all-formats.zip
+- bodhranmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-430-bodhranmaker-01/bodhranmaker-01.epub
+- bodhranmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-430-bodhranmaker-01/bodhranmaker-01.html
+- bodhranmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-430-bodhranmaker-01/bodhranmaker-01.pdf
+- bodhranmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-430-bodhranmaker-01/bodhranmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-430-bodhranmaker-01/cover.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-430-bodhranmaker-01/feature.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-430-bodhranmaker-01/logo.png
+
+## The Psaltery Maker of Magnoliaford (psalterymaker-01)
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-431-psalterymaker-01/cover.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-431-psalterymaker-01/feature.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-431-psalterymaker-01/logo.png
+- psalterymaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-431-psalterymaker-01/psalterymaker-01-all-formats.zip
+- psalterymaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-431-psalterymaker-01/psalterymaker-01.epub
+- psalterymaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-431-psalterymaker-01/psalterymaker-01.html
+- psalterymaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-431-psalterymaker-01/psalterymaker-01.pdf
+- psalterymaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-431-psalterymaker-01/psalterymaker-01.txt
+
+## The Cittern Maker of Tamarindford (citternmaker-01)
+- citternmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-432-citternmaker-01/citternmaker-01-all-formats.zip
+- citternmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-432-citternmaker-01/citternmaker-01.epub
+- citternmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-432-citternmaker-01/citternmaker-01.html
+- citternmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-432-citternmaker-01/citternmaker-01.pdf
+- citternmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-432-citternmaker-01/citternmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-432-citternmaker-01/cover.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-432-citternmaker-01/feature.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-432-citternmaker-01/logo.png
+
