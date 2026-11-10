@@ -4763,3 +4763,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-464-tabormaker-01/feature.png
 - tabormaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-464-tabormaker-01/tabormaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 59
+
+## The Dulzaina Maker of Comfreyford (dulzainamaker-01)
+- dulzainamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-465-dulzainamaker-01/dulzainamaker-01.epub
+- dulzainamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-465-dulzainamaker-01/dulzainamaker-01.pdf
+- dulzainamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-465-dulzainamaker-01/dulzainamaker-01.html
+- dulzainamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-465-dulzainamaker-01/dulzainamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-465-dulzainamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-465-dulzainamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-465-dulzainamaker-01/feature.png
+- dulzainamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-465-dulzainamaker-01/dulzainamaker-01-all-formats.zip
+
+## The Tenora Maker of Horehoundford (tenoramaker-01)
+- tenoramaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-466-tenoramaker-01/tenoramaker-01.epub
+- tenoramaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-466-tenoramaker-01/tenoramaker-01.pdf
+- tenoramaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-466-tenoramaker-01/tenoramaker-01.html
+- tenoramaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-466-tenoramaker-01/tenoramaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-466-tenoramaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-466-tenoramaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-466-tenoramaker-01/feature.png
+- tenoramaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-466-tenoramaker-01/tenoramaker-01-all-formats.zip
+
+## The Charango Maker of Pennyroyalford (charangomaker-01)
+- charangomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-467-charangomaker-01/charangomaker-01.epub
+- charangomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-467-charangomaker-01/charangomaker-01.pdf
+- charangomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-467-charangomaker-01/charangomaker-01.html
+- charangomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-467-charangomaker-01/charangomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-467-charangomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-467-charangomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-467-charangomaker-01/feature.png
+- charangomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-467-charangomaker-01/charangomaker-01-all-formats.zip
+
+## The Cuatro Maker of Angelicaford (cuatromaker-01)
+- cuatromaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-468-cuatromaker-01/cuatromaker-01.epub
+- cuatromaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-468-cuatromaker-01/cuatromaker-01.pdf
+- cuatromaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-468-cuatromaker-01/cuatromaker-01.html
+- cuatromaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-468-cuatromaker-01/cuatromaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-468-cuatromaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-468-cuatromaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-468-cuatromaker-01/feature.png
+- cuatromaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-468-cuatromaker-01/cuatromaker-01-all-formats.zip
+
+## The Cavaquinho Maker of Lovageford (cavaquinhomaker-01)
+- cavaquinhomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-469-cavaquinhomaker-01/cavaquinhomaker-01.epub
+- cavaquinhomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-469-cavaquinhomaker-01/cavaquinhomaker-01.pdf
+- cavaquinhomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-469-cavaquinhomaker-01/cavaquinhomaker-01.html
+- cavaquinhomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-469-cavaquinhomaker-01/cavaquinhomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-469-cavaquinhomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-469-cavaquinhomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-469-cavaquinhomaker-01/feature.png
+- cavaquinhomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-469-cavaquinhomaker-01/cavaquinhomaker-01-all-formats.zip
+
+## The Bandurria Maker of Marjoramford (bandurriamaker-01)
+- bandurriamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-470-bandurriamaker-01/bandurriamaker-01.epub
+- bandurriamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-470-bandurriamaker-01/bandurriamaker-01.pdf
+- bandurriamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-470-bandurriamaker-01/bandurriamaker-01.html
+- bandurriamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-470-bandurriamaker-01/bandurriamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-470-bandurriamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-470-bandurriamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-470-bandurriamaker-01/feature.png
+- bandurriamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-470-bandurriamaker-01/bandurriamaker-01-all-formats.zip
+
+## The Rebab Maker of Thymeford (rebabmaker-01)
+- rebabmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-471-rebabmaker-01/rebabmaker-01.epub
+- rebabmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-471-rebabmaker-01/rebabmaker-01.pdf
+- rebabmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-471-rebabmaker-01/rebabmaker-01.html
+- rebabmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-471-rebabmaker-01/rebabmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-471-rebabmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-471-rebabmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-471-rebabmaker-01/feature.png
+- rebabmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-471-rebabmaker-01/rebabmaker-01-all-formats.zip
+
+## The Sarangi Maker of Chamomileford (sarangimaker-01)
+- sarangimaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-472-sarangimaker-01/sarangimaker-01.epub
+- sarangimaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-472-sarangimaker-01/sarangimaker-01.pdf
+- sarangimaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-472-sarangimaker-01/sarangimaker-01.html
+- sarangimaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-472-sarangimaker-01/sarangimaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-472-sarangimaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-472-sarangimaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-472-sarangimaker-01/feature.png
+- sarangimaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-472-sarangimaker-01/sarangimaker-01-all-formats.zip
+
