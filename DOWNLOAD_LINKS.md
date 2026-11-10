@@ -4514,3 +4514,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-440-theorbomaker-01/feature.png
 - theorbomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-440-theorbomaker-01/theorbomaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 56
+
+## The Archlute Maker of Bluebellford (archlutemaker-01)
+- archlutemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-441-archlutemaker-01/archlutemaker-01.epub
+- archlutemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-441-archlutemaker-01/archlutemaker-01.pdf
+- archlutemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-441-archlutemaker-01/archlutemaker-01.html
+- archlutemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-441-archlutemaker-01/archlutemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-441-archlutemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-441-archlutemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-441-archlutemaker-01/feature.png
+- archlutemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-441-archlutemaker-01/archlutemaker-01-all-formats.zip
+
+## The Ophicleide Maker of Snowdropford (ophicleidemaker-01)
+- ophicleidemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-442-ophicleidemaker-01/ophicleidemaker-01.epub
+- ophicleidemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-442-ophicleidemaker-01/ophicleidemaker-01.pdf
+- ophicleidemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-442-ophicleidemaker-01/ophicleidemaker-01.html
+- ophicleidemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-442-ophicleidemaker-01/ophicleidemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-442-ophicleidemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-442-ophicleidemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-442-ophicleidemaker-01/feature.png
+- ophicleidemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-442-ophicleidemaker-01/ophicleidemaker-01-all-formats.zip
+
+## The Chalumeau Maker of Daffodilford (chalumeaumaker-01)
+- chalumeaumaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-443-chalumeaumaker-01/chalumeaumaker-01.epub
+- chalumeaumaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-443-chalumeaumaker-01/chalumeaumaker-01.pdf
+- chalumeaumaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-443-chalumeaumaker-01/chalumeaumaker-01.html
+- chalumeaumaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-443-chalumeaumaker-01/chalumeaumaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-443-chalumeaumaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-443-chalumeaumaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-443-chalumeaumaker-01/feature.png
+- chalumeaumaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-443-chalumeaumaker-01/chalumeaumaker-01-all-formats.zip
+
+## The Dulcian Maker of Marigoldford (dulcianmaker-01)
+- dulcianmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-444-dulcianmaker-01/dulcianmaker-01.epub
+- dulcianmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-444-dulcianmaker-01/dulcianmaker-01.pdf
+- dulcianmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-444-dulcianmaker-01/dulcianmaker-01.html
+- dulcianmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-444-dulcianmaker-01/dulcianmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-444-dulcianmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-444-dulcianmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-444-dulcianmaker-01/feature.png
+- dulcianmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-444-dulcianmaker-01/dulcianmaker-01-all-formats.zip
+
+## The Gemshorn Maker of Lavenderford (gemshornmaker-01)
+- gemshornmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-445-gemshornmaker-01/gemshornmaker-01.epub
+- gemshornmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-445-gemshornmaker-01/gemshornmaker-01.pdf
+- gemshornmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-445-gemshornmaker-01/gemshornmaker-01.html
+- gemshornmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-445-gemshornmaker-01/gemshornmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-445-gemshornmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-445-gemshornmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-445-gemshornmaker-01/feature.png
+- gemshornmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-445-gemshornmaker-01/gemshornmaker-01-all-formats.zip
+
+## The Lirone Maker of Rosemaryford (lironemaker-01)
+- lironemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-446-lironemaker-01/lironemaker-01.epub
+- lironemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-446-lironemaker-01/lironemaker-01.pdf
+- lironemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-446-lironemaker-01/lironemaker-01.html
+- lironemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-446-lironemaker-01/lironemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-446-lironemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-446-lironemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-446-lironemaker-01/feature.png
+- lironemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-446-lironemaker-01/lironemaker-01-all-formats.zip
+
+## The Nyckelharpa Maker of Sageford (nyckelharpamaker-01)
+- nyckelharpamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-447-nyckelharpamaker-01/nyckelharpamaker-01.epub
+- nyckelharpamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-447-nyckelharpamaker-01/nyckelharpamaker-01.pdf
+- nyckelharpamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-447-nyckelharpamaker-01/nyckelharpamaker-01.html
+- nyckelharpamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-447-nyckelharpamaker-01/nyckelharpamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-447-nyckelharpamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-447-nyckelharpamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-447-nyckelharpamaker-01/feature.png
+- nyckelharpamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-447-nyckelharpamaker-01/nyckelharpamaker-01-all-formats.zip
+
+## The Musette Maker of Cowslipford (musettemaker-01)
+- musettemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/musettemaker-01.epub
+- musettemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/musettemaker-01.pdf
+- musettemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/musettemaker-01.html
+- musettemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/musettemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/feature.png
+- musettemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/musettemaker-01-all-formats.zip
+
