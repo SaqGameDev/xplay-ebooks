@@ -4597,3 +4597,86 @@
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/feature.png
 - musettemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-448-musettemaker-01/musettemaker-01-all-formats.zip
 
+
+# Download links — XPlay eBooks, Batch 57
+
+## The Sackbut Maker of Harebellford (sackbutmaker-01)
+- sackbutmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-449-sackbutmaker-01/sackbutmaker-01.epub
+- sackbutmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-449-sackbutmaker-01/sackbutmaker-01.pdf
+- sackbutmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-449-sackbutmaker-01/sackbutmaker-01.html
+- sackbutmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-449-sackbutmaker-01/sackbutmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-449-sackbutmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-449-sackbutmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-449-sackbutmaker-01/feature.png
+- sackbutmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-449-sackbutmaker-01/sackbutmaker-01-all-formats.zip
+
+## The Cornett Maker of Meadowsweetford (cornettmaker-01)
+- cornettmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-450-cornettmaker-01/cornettmaker-01.epub
+- cornettmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-450-cornettmaker-01/cornettmaker-01.pdf
+- cornettmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-450-cornettmaker-01/cornettmaker-01.html
+- cornettmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-450-cornettmaker-01/cornettmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-450-cornettmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-450-cornettmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-450-cornettmaker-01/feature.png
+- cornettmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-450-cornettmaker-01/cornettmaker-01-all-formats.zip
+
+## The Cromorne Maker of Yarrowford (cromornemaker-01)
+- cromornemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-451-cromornemaker-01/cromornemaker-01.epub
+- cromornemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-451-cromornemaker-01/cromornemaker-01.pdf
+- cromornemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-451-cromornemaker-01/cromornemaker-01.html
+- cromornemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-451-cromornemaker-01/cromornemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-451-cromornemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-451-cromornemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-451-cromornemaker-01/feature.png
+- cromornemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-451-cromornemaker-01/cromornemaker-01-all-formats.zip
+
+## The Clavichord Maker of Valerianford (clavichordmaker-01)
+- clavichordmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-452-clavichordmaker-01/clavichordmaker-01.epub
+- clavichordmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-452-clavichordmaker-01/clavichordmaker-01.pdf
+- clavichordmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-452-clavichordmaker-01/clavichordmaker-01.html
+- clavichordmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-452-clavichordmaker-01/clavichordmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-452-clavichordmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-452-clavichordmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-452-clavichordmaker-01/feature.png
+- clavichordmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-452-clavichordmaker-01/clavichordmaker-01-all-formats.zip
+
+## The Gittern Maker of Camomileford (gitternmaker-01)
+- gitternmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-453-gitternmaker-01/gitternmaker-01.epub
+- gitternmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-453-gitternmaker-01/gitternmaker-01.pdf
+- gitternmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-453-gitternmaker-01/gitternmaker-01.html
+- gitternmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-453-gitternmaker-01/gitternmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-453-gitternmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-453-gitternmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-453-gitternmaker-01/feature.png
+- gitternmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-453-gitternmaker-01/gitternmaker-01-all-formats.zip
+
+## The Citole Maker of Tansyford (citolemaker-01)
+- citolemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-454-citolemaker-01/citolemaker-01.epub
+- citolemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-454-citolemaker-01/citolemaker-01.pdf
+- citolemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-454-citolemaker-01/citolemaker-01.html
+- citolemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-454-citolemaker-01/citolemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-454-citolemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-454-citolemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-454-citolemaker-01/feature.png
+- citolemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-454-citolemaker-01/citolemaker-01-all-formats.zip
+
+## The Cimbalom Maker of Vervainford (cimbalomaker-01)
+- cimbalomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-455-cimbalomaker-01/cimbalomaker-01.epub
+- cimbalomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-455-cimbalomaker-01/cimbalomaker-01.pdf
+- cimbalomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-455-cimbalomaker-01/cimbalomaker-01.html
+- cimbalomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-455-cimbalomaker-01/cimbalomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-455-cimbalomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-455-cimbalomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-455-cimbalomaker-01/feature.png
+- cimbalomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-455-cimbalomaker-01/cimbalomaker-01-all-formats.zip
+
+## The Bandoneon Maker of Betonyford (bandoneonmaker-01)
+- bandoneonmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-456-bandoneonmaker-01/bandoneonmaker-01.epub
+- bandoneonmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-456-bandoneonmaker-01/bandoneonmaker-01.pdf
+- bandoneonmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-456-bandoneonmaker-01/bandoneonmaker-01.html
+- bandoneonmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-456-bandoneonmaker-01/bandoneonmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-456-bandoneonmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-456-bandoneonmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-456-bandoneonmaker-01/feature.png
+- bandoneonmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-456-bandoneonmaker-01/bandoneonmaker-01-all-formats.zip
+
