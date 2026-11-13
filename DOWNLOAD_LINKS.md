@@ -5510,3 +5510,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-528-tamborimmaker-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-528-tamborimmaker-01/feature.png
 - tamborimmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-528-tamborimmaker-01/tamborimmaker-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 67
+
+## The Atabaque Maker of Hornbeamford (atabaquemaker-01)
+- atabaquemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-529-atabaquemaker-01/atabaquemaker-01.epub
+- atabaquemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-529-atabaquemaker-01/atabaquemaker-01.pdf
+- atabaquemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-529-atabaquemaker-01/atabaquemaker-01.html
+- atabaquemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-529-atabaquemaker-01/atabaquemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-529-atabaquemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-529-atabaquemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-529-atabaquemaker-01/feature.png
+- atabaquemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-529-atabaquemaker-01/atabaquemaker-01-all-formats.zip
+
+## The Jarana Maker of Myrtleford (jaranamaker-01)
+- jaranamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-530-jaranamaker-01/jaranamaker-01.epub
+- jaranamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-530-jaranamaker-01/jaranamaker-01.pdf
+- jaranamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-530-jaranamaker-01/jaranamaker-01.html
+- jaranamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-530-jaranamaker-01/jaranamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-530-jaranamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-530-jaranamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-530-jaranamaker-01/feature.png
+- jaranamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-530-jaranamaker-01/jaranamaker-01-all-formats.zip
+
+## The Requinto Maker of Cypressford (requintomaker-01)
+- requintomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-531-requintomaker-01/requintomaker-01.epub
+- requintomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-531-requintomaker-01/requintomaker-01.pdf
+- requintomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-531-requintomaker-01/requintomaker-01.html
+- requintomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-531-requintomaker-01/requintomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-531-requintomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-531-requintomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-531-requintomaker-01/feature.png
+- requintomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-531-requintomaker-01/requintomaker-01-all-formats.zip
+
+## The Guitarrón Maker of Pineford (guitarronmaker-01)
+- guitarronmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-532-guitarronmaker-01/guitarronmaker-01.epub
+- guitarronmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-532-guitarronmaker-01/guitarronmaker-01.pdf
+- guitarronmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-532-guitarronmaker-01/guitarronmaker-01.html
+- guitarronmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-532-guitarronmaker-01/guitarronmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-532-guitarronmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-532-guitarronmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-532-guitarronmaker-01/feature.png
+- guitarronmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-532-guitarronmaker-01/guitarronmaker-01-all-formats.zip
+
+## The Zampoña Maker of Heathford (zamponamaker-01)
+- zamponamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-533-zamponamaker-01/zamponamaker-01.epub
+- zamponamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-533-zamponamaker-01/zamponamaker-01.pdf
+- zamponamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-533-zamponamaker-01/zamponamaker-01.html
+- zamponamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-533-zamponamaker-01/zamponamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-533-zamponamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-533-zamponamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-533-zamponamaker-01/feature.png
+- zamponamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-533-zamponamaker-01/zamponamaker-01-all-formats.zip
+
+## The Ronroco Maker of Firford (ronrocomaker-01)
+- ronrocomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-534-ronrocomaker-01/ronrocomaker-01.epub
+- ronrocomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-534-ronrocomaker-01/ronrocomaker-01.pdf
+- ronrocomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-534-ronrocomaker-01/ronrocomaker-01.html
+- ronrocomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-534-ronrocomaker-01/ronrocomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-534-ronrocomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-534-ronrocomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-534-ronrocomaker-01/feature.png
+- ronrocomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-534-ronrocomaker-01/ronrocomaker-01-all-formats.zip
+
+## The Bombo Maker of Larchford (bombomaker-01)
+- bombomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-535-bombomaker-01/bombomaker-01.epub
+- bombomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-535-bombomaker-01/bombomaker-01.pdf
+- bombomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-535-bombomaker-01/bombomaker-01.html
+- bombomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-535-bombomaker-01/bombomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-535-bombomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-535-bombomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-535-bombomaker-01/feature.png
+- bombomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-535-bombomaker-01/bombomaker-01-all-formats.zip
+
+## The Curtal Maker of Walnutford (curtalmaker-01)
+- curtalmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/curtalmaker-01.epub
+- curtalmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/curtalmaker-01.pdf
+- curtalmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/curtalmaker-01.html
+- curtalmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/curtalmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/feature.png
+- curtalmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/curtalmaker-01-all-formats.zip
