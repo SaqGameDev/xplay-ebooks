@@ -5095,3 +5095,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/feature.png
 - kobyzmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/kobyzmaker-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 62
+
+## The Shehnai Maker of Cilantroford (shehnaimaker-01)
+- shehnaimaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-489-shehnaimaker-01/shehnaimaker-01.epub
+- shehnaimaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-489-shehnaimaker-01/shehnaimaker-01.pdf
+- shehnaimaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-489-shehnaimaker-01/shehnaimaker-01.html
+- shehnaimaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-489-shehnaimaker-01/shehnaimaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-489-shehnaimaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-489-shehnaimaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-489-shehnaimaker-01/feature.png
+- shehnaimaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-489-shehnaimaker-01/shehnaimaker-01-all-formats.zip
+
+## The Sarod Maker of Cinnamonford (sarodmaker-01)
+- sarodmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-490-sarodmaker-01/sarodmaker-01.epub
+- sarodmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-490-sarodmaker-01/sarodmaker-01.pdf
+- sarodmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-490-sarodmaker-01/sarodmaker-01.html
+- sarodmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-490-sarodmaker-01/sarodmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-490-sarodmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-490-sarodmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-490-sarodmaker-01/feature.png
+- sarodmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-490-sarodmaker-01/sarodmaker-01-all-formats.zip
+
+## The Kamancheh Maker of Cuminford (kamanchehmaker-01)
+- kamanchehmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-491-kamanchehmaker-01/kamanchehmaker-01.epub
+- kamanchehmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-491-kamanchehmaker-01/kamanchehmaker-01.pdf
+- kamanchehmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-491-kamanchehmaker-01/kamanchehmaker-01.html
+- kamanchehmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-491-kamanchehmaker-01/kamanchehmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-491-kamanchehmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-491-kamanchehmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-491-kamanchehmaker-01/feature.png
+- kamanchehmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-491-kamanchehmaker-01/kamanchehmaker-01-all-formats.zip
+
+## The Tanpura Maker of Fenugreekford (tanpuramaker-01)
+- tanpuramaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-492-tanpuramaker-01/tanpuramaker-01.epub
+- tanpuramaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-492-tanpuramaker-01/tanpuramaker-01.pdf
+- tanpuramaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-492-tanpuramaker-01/tanpuramaker-01.html
+- tanpuramaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-492-tanpuramaker-01/tanpuramaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-492-tanpuramaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-492-tanpuramaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-492-tanpuramaker-01/feature.png
+- tanpuramaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-492-tanpuramaker-01/tanpuramaker-01-all-formats.zip
+
+## The Bansuri Maker of Lemongrassford (bansurimaker-01)
+- bansurimaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-493-bansurimaker-01/bansurimaker-01.epub
+- bansurimaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-493-bansurimaker-01/bansurimaker-01.pdf
+- bansurimaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-493-bansurimaker-01/bansurimaker-01.html
+- bansurimaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-493-bansurimaker-01/bansurimaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-493-bansurimaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-493-bansurimaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-493-bansurimaker-01/feature.png
+- bansurimaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-493-bansurimaker-01/bansurimaker-01-all-formats.zip
+
+## The Dholak Maker of Licoriceford (dholakmaker-01)
+- dholakmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-494-dholakmaker-01/dholakmaker-01.epub
+- dholakmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-494-dholakmaker-01/dholakmaker-01.pdf
+- dholakmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-494-dholakmaker-01/dholakmaker-01.html
+- dholakmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-494-dholakmaker-01/dholakmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-494-dholakmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-494-dholakmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-494-dholakmaker-01/feature.png
+- dholakmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-494-dholakmaker-01/dholakmaker-01-all-formats.zip
+
+## The Esraj Maker of Nutmegford (esrajmaker-01)
+- esrajmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-495-esrajmaker-01/esrajmaker-01.epub
+- esrajmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-495-esrajmaker-01/esrajmaker-01.pdf
+- esrajmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-495-esrajmaker-01/esrajmaker-01.html
+- esrajmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-495-esrajmaker-01/esrajmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-495-esrajmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-495-esrajmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-495-esrajmaker-01/feature.png
+- esrajmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-495-esrajmaker-01/esrajmaker-01-all-formats.zip
+
+## The Kobyz Maker of Oreganoford (kobyzmaker-01)
+- kobyzmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/kobyzmaker-01.epub
+- kobyzmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/kobyzmaker-01.pdf
+- kobyzmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/kobyzmaker-01.html
+- kobyzmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/kobyzmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/feature.png
+- kobyzmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/kobyzmaker-01-all-formats.zip
