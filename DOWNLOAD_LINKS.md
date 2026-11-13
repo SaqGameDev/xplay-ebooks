@@ -5178,3 +5178,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/feature.png
 - kobyzmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-496-kobyzmaker-01/kobyzmaker-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 63
+
+## The Dombra Maker of Paprikaford (dombramaker-01)
+- dombramaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-497-dombramaker-01/dombramaker-01.epub
+- dombramaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-497-dombramaker-01/dombramaker-01.pdf
+- dombramaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-497-dombramaker-01/dombramaker-01.html
+- dombramaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-497-dombramaker-01/dombramaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-497-dombramaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-497-dombramaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-497-dombramaker-01/feature.png
+- dombramaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-497-dombramaker-01/dombramaker-01-all-formats.zip
+
+## The Komuz Maker of Parsleyford (komuzmaker-01)
+- komuzmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-498-komuzmaker-01/komuzmaker-01.epub
+- komuzmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-498-komuzmaker-01/komuzmaker-01.pdf
+- komuzmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-498-komuzmaker-01/komuzmaker-01.html
+- komuzmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-498-komuzmaker-01/komuzmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-498-komuzmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-498-komuzmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-498-komuzmaker-01/feature.png
+- komuzmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-498-komuzmaker-01/komuzmaker-01-all-formats.zip
+
+## The Dutar Maker of Peppermintford (dutarmaker-01)
+- dutarmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-499-dutarmaker-01/dutarmaker-01.epub
+- dutarmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-499-dutarmaker-01/dutarmaker-01.pdf
+- dutarmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-499-dutarmaker-01/dutarmaker-01.html
+- dutarmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-499-dutarmaker-01/dutarmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-499-dutarmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-499-dutarmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-499-dutarmaker-01/feature.png
+- dutarmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-499-dutarmaker-01/dutarmaker-01-all-formats.zip
+
+## The Rubab Maker of Rueford (rubabmaker-01)
+- rubabmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-500-rubabmaker-01/rubabmaker-01.epub
+- rubabmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-500-rubabmaker-01/rubabmaker-01.pdf
+- rubabmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-500-rubabmaker-01/rubabmaker-01.html
+- rubabmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-500-rubabmaker-01/rubabmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-500-rubabmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-500-rubabmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-500-rubabmaker-01/feature.png
+- rubabmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-500-rubabmaker-01/rubabmaker-01-all-formats.zip
+
+## The Balaban Maker of Saffronford (balabanmaker-01)
+- balabanmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-501-balabanmaker-01/balabanmaker-01.epub
+- balabanmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-501-balabanmaker-01/balabanmaker-01.pdf
+- balabanmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-501-balabanmaker-01/balabanmaker-01.html
+- balabanmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-501-balabanmaker-01/balabanmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-501-balabanmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-501-balabanmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-501-balabanmaker-01/feature.png
+- balabanmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-501-balabanmaker-01/balabanmaker-01-all-formats.zip
+
+## The Davul Maker of Spearmintford (davulmaker-01)
+- davulmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-502-davulmaker-01/davulmaker-01.epub
+- davulmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-502-davulmaker-01/davulmaker-01.pdf
+- davulmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-502-davulmaker-01/davulmaker-01.html
+- davulmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-502-davulmaker-01/davulmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-502-davulmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-502-davulmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-502-davulmaker-01/feature.png
+- davulmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-502-davulmaker-01/davulmaker-01-all-formats.zip
+
+## The Darbuka Maker of Turmericford (darbukamaker-01)
+- darbukamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-503-darbukamaker-01/darbukamaker-01.epub
+- darbukamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-503-darbukamaker-01/darbukamaker-01.pdf
+- darbukamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-503-darbukamaker-01/darbukamaker-01.html
+- darbukamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-503-darbukamaker-01/darbukamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-503-darbukamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-503-darbukamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-503-darbukamaker-01/feature.png
+- darbukamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-503-darbukamaker-01/darbukamaker-01-all-formats.zip
+
+## The Zampogna Maker of Wintergreenford (zampognamaker-01)
+- zampognamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/zampognamaker-01.epub
+- zampognamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/zampognamaker-01.pdf
+- zampognamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/zampognamaker-01.html
+- zampognamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/zampognamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/feature.png
+- zampognamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/zampognamaker-01-all-formats.zip
