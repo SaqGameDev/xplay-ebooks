@@ -5344,3 +5344,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/feature.png
 - kantelemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/kantelemaker-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 65
+
+## The Khartal Maker of Safflowerford (khartalmaker-01)
+- khartalmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-513-khartalmaker-01/khartalmaker-01.epub
+- khartalmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-513-khartalmaker-01/khartalmaker-01.pdf
+- khartalmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-513-khartalmaker-01/khartalmaker-01.html
+- khartalmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-513-khartalmaker-01/khartalmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-513-khartalmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-513-khartalmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-513-khartalmaker-01/feature.png
+- khartalmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-513-khartalmaker-01/khartalmaker-01-all-formats.zip
+
+## The Manjira Maker of Wormwoodford (manjiramaker-01)
+- manjiramaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-514-manjiramaker-01/manjiramaker-01.epub
+- manjiramaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-514-manjiramaker-01/manjiramaker-01.pdf
+- manjiramaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-514-manjiramaker-01/manjiramaker-01.html
+- manjiramaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-514-manjiramaker-01/manjiramaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-514-manjiramaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-514-manjiramaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-514-manjiramaker-01/feature.png
+- manjiramaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-514-manjiramaker-01/manjiramaker-01-all-formats.zip
+
+## The Tumbi Maker of Dandelionford (tumbimaker-01)
+- tumbimaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-515-tumbimaker-01/tumbimaker-01.epub
+- tumbimaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-515-tumbimaker-01/tumbimaker-01.pdf
+- tumbimaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-515-tumbimaker-01/tumbimaker-01.html
+- tumbimaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-515-tumbimaker-01/tumbimaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-515-tumbimaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-515-tumbimaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-515-tumbimaker-01/feature.png
+- tumbimaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-515-tumbimaker-01/tumbimaker-01-all-formats.zip
+
+## The Algoza Maker of Milletford (algozamaker-01)
+- algozamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-516-algozamaker-01/algozamaker-01.epub
+- algozamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-516-algozamaker-01/algozamaker-01.pdf
+- algozamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-516-algozamaker-01/algozamaker-01.html
+- algozamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-516-algozamaker-01/algozamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-516-algozamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-516-algozamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-516-algozamaker-01/feature.png
+- algozamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-516-algozamaker-01/algozamaker-01-all-formats.zip
+
+## The Pungi Maker of Costmaryford (pungimaker-01)
+- pungimaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-517-pungimaker-01/pungimaker-01.epub
+- pungimaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-517-pungimaker-01/pungimaker-01.pdf
+- pungimaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-517-pungimaker-01/pungimaker-01.html
+- pungimaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-517-pungimaker-01/pungimaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-517-pungimaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-517-pungimaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-517-pungimaker-01/feature.png
+- pungimaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-517-pungimaker-01/pungimaker-01-all-formats.zip
+
+## The Langeleik Maker of Mallowford (langeleikmaker-01)
+- langeleikmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-518-langeleikmaker-01/langeleikmaker-01.epub
+- langeleikmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-518-langeleikmaker-01/langeleikmaker-01.pdf
+- langeleikmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-518-langeleikmaker-01/langeleikmaker-01.html
+- langeleikmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-518-langeleikmaker-01/langeleikmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-518-langeleikmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-518-langeleikmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-518-langeleikmaker-01/feature.png
+- langeleikmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-518-langeleikmaker-01/langeleikmaker-01-all-formats.zip
+
+## The Conga Maker of Hollyhockford (congamaker-01)
+- congamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-519-congamaker-01/congamaker-01.epub
+- congamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-519-congamaker-01/congamaker-01.pdf
+- congamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-519-congamaker-01/congamaker-01.html
+- congamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-519-congamaker-01/congamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-519-congamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-519-congamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-519-congamaker-01/feature.png
+- congamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-519-congamaker-01/congamaker-01-all-formats.zip
+
+## The Bongo Maker of Lupinford (bongomaker-01)
+- bongomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-520-bongomaker-01/bongomaker-01.epub
+- bongomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-520-bongomaker-01/bongomaker-01.pdf
+- bongomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-520-bongomaker-01/bongomaker-01.html
+- bongomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-520-bongomaker-01/bongomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-520-bongomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-520-bongomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-520-bongomaker-01/feature.png
+- bongomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-520-bongomaker-01/bongomaker-01-all-formats.zip
