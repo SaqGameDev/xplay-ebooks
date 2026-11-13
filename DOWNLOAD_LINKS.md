@@ -5759,3 +5759,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-552-banduramaker-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-552-banduramaker-01/feature.png
 - banduramaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-552-banduramaker-01/banduramaker-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 70
+
+## The Kobza Maker of Camelliaford (kobzamaker-01)
+- kobzamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-553-kobzamaker-01/kobzamaker-01.epub
+- kobzamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-553-kobzamaker-01/kobzamaker-01.pdf
+- kobzamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-553-kobzamaker-01/kobzamaker-01.html
+- kobzamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-553-kobzamaker-01/kobzamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-553-kobzamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-553-kobzamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-553-kobzamaker-01/feature.png
+- kobzamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-553-kobzamaker-01/kobzamaker-01-all-formats.zip
+
+## The Tambura Maker of Azaleaford (tamburamaker-01)
+- tamburamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-554-tamburamaker-01/tamburamaker-01.epub
+- tamburamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-554-tamburamaker-01/tamburamaker-01.pdf
+- tamburamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-554-tamburamaker-01/tamburamaker-01.html
+- tamburamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-554-tamburamaker-01/tamburamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-554-tamburamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-554-tamburamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-554-tamburamaker-01/feature.png
+- tamburamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-554-tamburamaker-01/tamburamaker-01-all-formats.zip
+
+## The Biwa Maker of Wisteriaford (biwamaker-01)
+- biwamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-555-biwamaker-01/biwamaker-01.epub
+- biwamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-555-biwamaker-01/biwamaker-01.pdf
+- biwamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-555-biwamaker-01/biwamaker-01.html
+- biwamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-555-biwamaker-01/biwamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-555-biwamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-555-biwamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-555-biwamaker-01/feature.png
+- biwamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-555-biwamaker-01/biwamaker-01-all-formats.zip
+
+## The Guzheng Maker of Hydrangeaford (guzhengmaker-01)
+- guzhengmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-556-guzhengmaker-01/guzhengmaker-01.epub
+- guzhengmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-556-guzhengmaker-01/guzhengmaker-01.pdf
+- guzhengmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-556-guzhengmaker-01/guzhengmaker-01.html
+- guzhengmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-556-guzhengmaker-01/guzhengmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-556-guzhengmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-556-guzhengmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-556-guzhengmaker-01/feature.png
+- guzhengmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-556-guzhengmaker-01/guzhengmaker-01-all-formats.zip
+
+## The Yangqin Maker of Peonyford (yangqinmaker-01)
+- yangqinmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-557-yangqinmaker-01/yangqinmaker-01.epub
+- yangqinmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-557-yangqinmaker-01/yangqinmaker-01.pdf
+- yangqinmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-557-yangqinmaker-01/yangqinmaker-01.html
+- yangqinmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-557-yangqinmaker-01/yangqinmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-557-yangqinmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-557-yangqinmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-557-yangqinmaker-01/feature.png
+- yangqinmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-557-yangqinmaker-01/yangqinmaker-01-all-formats.zip
+
+## The Dilruba Maker of Irisford (dilrubamaker-01)
+- dilrubamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-558-dilrubamaker-01/dilrubamaker-01.epub
+- dilrubamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-558-dilrubamaker-01/dilrubamaker-01.pdf
+- dilrubamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-558-dilrubamaker-01/dilrubamaker-01.html
+- dilrubamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-558-dilrubamaker-01/dilrubamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-558-dilrubamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-558-dilrubamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-558-dilrubamaker-01/feature.png
+- dilrubamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-558-dilrubamaker-01/dilrubamaker-01-all-formats.zip
+
+## The Flugelhorn Maker of Violetford (flugelhornmaker-01)
+- flugelhornmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-559-flugelhornmaker-01/flugelhornmaker-01.epub
+- flugelhornmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-559-flugelhornmaker-01/flugelhornmaker-01.pdf
+- flugelhornmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-559-flugelhornmaker-01/flugelhornmaker-01.html
+- flugelhornmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-559-flugelhornmaker-01/flugelhornmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-559-flugelhornmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-559-flugelhornmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-559-flugelhornmaker-01/feature.png
+- flugelhornmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-559-flugelhornmaker-01/flugelhornmaker-01-all-formats.zip
+
+## The Contrabassoon Maker of Daisyford (contrabassoonmaker-01)
+- contrabassoonmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/contrabassoonmaker-01.epub
+- contrabassoonmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/contrabassoonmaker-01.pdf
+- contrabassoonmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/contrabassoonmaker-01.html
+- contrabassoonmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/contrabassoonmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/feature.png
+- contrabassoonmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/contrabassoonmaker-01-all-formats.zip
