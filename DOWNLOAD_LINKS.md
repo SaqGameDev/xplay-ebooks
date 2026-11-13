@@ -5261,3 +5261,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/feature.png
 - zampognamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-504-zampognamaker-01/zampognamaker-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 64
+
+## The Gaida Maker of Gingerford (gaidamaker-01)
+- gaidamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-505-gaidamaker-01/gaidamaker-01.epub
+- gaidamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-505-gaidamaker-01/gaidamaker-01.pdf
+- gaidamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-505-gaidamaker-01/gaidamaker-01.html
+- gaidamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-505-gaidamaker-01/gaidamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-505-gaidamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-505-gaidamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-505-gaidamaker-01/feature.png
+- gaidamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-505-gaidamaker-01/gaidamaker-01-all-formats.zip
+
+## The Ghatam Maker of Vanillaford (ghatammaker-01)
+- ghatammaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-506-ghatammaker-01/ghatammaker-01.epub
+- ghatammaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-506-ghatammaker-01/ghatammaker-01.pdf
+- ghatammaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-506-ghatammaker-01/ghatammaker-01.html
+- ghatammaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-506-ghatammaker-01/ghatammaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-506-ghatammaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-506-ghatammaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-506-ghatammaker-01/feature.png
+- ghatammaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-506-ghatammaker-01/ghatammaker-01-all-formats.zip
+
+## The Kanjira Maker of Mustardford (kanjiramaker-01)
+- kanjiramaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-507-kanjiramaker-01/kanjiramaker-01.epub
+- kanjiramaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-507-kanjiramaker-01/kanjiramaker-01.pdf
+- kanjiramaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-507-kanjiramaker-01/kanjiramaker-01.html
+- kanjiramaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-507-kanjiramaker-01/kanjiramaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-507-kanjiramaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-507-kanjiramaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-507-kanjiramaker-01/feature.png
+- kanjiramaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-507-kanjiramaker-01/kanjiramaker-01-all-formats.zip
+
+## The Mridangam Maker of Verbenaford (mridangammaker-01)
+- mridangammaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-508-mridangammaker-01/mridangammaker-01.epub
+- mridangammaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-508-mridangammaker-01/mridangammaker-01.pdf
+- mridangammaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-508-mridangammaker-01/mridangammaker-01.html
+- mridangammaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-508-mridangammaker-01/mridangammaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-508-mridangammaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-508-mridangammaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-508-mridangammaker-01/feature.png
+- mridangammaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-508-mridangammaker-01/mridangammaker-01-all-formats.zip
+
+## The Ektara Maker of Poppyford (ektaramaker-01)
+- ektaramaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-509-ektaramaker-01/ektaramaker-01.epub
+- ektaramaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-509-ektaramaker-01/ektaramaker-01.pdf
+- ektaramaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-509-ektaramaker-01/ektaramaker-01.html
+- ektaramaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-509-ektaramaker-01/ektaramaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-509-ektaramaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-509-ektaramaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-509-ektaramaker-01/feature.png
+- ektaramaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-509-ektaramaker-01/ektaramaker-01-all-formats.zip
+
+## The Dotara Maker of Sesameford (dotaramaker-01)
+- dotaramaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-510-dotaramaker-01/dotaramaker-01.epub
+- dotaramaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-510-dotaramaker-01/dotaramaker-01.pdf
+- dotaramaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-510-dotaramaker-01/dotaramaker-01.html
+- dotaramaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-510-dotaramaker-01/dotaramaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-510-dotaramaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-510-dotaramaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-510-dotaramaker-01/feature.png
+- dotaramaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-510-dotaramaker-01/dotaramaker-01-all-formats.zip
+
+## The Sarinda Maker of Allspiceford (sarindamaker-01)
+- sarindamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-511-sarindamaker-01/sarindamaker-01.epub
+- sarindamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-511-sarindamaker-01/sarindamaker-01.pdf
+- sarindamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-511-sarindamaker-01/sarindamaker-01.html
+- sarindamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-511-sarindamaker-01/sarindamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-511-sarindamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-511-sarindamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-511-sarindamaker-01/feature.png
+- sarindamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-511-sarindamaker-01/sarindamaker-01-all-formats.zip
+
+## The Kantele Maker of Wasabiford (kantelemaker-01)
+- kantelemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/kantelemaker-01.epub
+- kantelemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/kantelemaker-01.pdf
+- kantelemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/kantelemaker-01.html
+- kantelemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/kantelemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/feature.png
+- kantelemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-512-kantelemaker-01/kantelemaker-01-all-formats.zip
