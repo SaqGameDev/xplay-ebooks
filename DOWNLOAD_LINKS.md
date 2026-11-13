@@ -5593,3 +5593,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/feature.png
 - curtalmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-536-curtalmaker-01/curtalmaker-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 68
+
+## The Rauschpfeife Maker of Cherryford (rauschpfeifemaker-01)
+- rauschpfeifemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-537-rauschpfeifemaker-01/rauschpfeifemaker-01.epub
+- rauschpfeifemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-537-rauschpfeifemaker-01/rauschpfeifemaker-01.pdf
+- rauschpfeifemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-537-rauschpfeifemaker-01/rauschpfeifemaker-01.html
+- rauschpfeifemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-537-rauschpfeifemaker-01/rauschpfeifemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-537-rauschpfeifemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-537-rauschpfeifemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-537-rauschpfeifemaker-01/feature.png
+- rauschpfeifemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-537-rauschpfeifemaker-01/rauschpfeifemaker-01-all-formats.zip
+
+## The Bombardon Maker of Pearford (bombardonmaker-01)
+- bombardonmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-538-bombardonmaker-01/bombardonmaker-01.epub
+- bombardonmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-538-bombardonmaker-01/bombardonmaker-01.pdf
+- bombardonmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-538-bombardonmaker-01/bombardonmaker-01.html
+- bombardonmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-538-bombardonmaker-01/bombardonmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-538-bombardonmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-538-bombardonmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-538-bombardonmaker-01/feature.png
+- bombardonmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-538-bombardonmaker-01/bombardonmaker-01-all-formats.zip
+
+## The Helicon Maker of Figford (heliconmaker-01)
+- heliconmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-539-heliconmaker-01/heliconmaker-01.epub
+- heliconmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-539-heliconmaker-01/heliconmaker-01.pdf
+- heliconmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-539-heliconmaker-01/heliconmaker-01.html
+- heliconmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-539-heliconmaker-01/heliconmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-539-heliconmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-539-heliconmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-539-heliconmaker-01/feature.png
+- heliconmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-539-heliconmaker-01/heliconmaker-01-all-formats.zip
+
+## The Sousaphone Maker of Oliveford (sousaphonemaker-01)
+- sousaphonemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-540-sousaphonemaker-01/sousaphonemaker-01.epub
+- sousaphonemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-540-sousaphonemaker-01/sousaphonemaker-01.pdf
+- sousaphonemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-540-sousaphonemaker-01/sousaphonemaker-01.html
+- sousaphonemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-540-sousaphonemaker-01/sousaphonemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-540-sousaphonemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-540-sousaphonemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-540-sousaphonemaker-01/feature.png
+- sousaphonemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-540-sousaphonemaker-01/sousaphonemaker-01-all-formats.zip
+
+## The Cornetto Maker of Palmford (cornettomaker-01)
+- cornettomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-541-cornettomaker-01/cornettomaker-01.epub
+- cornettomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-541-cornettomaker-01/cornettomaker-01.pdf
+- cornettomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-541-cornettomaker-01/cornettomaker-01.html
+- cornettomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-541-cornettomaker-01/cornettomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-541-cornettomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-541-cornettomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-541-cornettomaker-01/feature.png
+- cornettomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-541-cornettomaker-01/cornettomaker-01-all-formats.zip
+
+## The Melodica Maker of Acaciaford (melodicamaker-01)
+- melodicamaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-542-melodicamaker-01/melodicamaker-01.epub
+- melodicamaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-542-melodicamaker-01/melodicamaker-01.pdf
+- melodicamaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-542-melodicamaker-01/melodicamaker-01.html
+- melodicamaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-542-melodicamaker-01/melodicamaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-542-melodicamaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-542-melodicamaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-542-melodicamaker-01/feature.png
+- melodicamaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-542-melodicamaker-01/melodicamaker-01-all-formats.zip
+
+## The Autoharp Maker of Teakford (autoharpmaker-01)
+- autoharpmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-543-autoharpmaker-01/autoharpmaker-01.epub
+- autoharpmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-543-autoharpmaker-01/autoharpmaker-01.pdf
+- autoharpmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-543-autoharpmaker-01/autoharpmaker-01.html
+- autoharpmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-543-autoharpmaker-01/autoharpmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-543-autoharpmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-543-autoharpmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-543-autoharpmaker-01/feature.png
+- autoharpmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-543-autoharpmaker-01/autoharpmaker-01-all-formats.zip
+
+## The Kortholt Maker of Mahoganyford (kortholtmaker-01)
+- kortholtmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-544-kortholtmaker-01/kortholtmaker-01.epub
+- kortholtmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-544-kortholtmaker-01/kortholtmaker-01.pdf
+- kortholtmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-544-kortholtmaker-01/kortholtmaker-01.html
+- kortholtmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-544-kortholtmaker-01/kortholtmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-544-kortholtmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-544-kortholtmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-544-kortholtmaker-01/feature.png
+- kortholtmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-544-kortholtmaker-01/kortholtmaker-01-all-formats.zip
