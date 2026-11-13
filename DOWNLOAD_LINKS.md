@@ -5842,3 +5842,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/feature.png
 - contrabassoonmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-560-contrabassoonmaker-01/contrabassoonmaker-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 71
+
+## The Piccolo Maker of Orchidford (piccolomaker-01)
+- piccolomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-561-piccolomaker-01/piccolomaker-01.epub
+- piccolomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-561-piccolomaker-01/piccolomaker-01.pdf
+- piccolomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-561-piccolomaker-01/piccolomaker-01.html
+- piccolomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-561-piccolomaker-01/piccolomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-561-piccolomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-561-piccolomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-561-piccolomaker-01/feature.png
+- piccolomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-561-piccolomaker-01/piccolomaker-01-all-formats.zip
+
+## The Uilleann Maker of Lotusford (uilleannmaker-01)
+- uilleannmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-562-uilleannmaker-01/uilleannmaker-01.epub
+- uilleannmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-562-uilleannmaker-01/uilleannmaker-01.pdf
+- uilleannmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-562-uilleannmaker-01/uilleannmaker-01.html
+- uilleannmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-562-uilleannmaker-01/uilleannmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-562-uilleannmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-562-uilleannmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-562-uilleannmaker-01/feature.png
+- uilleannmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-562-uilleannmaker-01/uilleannmaker-01-all-formats.zip
+
+## The Ashiko Maker of Honeysuckleford (ashikomaker-01)
+- ashikomaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-563-ashikomaker-01/ashikomaker-01.epub
+- ashikomaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-563-ashikomaker-01/ashikomaker-01.pdf
+- ashikomaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-563-ashikomaker-01/ashikomaker-01.html
+- ashikomaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-563-ashikomaker-01/ashikomaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-563-ashikomaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-563-ashikomaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-563-ashikomaker-01/feature.png
+- ashikomaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-563-ashikomaker-01/ashikomaker-01-all-formats.zip
+
+## The Bullroarer Maker of Sunflowerford (bullroarermaker-01)
+- bullroarermaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-564-bullroarermaker-01/bullroarermaker-01.epub
+- bullroarermaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-564-bullroarermaker-01/bullroarermaker-01.pdf
+- bullroarermaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-564-bullroarermaker-01/bullroarermaker-01.html
+- bullroarermaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-564-bullroarermaker-01/bullroarermaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-564-bullroarermaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-564-bullroarermaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-564-bullroarermaker-01/feature.png
+- bullroarermaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-564-bullroarermaker-01/bullroarermaker-01-all-formats.zip
+
+## The Stylophone Maker of Almondford (stylophonemaker-01)
+- stylophonemaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-565-stylophonemaker-01/stylophonemaker-01.epub
+- stylophonemaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-565-stylophonemaker-01/stylophonemaker-01.pdf
+- stylophonemaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-565-stylophonemaker-01/stylophonemaker-01.html
+- stylophonemaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-565-stylophonemaker-01/stylophonemaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-565-stylophonemaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-565-stylophonemaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-565-stylophonemaker-01/feature.png
+- stylophonemaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-565-stylophonemaker-01/stylophonemaker-01-all-formats.zip
+
+## The Ngoni Maker of Begoniaford (ngonimaker-01)
+- ngonimaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-566-ngonimaker-01/ngonimaker-01.epub
+- ngonimaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-566-ngonimaker-01/ngonimaker-01.pdf
+- ngonimaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-566-ngonimaker-01/ngonimaker-01.html
+- ngonimaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-566-ngonimaker-01/ngonimaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-566-ngonimaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-566-ngonimaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-566-ngonimaker-01/feature.png
+- ngonimaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-566-ngonimaker-01/ngonimaker-01-all-formats.zip
+
+## The Domra Maker of Blackberryford (domramaker-01)
+- domramaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-567-domramaker-01/domramaker-01.epub
+- domramaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-567-domramaker-01/domramaker-01.pdf
+- domramaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-567-domramaker-01/domramaker-01.html
+- domramaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-567-domramaker-01/domramaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-567-domramaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-567-domramaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-567-domramaker-01/feature.png
+- domramaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-567-domramaker-01/domramaker-01-all-formats.zip
+
+## The Bagpipes Maker of Carnationford (bagpipesmaker-01)
+- bagpipesmaker-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-568-bagpipesmaker-01/bagpipesmaker-01.epub
+- bagpipesmaker-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-568-bagpipesmaker-01/bagpipesmaker-01.pdf
+- bagpipesmaker-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-568-bagpipesmaker-01/bagpipesmaker-01.html
+- bagpipesmaker-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-568-bagpipesmaker-01/bagpipesmaker-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-568-bagpipesmaker-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-568-bagpipesmaker-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-568-bagpipesmaker-01/feature.png
+- bagpipesmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-568-bagpipesmaker-01/bagpipesmaker-01-all-formats.zip
