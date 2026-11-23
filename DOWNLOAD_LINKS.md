@@ -6008,3 +6008,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-576-surbaharmaker-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-576-surbaharmaker-01/feature.png
 - surbaharmaker-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-576-surbaharmaker-01/surbaharmaker-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 73
+
+## The Tea Shop at the Edge of the Map (cozyfantasy-01)
+- cozyfantasy-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-577-cozyfantasy-01/cozyfantasy-01.epub
+- cozyfantasy-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-577-cozyfantasy-01/cozyfantasy-01.pdf
+- cozyfantasy-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-577-cozyfantasy-01/cozyfantasy-01.html
+- cozyfantasy-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-577-cozyfantasy-01/cozyfantasy-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-577-cozyfantasy-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-577-cozyfantasy-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-577-cozyfantasy-01/feature.png
+- cozyfantasy-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-577-cozyfantasy-01/cozyfantasy-01-all-formats.zip
+
+## The Lighthouse Keeper's Second Chance (smalltownromance-01)
+- smalltownromance-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-578-smalltownromance-01/smalltownromance-01.epub
+- smalltownromance-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-578-smalltownromance-01/smalltownromance-01.pdf
+- smalltownromance-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-578-smalltownromance-01/smalltownromance-01.html
+- smalltownromance-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-578-smalltownromance-01/smalltownromance-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-578-smalltownromance-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-578-smalltownromance-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-578-smalltownromance-01/feature.png
+- smalltownromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-578-smalltownromance-01/smalltownromance-01-all-formats.zip
+
+## Murder at the Bookshop on the Green (bookshopmystery-01)
+- bookshopmystery-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-579-bookshopmystery-01/bookshopmystery-01.epub
+- bookshopmystery-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-579-bookshopmystery-01/bookshopmystery-01.pdf
+- bookshopmystery-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-579-bookshopmystery-01/bookshopmystery-01.html
+- bookshopmystery-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-579-bookshopmystery-01/bookshopmystery-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-579-bookshopmystery-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-579-bookshopmystery-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-579-bookshopmystery-01/feature.png
+- bookshopmystery-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-579-bookshopmystery-01/bookshopmystery-01-all-formats.zip
+
+## The Dragon's Bargain (romantasy-01)
+- romantasy-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-580-romantasy-01/romantasy-01.epub
+- romantasy-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-580-romantasy-01/romantasy-01.pdf
+- romantasy-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-580-romantasy-01/romantasy-01.html
+- romantasy-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-580-romantasy-01/romantasy-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-580-romantasy-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-580-romantasy-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-580-romantasy-01/feature.png
+- romantasy-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-580-romantasy-01/romantasy-01-all-formats.zip
+
+## Snowed In at the Christmas Market (christmasromance-01)
+- christmasromance-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-581-christmasromance-01/christmasromance-01.epub
+- christmasromance-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-581-christmasromance-01/christmasromance-01.pdf
+- christmasromance-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-581-christmasromance-01/christmasromance-01.html
+- christmasromance-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-581-christmasromance-01/christmasromance-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-581-christmasromance-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-581-christmasromance-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-581-christmasromance-01/feature.png
+- christmasromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-581-christmasromance-01/christmasromance-01-all-formats.zip
+
+## The Witch of Belladonna Lane (witchymystery-01)
+- witchymystery-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-582-witchymystery-01/witchymystery-01.epub
+- witchymystery-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-582-witchymystery-01/witchymystery-01.pdf
+- witchymystery-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-582-witchymystery-01/witchymystery-01.html
+- witchymystery-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-582-witchymystery-01/witchymystery-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-582-witchymystery-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-582-witchymystery-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-582-witchymystery-01/feature.png
+- witchymystery-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-582-witchymystery-01/witchymystery-01-all-formats.zip
+
+## The Laird's Runaway Bride (highlandromance-01)
+- highlandromance-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-583-highlandromance-01/highlandromance-01.epub
+- highlandromance-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-583-highlandromance-01/highlandromance-01.pdf
+- highlandromance-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-583-highlandromance-01/highlandromance-01.html
+- highlandromance-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-583-highlandromance-01/highlandromance-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-583-highlandromance-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-583-highlandromance-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-583-highlandromance-01/feature.png
+- highlandromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-583-highlandromance-01/highlandromance-01-all-formats.zip
+
+## A Deal with the Vampire (vampromance-01)
+- vampromance-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/vampromance-01.epub
+- vampromance-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/vampromance-01.pdf
+- vampromance-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/vampromance-01.html
+- vampromance-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/vampromance-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/feature.png
+- vampromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/vampromance-01-all-formats.zip
