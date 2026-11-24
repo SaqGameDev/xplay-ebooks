@@ -6091,3 +6091,86 @@
 - logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/logo.png
 - feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/feature.png
 - vampromance-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-584-vampromance-01/vampromance-01-all-formats.zip
+
+
+# Download links — XPlay eBooks, Batch 74
+
+## The Choir That Saved Christmas (christmaschoir-01)
+- christmaschoir-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-585-christmaschoir-01/christmaschoir-01.epub
+- christmaschoir-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-585-christmaschoir-01/christmaschoir-01.pdf
+- christmaschoir-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-585-christmaschoir-01/christmaschoir-01.html
+- christmaschoir-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-585-christmaschoir-01/christmaschoir-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-585-christmaschoir-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-585-christmaschoir-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-585-christmaschoir-01/feature.png
+- christmaschoir-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-585-christmaschoir-01/christmaschoir-01-all-formats.zip
+
+## The Case of the Missing Christmas Star (christmasmystery-01)
+- christmasmystery-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-586-christmasmystery-01/christmasmystery-01.epub
+- christmasmystery-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-586-christmasmystery-01/christmasmystery-01.pdf
+- christmasmystery-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-586-christmasmystery-01/christmasmystery-01.html
+- christmasmystery-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-586-christmasmystery-01/christmasmystery-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-586-christmasmystery-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-586-christmasmystery-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-586-christmasmystery-01/feature.png
+- christmasmystery-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-586-christmasmystery-01/christmasmystery-01-all-formats.zip
+
+## The Clockwork Christmas (christmasfantasy-01)
+- christmasfantasy-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-587-christmasfantasy-01/christmasfantasy-01.epub
+- christmasfantasy-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-587-christmasfantasy-01/christmasfantasy-01.pdf
+- christmasfantasy-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-587-christmasfantasy-01/christmasfantasy-01.html
+- christmasfantasy-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-587-christmasfantasy-01/christmasfantasy-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-587-christmasfantasy-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-587-christmasfantasy-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-587-christmasfantasy-01/feature.png
+- christmasfantasy-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-587-christmasfantasy-01/christmasfantasy-01-all-formats.zip
+
+## Christmas at the Lantern Inn (christmasinn-01)
+- christmasinn-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-588-christmasinn-01/christmasinn-01.epub
+- christmasinn-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-588-christmasinn-01/christmasinn-01.pdf
+- christmasinn-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-588-christmasinn-01/christmasinn-01.html
+- christmasinn-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-588-christmasinn-01/christmasinn-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-588-christmasinn-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-588-christmasinn-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-588-christmasinn-01/feature.png
+- christmasinn-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-588-christmasinn-01/christmasinn-01-all-formats.zip
+
+## The Christmas Ferry Home (christmasferry-01)
+- christmasferry-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-589-christmasferry-01/christmasferry-01.epub
+- christmasferry-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-589-christmasferry-01/christmasferry-01.pdf
+- christmasferry-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-589-christmasferry-01/christmasferry-01.html
+- christmasferry-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-589-christmasferry-01/christmasferry-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-589-christmasferry-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-589-christmasferry-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-589-christmasferry-01/feature.png
+- christmasferry-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-589-christmasferry-01/christmasferry-01-all-formats.zip
+
+## A Christmas Fete to Remember (christmasfete-01)
+- christmasfete-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-590-christmasfete-01/christmasfete-01.epub
+- christmasfete-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-590-christmasfete-01/christmasfete-01.pdf
+- christmasfete-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-590-christmasfete-01/christmasfete-01.html
+- christmasfete-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-590-christmasfete-01/christmasfete-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-590-christmasfete-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-590-christmasfete-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-590-christmasfete-01/feature.png
+- christmasfete-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-590-christmasfete-01/christmasfete-01-all-formats.zip
+
+## The Star Maker of Wintervale (christmasstar-01)
+- christmasstar-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-591-christmasstar-01/christmasstar-01.epub
+- christmasstar-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-591-christmasstar-01/christmasstar-01.pdf
+- christmasstar-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-591-christmasstar-01/christmasstar-01.html
+- christmasstar-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-591-christmasstar-01/christmasstar-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-591-christmasstar-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-591-christmasstar-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-591-christmasstar-01/feature.png
+- christmasstar-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-591-christmasstar-01/christmasstar-01-all-formats.zip
+
+## The Christmas Bakery on Sugar Lane (christmasbakery-01)
+- christmasbakery-01.epub: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-592-christmasbakery-01/christmasbakery-01.epub
+- christmasbakery-01.pdf: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-592-christmasbakery-01/christmasbakery-01.pdf
+- christmasbakery-01.html: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-592-christmasbakery-01/christmasbakery-01.html
+- christmasbakery-01.txt: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-592-christmasbakery-01/christmasbakery-01.txt
+- cover.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-592-christmasbakery-01/cover.png
+- logo.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-592-christmasbakery-01/logo.png
+- feature.png: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-592-christmasbakery-01/feature.png
+- christmasbakery-01-all-formats.zip: https://github.com/SaqGameDev/xplay-ebooks/releases/download/ebook-592-christmasbakery-01/christmasbakery-01-all-formats.zip
